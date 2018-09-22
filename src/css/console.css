@@ -1,0 +1,111 @@
+/**
+* Copied directly from d&d tools\css for prototype
+*/
+
+/* General stuff */
+
+/* make form elements honor font settings */
+textarea, input, button, select
+{
+	font-family                  : inherit;
+	font-size                    : inherit;
+}
+
+textarea
+{
+  outline                      : none; /* remove glow on focus */
+	resize                       : none;  /* remove resize handle */
+}
+
+/* nabbed from web ui *
+
+//*********************
+ * Window appearance *
+ *********************/
+
+.window
+{
+	position                     : absolute !important; /* prevents being changed to relative by jQuery UI */
+	border                       : 2px groove threedface;
+	background-color             : black;
+	z-index                      : 100;
+	/* default size */
+	width                        : 100%;
+	height                       : 100%;
+}
+
+.window .top
+{
+	height                       : 1.4em;
+	background-color             : tan;
+}
+
+.window .center
+{
+	position                     : absolute;
+	top                          : 1.4em; /* height of .top */
+	bottom                       : 1em;   /* height of .bottom */
+	width                        : 100%;
+	background-color             : rgba(255, 255, 255, 0.1);
+	overflow                     : auto;  /* when contents outgrow the window, add scrollbars */
+}
+
+.window .bottom
+{
+	position                     : absolute;
+	bottom                       : 0;
+	height                       : 1em;
+	width                        : 100%;
+	border-top                   : 1px groove threedface;
+}
+
+.window .bottom .cmdArea
+{
+	background-color             : black;
+	color                        : green;
+	font-family                  : Consolas, Monaco, Courier, Courier New, monospace;
+	font-weight                  : bold;
+	/* hacks for textarea */
+	height                       : 100%;
+	width                        : 90%;
+	padding                      : 0 0 0 1em;
+	font-size                    : small;
+	border                       : none;
+}
+
+.window .bottom .prompt
+{
+	position                     : absolute;
+	height                       : 100%;
+	background-color             : black;
+	color                        : green;
+	font-family                  : Consolas, Monaco, Courier, Courier New, monospace;
+	font-weight                  : bold;
+	font-size                    : small;
+}
+
+.window .top .titlebar
+{
+	padding                      : 0.1em 0.5em;
+	background-color             : blue;
+	color                        : white;
+	font-weight                  : bold;
+	cursor                       : default;
+	font-family                  : Consolas, Monaco, Courier, Courier New, monospace;
+}
+
+.window.console
+{
+	color                        : green;
+	font-family                  : Consolas, Monaco, Courier, Courier New, monospace;
+	font-weight                  : bold;
+	/* default size */
+	width                        : 90%;
+	height                       : 90%;
+}
+
+.window.console .bottom
+{
+	border-top                   : 2px groove green;
+}
+

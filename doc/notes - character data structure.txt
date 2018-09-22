@@ -1,0 +1,443 @@
+[20180417]
+
+This is complex, so I'm keeping my notes in a separate file for quick reference.
+
+(Afternote: this has become about more than just data structure, but also process)
+
+First off, I know I've tackled this question before, and several unversioned designs are floating around. Here's what I found:
+
+  dnd\charactersheets\js\sheet.js
+    Probably the most recent work, related to current TOEE effort (about a month old)
+  dnd\compaigns\toee\session prep\characters.json
+    Looks like an early draft of what I used above - dated 2016
+  dnd\d&d tools\js\newtables.js
+    Also 2016, notable mostly because I dug into the table structure and book index
+
+There may be more; IIRC I allowed versions to fall out-of-sync between physical devices and the cloud sync so I'll have to go digging for multiple copies if I want to be thorough. But that's not the goal right now; I want to pick a direction.
+
+[Input 1 - Existing JSON spec from TOEE]
+
+Looking at these now, I'm seeing a lot of exceptions - is "level" an integer? What about multiclass characters? Some values are derived from rules and thus wouldn't need to be in the data (e.g., AC with dex bonus and shield) but are included on the character sheet - these would ideally not be in the raw character data. So what can I yoink out as a baseline here?
+
+Looks like the "template" character in sheet.js is reasonably up-to date. I'll consider that the representative one for now.
+
+[Input 2 - RAW PHB]
+
+Based on the text as written, working through the book.
+
+From the Table of Contents:
+
+  CHARACTER ABILITIES
+    Strength
+    Intelligence
+    Wisdom
+    Dexterity
+    Constitution
+    Charisma
+  CHARACTER RACES
+    Dwarves
+    Elves
+    Gnomes
+    Half-Elves
+    Halflings
+    Half-Orcs
+    Humans
+    Racial Preferences
+  CHARACTER CLASSES
+    Cleric
+      Druid
+    Fighter
+      Paladin
+      Ranger
+    Magic-User
+      Illusionist
+    Thief
+      Assassin
+    Monk
+    The Multi-Classed Character
+    The Character with Two Classes
+  ALIGNMENT
+  CHARACTER HIT POINTS
+  ESTABLISHING THE CHARACTERS
+  CHARACTER LANGUAGES
+  MONEY
+    The Monetary System
+    Money Changing, Banks, Loans and Jewelers
+  EQUIPPING THE CHARACTER
+  ARMOR
+  WEAPONS
+    Weight and Damage by Weapon Type
+  HIRELINGS
+  HENCHMEN
+  ...redacted some unrelated stuff...
+  APPENDIX I. PSIONICS
+    ...redacted for brevity...
+  APPENDIX II. BARDS
+    ...redacted for brevity...
+  ...redacted more stuff...
+  
+  So if I were to derive the most basic of structures from this, I'd say maybe...
+  
+  Character
+    Abilities
+      (just the stat scores, not special abilities)
+    Race
+    Classes
+      (note plural, and maybe multi- is technically a single class combo?)
+      (with multiple potential entries, maybe psi / bard could go here too?)
+    Alignment
+    Hit Points
+      (where's armor class - is it 100% derived?)
+    Background
+    Languages
+    Possessions
+      (including weapons, armor, equipment, money, maybe property)
+    Relationships
+      (mostly for hirelings and henchmen but faction info and influence too)
+  
+  Clearly missing here are things like:
+    Spells
+    Special traits / abilities / whatever
+    Religion? Doesn't always matter but where would it go?
+  
+Anyway, back to the book. Looking through the text now for notables.
+
+Steps according to CREATING THE PLAYER CHARACTER (paraphrased):
+
+  1. Roll ability scores
+  2. Choose race
+  3. Choose class
+  4. Choose alignment
+  5. Choose name
+  6. Determine languages known (determined by race, class, alignment)
+  7. Determine starting funds
+  8. Purchase adventuring equipment with starting funds
+  9. Roll hit points (determined by class)
+
+From CHARACTER ABILITIES
+
+  Abilities are:
+    Strength
+    Intelligence
+    Wisdom
+    Dexterity
+    Constitution
+    Charisma
+  
+  * Check for Psionics at this point
+  
+  "The premise of the game is that each player character is above average - at least in some respects - and has superior potential. Furthermore, it is usually essential to the character's survival to be exceptional (with a rating of 15 or above) in no fewer than two ability characteristics."
+  
+  Strength:
+  
+    "Fighters with an 18 strength are entitled to roll percentile dice in order to generate a random number between 01 and 00 (100) to determine exceptional strength..."
+  
+  Intelligence:
+  
+    "Intelligence dictates the number of languages in which the character is able to converse."
+    "Non-human characters typically are able to speak more languages than are human characters, but intelligence likewise affects the upper limit of their abilities as well, and there are racial limitations. (See CHARACTER RACES.)"
+    
+    Crazy rules about spell acquisition etc in here, will need special consideration for MUs.
+  
+  Dexterity:
+  
+    "Dexterity affects all characters with regard to initiative in attack, the projection of missiles from hand or other means, and in defensive measures."
+    
+      Initiative, eh? That's somewhat misleading when compared to the actual "initiative" rules.
+  
+  Constitution:
+  
+    Note hit point bonuses, with special categories for Fighters.
+  
+From CHARACTER RACES
+
+  Whoah, don't forget about the class limitations for races, heh. There are even complex sub-race designations (Halfling Tallfellow/Hairfeet/Stout) and caviats for high stats!
+  
+  Ability score racial mods:
+    
+    Dwarf       Constitution + 1; Charisma -1
+    Elf         Dexterity + 1; Constitution -1
+    Half-Orc    Strength + 1;  Constitution + 1;  Charisma -2
+    Halfling    Strength - 1; Dexterity + 1 
+
+  Ability score minimums & maximums
+  
+    Applicability is weird, see snippets:
+    
+      "The minimum scores must have been generated in the initial ability rolls..."
+      "...or if bonuses are given for the race, then the minimum must be met considering such bonuses."
+      "Maximums applicable are easily met, for the ability score is simply lowered to conform to the maximum."
+      
+      Ok so:
+        The *MINIMUMS* are counted after mods (e.g., Halflings get -1 strength, with a minimum of 6, so if you don't roll at least a 7 strength, no Halfing for you!).
+        The *MAXIMUMS* don't restrict your race selection as long as you don't mind the glass ceiling being imposed after you roll.
+      
+      But then in the notes:
+        "Minimum Scores indicate the lowest possible roll for consideration of a character to be of the racial type indicated."
+        "Maximum Scores include racial penalties and bonuses..."
+        
+      So a Half-Orc can have 1 Charisma?
+      And what about that Halfling's Strength score? You have to roll a 6 then, not a 7?
+    
+    And here's a weird one.
+      "Fighters of all races might be entitled to an exceptional strength bonus..."
+      EXCEPT HALFLINGS MAX STRENGTH IS 17???
+    
+    Then there's the whole female thing, which, as far as I can tell by looking at the table, serves no purpose other than lowering maximum strength for every race except Half-Orc. Great job Gary.
+
+  See individual races for a ton of info on:
+    Multi-class options
+    Restrictions, limitations
+    Special abilities
+    Languages
+    An assload of other stuff
+    
+From CHARACTER CLASSES
+
+  "Note that non-human and semi-human race characters who are multi-classed are typically bound by the limitations of the thief class only. That is, a fighter/magic-user can benefit from both armor, weaponry, and spells; a fighter/thief is limited by the constraints of the thief class."
+  
+  The hit dice table actually does have some interesting limitations that I haven't taken into account before.
+  
+  See armor and weapons permitted by class, as modified by the multi-class comment above.
+  
+  Poison is an open question for many characters, but specifically restricted for paladins and non-evil clerics.
+  
+  Note alignment restrictions by class.
+  
+  ? Clerics cannot be true neutral unless Druids, whoah. But the alignment restriction is listed in CHARACTER RACE TABLE I: CHARACTER CLASS LIMITATIONS, *not* in the class description. There might be other shit like this; expect not only for a given rule to potentially have multiple source materials, but also for there to be some conflicts. That's going to need to be considered for overall system design.
+
+  "The game assumes that only non- or semi-human chracters can be multi-classed, and only certain class combinations are possible,d epending on the race of the character."
+  
+  "Unlike multi-classed characters who are of non- or semi-human race, the character with two classes must be human. To attain the second class, the character must switch his or her profession at some point. Thereafter no progression in the original class is possible."
+  
+From CHARACTER HIT POINTS
+
+  ? Rangers and Monks begin with two hit dice each?
+  
+At this point it declares the character created and suggests "personifying" it:
+  Name him or her
+  Possibly give some family background
+    (and name a next of kin as heir to the possessions of the character if he or she should meet an untimely death)
+
+The expectation at this point is that the game can begin - the DM introduces you to the campaign setting and the character can start acquainting themselves iwth the territory. There's an interesting section here on what that process might look like, including arriving in a new village, etc. This is getting "established"?
+
+Oooh, so now we have three phases:
+  "create"    - determine core elements
+  "personify" - add flavor
+  "establish" - settle into the world
+
+Expected *next* steps:
+  Purchase equipment
+  Settle relations with other players and/or hirelings/henchmen
+
+Note CHARACTER LANGUAGES has a lot of special case info.
+
+Weapon proficiency. That matters. And I wonder how the non-proficiency penalty applies to multiple classes?
+
+* Should maybe select weapon proficiencies here eh?
+
+Not getting into weapon stats right now.
+
+From APPENDIX I: PSIONICS
+
+  "Psionics are various powers derived from the brain. and they enable characters so endowed to perform in ways which resemble magical abilities. If your DM opts to include psionic abilities in your campaign, they will be determined for humans (and possibly dwarves and halflings) as follows:"
+  
+    - So, considered an optional rule
+    - Restricted to humans, dwarves, and halflings? See DMG.
+
+  "Characters with one or more unmodified intelligence, wisdom or charisma ability scores of 16 or higher might have psionic ability. Whether or not this ability is possessed is then determined by a dice roll using percentile dice. Any score of 00 (100%) indicates the ability exists. For each 1 point of intelligence above 16 add 2½ to the dice roll, for each 1 point of wisdom above 16 add 1½ to the dice roll, ond for each 1 point of charisma above 16 add ½ to the dice roll (drop all fractions)."
+  
+    - Seems a simple enough formula. Looking at it though, I wonder if the racial modifiers affected eligibility.
+
+From APPENDIX II: BARDS
+
+  "As this character class subsumes the functions of two other classes, fighters and thieves, and tops them off with magical abilities, it is often not allowed by Dungeon Masters. Even though this presentation is greatly modified from the original bard character class, it is offered as supplemental to the system, and your DM will be the final arbiter as to the inclusion of bards in your campaign."
+  
+    - Again, considered optional.
+    - There was an "original" bard character class? ORLY(!)
+    
+Ok well I'm exhausted, that only took what - 2½ hours? I should clean up downstairs before moving on. And take some caffiene. And clean the litterbox. Ad nauseum. Cool learnings though.
+
+Some characters should probably pick a diety at some point. During background I guess?
+
+There are non-weapon proficiencies but I think those are introduced in UA.
+
+Then there's spells, which I've skipped entirely.
+
+And money.
+
+Buying equipment (dmg seems to indicate this can be part of entering the world)
+
+Naming the character.
+
+[Input 3 - RAW DMG]
+
+Wish I could collapse sections arbitrarily in npp. Worth poking at? Oh yeah, you can do it in the UI. Not quite the same, and a little buggy, but effective.
+
+Peeking at Table of Contents for candidates. Note many elements are left out on purpose.
+
+From CREATING THE PLAYER CHARACTER:
+From GENERATION OF ABILITY SCORES:
+
+  "While it is possible to generate some failry playable characters by rolling 3d6, there is often an extended period of attempts at finding a suitable one due to quirks of the dice. Furthermore, these rather marginal characters tend to have short life expectancy - which tends to discourage new players, as does having to make do with some character of a race and/or class which he or she really can't or won't identify with. Character generation, then, is a serious matter, and it is recommended that the following systems be used. Four alternatives are offered for player characters:"
+  
+  So clearly the 3d6 method lives on, but is no longer officially sanctioned. The comment about race and class is likely a reference to getting pigeonholed by the rolls rather than having no choice in the matter at all; in fact, I can't recall encountering a random race/class creation process outside one of my own creation, so just assume that's not a factor other people consider.
+  
+    Method I:
+    
+      "All scores are recorded and arranged in the order the player desires. 4d6 are rolled, and the lowest die (or one of the lower) is discarded."
+      
+      Oh doggie, this is the one specified in Appendix P for "CREATING A PARTY ON THE SPUR OF THE MOMENT"! That clearly makes it the default, doesn't it? Nice to have that question answered finally, it's been eating at me more than I care to admit!
+    
+    Method II:
+    
+      "All scores are recorded and arranged as in Method I. 3d6 are rolled 12 times and the highest 6 scores are retained."
+    
+    Method III:
+    
+      "Scores roled are assigned to each ability category, in order, STRENGTH, INTELLIGENCE, WISDOM, DEXTERITY, CONSTITUTION, CHARISMA. 3d6 are rolled 6 times for each ability, and the highest score in each category is retained for that category."
+    
+    Method IV:
+    
+      "3d6 are rolled sufficient times to generate the 6 ability scores, in order, for 12 characters. They player then selects the single set of scores which he or she finds most desirable and these scores are noted on the character record sheet."
+  
+  I wonder, statistically speaking, how the methods compare. There are a bunch of ways to evaluate the results too...
+    Average score
+    Odds of a particular range in a particular ability
+    Combinations of above (to meet qualification requirements etc)
+    Odds of a particular range in any ability (varies when choice is offered)
+  
+  Interestingly, Method IV allows for traditional 3d6 style selection at the player's discretion (choose first character or roll 1d12 to get one at random).
+
+From NON-PLAYER CHARACTERS:
+
+  "General Characters: Roll 3d6 for each ability as usual, but use average scoring by considering an 1 as a 3 and any 6 as a 4."
+  
+  "Special Characters, Including Henchmen: Roll 3d6 as for general characters, but allow the full range (3-18) except in the ability or abilities which are germane to his or her profession, i.e. strength for fighters, etc. For all such abilities use either one of the determination methods used for player characters or add +1 to each die of the 3 rolled which scores under 6."
+  
+  So these are interesting methods; it makes sense to codify them as options but make them non-standard for cases they aren't expressly intended for. For example, you could create a player character using one of these methods, but it should require a configuration change for that to be an option.
+
+From CHARACTERISTICS OF PLAYER CHARACTERS:
+
+  "Use of the NPC personality traits and characteristics for player characters is NOT recommended."
+  
+  Yeah be sure not to do that. Also, remember they exist for NPCs ;)
+  
+  "Height and weight *should* be randomly determined for each PC, and the HEIGHT AND WEIGHT TABLES in the PERSONAE of NON-PLAYER CHARACTERS section are useful in this regard. However, these tables do not actually give sufficient variation in upper limits of height and weight of humans, so you might find it necessary to allow the following hight and weight variations for human player characters:"
+  
+  * Not adding the table here but useful to note random height and weight determination should be part of the character creation step.
+
+From PLAYER CHARACTER NON-PROFESSIONAL SKILLS:
+
+  "...some minor knowledge of certain mundane skills might belong to the player character - information and training from early years or incidentally picked up while the individual was in apprenticeship learning his or her primary professional skills of clericism, fighting, etc. If your particular campaign is aimed at a level of play where secondary skills can be taken into account, then use the table below to assign them to player characters, or even to henchmen if you so desire."
+  
+  Major musing in my gamemaster notes on the possibilities with dynamic gaming and secondary skills.
+
+From CHARACTER AGE, AGING, DISEASE, AND DEATH:
+From CHARACTER AGE:
+
+  "At the onset of each and every character's creation it is necessary that you establish his or her age. For player characters and henchmen you must use the appropriate table. You may do the same for other characters, or you may assign age as you see fit..."
+  
+  I wonder what the best way is to track time as it relates to character ages, birth dates, in-game events, etc. Locking a character to a specific birthdate at creation could cause issues later when they try joining a different campaign, but it is sensible for time to have passed if a character skips an adventure, for example. Also, if a character's history is linked to events in the world, mismatched ages and histories could get weird.
+  
+  Some reference to a pre-determined date of natural death?
+  
+  * Ok then, here's another mandatory variable I didn't have on the list.
+
+From CHARACTER ABILITIES:
+From EXPLANATION OF ABILITIES:
+
+  "Strength is a composite rating of physical power, endurance, and stamina...a score of 18 means that the creature has a composite rating far above average in all respects."
+  
+  Interesting. I wonder if there's value in ever trying to break out those "composite" ratings. The premise holds across the other abilities too, and there are specific call-outs, for example, a character with low dex could be very agile, but also slow, imprecise, and clumsy, etc.
+  
+  "Assume further that a strength of 18 indicates that the creature can lift weight equal to its own body weight, or 180 pounds, whichever is greater, above its head."
+  
+  Whoah. That's a hell of a modifier that doesn't really show on all the lookup tables, does it? If I were to expand on that and calculate the relative difference between the applicable brute force that could be applied by two individuals with the same strength but vastly different weights, the results might be astounding. Certainly disruptive, likely unbalancing.
+
+From CHARACTER RACES:
+From PLAYER CHARACTER RACIAL TENDENCIES:
+
+  Really only useful for backstories and flavor stuff.
+
+From CHARACTER CLASSES:
+From THE MONSTER AS A PLAYER CHARACTER:
+
+  Great essay, but nothing actionable right now.
+
+From ALIGNMENT:
+
+  Meh.
+
+From ALIGNMENT LANGUAGE:
+
+  Description here is weird. The implication is that it's an actual (but very limited) language, with a small set of specific words...and it's a cross-cultural taboo to speak publicly in such a way - it would broadcast your alignment!
+  
+  Not _every_ intelligent creature of a given alignment necessarily understand the associated language in a given ethos (e.g., blink dogs are "instinctively" lawful good and do not "embrace" the ethos).
+  
+  I'd like to see this expanded on before trying to use it in a campaign but it just so happens that I don't need to worry about that right now, so I won't.
+
+From MONEY:
+From PLAYER CHARACTER STARTING MONEY:
+From PLAYER CHARACTER EXPENSES:
+
+  "Each character will automatically expend not less than 100 gold pieces per level of experience per month. This is simply support, upkeep equipment, and entertainment expense. These costs are to be deducted by the Dungeon Master automatically, and any further spending by the PC is to be added to these costs."
+  
+  Heh. Orly. And it gets better.
+  
+  "Finally, any taxation or other levies must be taken into consideration, along with contributions to the player character's religious organization."
+  
+  Wodda dick.
+
+From ARMOR, ARMOR CLASS, & WEAPONS:
+
+  Blah.
+
+From TYPES OF ARMOR AND ENCUMBRANCE:
+
+  Blah.
+
+From HIRELINGS:
+From HENCHMEN:
+
+  Various info on costs and options etc.
+
+From THE CAMPAIGN:
+
+  Good stuff on setting up a universe. Queue for reading later.
+
+From SOCIAL CLASS AND RANK IN ADVANCED DUNGEONS & DRAGONS:
+
+  Cool reference to THE DRAGON #25 (Vol. 3, No. 11, May 1979) with a Gygax article listing out a ton of government forms etc you could use. Oh and it looks like he included the list here...wonder how complete it is.
+
+From NON-PLAYER CHARACTERS:
+
+  Reference to THE ROGUES GALLERY - makes me wonder what order stuff was published in, and what might reasonably be considered either canon or at least implicitly endorsed by AD&D 1E; references already to the magazine and other publications, yes?
+  
+  Anyway, some guidelines are given for creating basic NPCs, including numerous tables to flesh them out a bit. In the case of ability scores etc, these sort of represent an alternate method of creating them, yes? Not a great one of course, but still related.
+
+From CONDUCTING THE GAME:
+From ROLLING THE DICE AND CONTROL OF THE GAME:
+
+  Moar essay.
+
+From APPENDIX O: ENCUMBRANCE OF STANDARD ITEMS:
+
+  Just a table and general info on encumbrance.
+
+From APPENDIX P: CREATING A PARTY ON THE SPUR OF THE MOMENT:
+
+  Now this looks tasty. Lots of details on these tables. It feels like a "quick play" option, maybe combined with the random dungeon generator? Better "sample" prototype than my previous idea, I think?
+
+  Note: The actual "random dungeon generation" section is Appendix A, but several other appendices have relevant components (random monsters, flavor items, and so on).
+
+[Input 4 - Official character sheets]
+
+To include sheets, permanent record, whatever else I can find for this edition. I appear to have several candidates under:
+  dnd\pub\ad&d 1e\accessories
+  dnd\gm resources\forms
+  
+[Input 5 - Unofficial character sheets]
+  
+There are probably several others I've yoinked but start here:
+  dnd\pub\ad&d 1e\third party
