@@ -1,0 +1,115 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>Game Master (Pathfinder 1e)</title>
+		<link rel="stylesheet" href="css/gamemaster.css" />
+		<script type="text/javascript" src="js/gamemaster-core.js"></script>
+		<script type="text/javascript" src="js/gamemaster-client.js"></script>
+		<script type="text/javascript" src="js/gamemaster-server.js"></script>
+		<script type="text/javascript" src="js/gamemaster-game.pathfinder1e.js"></script>
+		<script type="text/javascript" src="js/gamemaster-strings.js"></script>
+		<script type="text/javascript" src="js/character.template.js"></script> <!-- poorly named early draft -->
+		<script type="text/javascript" src="js/charlotte.js"></script> <!-- required for console.js -->
+		<script type="text/javascript" src="js/console.js"></script>
+		<link   type="text/css" rel="stylesheet" href="css/console.css" />
+		<!--
+      Replacing the gamemaster-main script with local version below for pathfinder.
+      TODO: Make it so this is not needed for future / other versions
+    <script type="text/javascript" src="js/gamemaster-main.js"></script> <!-- kind of requires everything -->
+    
+    <!-- This is the Pathfinder version of gamemaster-main -->
+    <script type="text/javascript">
+    
+      // left out of onload for scope
+      var gm       = new GameMaster();
+      var gmServer = new gm.server(gm);
+      var gmClient = new gm.client(gm, gmServer);
+
+      var sendCommand;
+
+      // console stuff
+      var session;
+      var testConsole;
+      
+      window.onload = function(e)
+      { 
+        gmServer.game = new GameMaster.Game.Pathfinder1E();
+
+        // Some tests
+
+        gmClient.enqueueCommand(gmClient.createCommand(GameMaster.ConsoleCommands.INIT));
+        gmClient.enqueueCommand(gmClient.createCommand(GameMaster.ConsoleCommands.STATUS));
+        gmClient.enqueueCommand(gmClient.createCommand(GameMaster.ConsoleCommands.ABOUT));
+        gmClient.enqueueCommand(gmClient.createCommand('roll 3d6'));
+        //gmClient.enqueueCommand(gmClient.createCommand('another command')); // bogus command, see below
+
+        gmClient.send(gmClient.commandQueue.dequeue());
+        gmClient.send(gmClient.commandQueue.dequeue());
+        gmClient.send(gmClient.commandQueue.dequeue());
+        gmClient.send(gmClient.commandQueue.dequeue());
+
+        gmServer.process();
+        gmServer.process();
+        gmServer.process();
+        gmServer.process();
+        // TODO: handle edge cases like this (bogus command listed above)
+        //gmServer.process();
+        // and this (nothing to process)
+        //gmServer.process();
+        
+        console.log(gmClient.responseQueue.dequeue());
+        console.log(gmClient.responseQueue.dequeue());
+        console.log(gmClient.responseQueue.dequeue());
+        console.log(gmClient.responseQueue.dequeue());
+        
+        // TODO: Looks like it doesn't work without these tests, so what gives?
+        
+        // for simplified and manual testing
+        sendCommand = function(cmd)
+        {
+          gmClient.enqueueCommand(gmClient.createCommand(cmd));
+          gmClient.send(gmClient.commandQueue.dequeue());
+          gmServer.process();
+        }
+
+        // Stupid console stuff because its not well compartmentalized yet
+
+          
+        var initConsole = function()
+        {
+          testConsole = new Console();
+          testConsole.setTitle('Console - D&D Tools');		
+          results.appendChild(testConsole.getElement());
+        }
+
+        var createSession = function()
+        {
+          session = new Session();
+          session.components.push(testConsole);
+          
+          session.initialize();
+        }
+
+        initConsole();
+        createSession();
+        session.run();
+      };
+    
+    </script>
+    
+	</head>
+	<body>
+		<div id="page">
+			<div id="header"></div>
+			<div id="content">
+        <div id="results">
+          <div id="current">
+          </div>
+          <div id="history">
+          </div>
+        </div>
+      </div>
+			<div id="footer"></div>
+		</div>		
+	</body>
+</html>

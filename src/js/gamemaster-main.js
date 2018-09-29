@@ -49,6 +49,8 @@ window.onload = function(e)
   console.log(gmClient.responseQueue.dequeue());
   console.log(gmClient.responseQueue.dequeue());
   console.log(gmClient.responseQueue.dequeue());
+  
+  // TODO: Looks like it doesn't work without these tests, so what gives?
 
   // for simplified and manual testing
   sendCommand = function(cmd)
