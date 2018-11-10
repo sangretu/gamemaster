@@ -78,8 +78,17 @@
         var initConsole = function()
         {
           testConsole = new Console();
-          testConsole.setTitle('Console - D&D Tools');		
+          testConsole.setTitle('Console - Pathfinder Tools');		
           results.appendChild(testConsole.getElement());
+        }
+        
+        // 20181006
+        // This is a quick test/hack to add creation buttons and simplify testing
+        var initButtons = function()
+        {
+          var o = Object.create(Component.prototype);
+          var e = o.getElement();
+          results.appendChild(e);
         }
 
         var createSession = function()
@@ -91,6 +100,7 @@
         }
 
         initConsole();
+        initButtons();
         createSession();
         session.run();
       };

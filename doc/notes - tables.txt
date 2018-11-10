@@ -1,0 +1,11 @@
+[20181106] (Sticky)
+
+This is another complex issue, so keeping notes here for quick reference.
+
+[20181106]
+
+Previous work on this topic can be found on Royal, in the table_data.js file.
+
+Current thoughts center around using the concept of "chance units", with each option in a randomized table having a set number of them. Rolls on these tables simply generate a number between 1 and the total number of chance units. Additional options can be added easily without having to do any kind of re-numbering, even dynamically. To further support scaling, a set of functions might exist to give details on min/max chance units per option, total chance units for a table, multiplying chance units for all options (or a subset of them) by a particular value (default 10) to make room for smaller odds, and so on.
+
+So we are definitely talking about a class here. RandomizationTable?
