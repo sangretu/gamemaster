@@ -153,3 +153,12 @@ var gmf = new GamemasterFunction(parameters);
 var map = new Map(parameters);
 var tab = new Table(parameters);
 var opt = new Option(parameters);
+
+// 20181203 STATUS
+// These all seem to work; they don't do much other than create a Parameters
+// instance which derives from Bulwark, but that's pretty much all I needed
+// to get started anyway.
+//
+// Next I guess is to create the random dungeon generation object and start
+// creating the table classes in there. Oh. And then work on the Option and
+// Table parent classes, I suppose. Don't forget the initialize concept.
