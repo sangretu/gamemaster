@@ -1,0 +1,176 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>Game Master - bastion test</title>
+		<script type="text/javascript" src="js/charlotte.js"></script> <!-- required for console.js -->
+		<script type="text/javascript" src="js/console.js"></script>
+		<script type="text/javascript" src="js/bastion.js"></script> <!-- testing new table concept -->
+    
+    <!-- Wasnt going to include jQuery but pasted in some last-minute stuff that requires it, will remove later -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+    
+		<link   type="text/css" rel="stylesheet" href="css/console.css" />
+    
+    <script>
+    
+    // A little setup here since I don't need a .js for the test itself
+    
+    // globals
+    var results;
+    var session;
+    var terminal;
+    
+    window.onload = function(e)
+    {
+      results = document.getElementById('results');
+      
+      initConsole();
+      createSession();
+      session.run();
+      
+      initButtons();
+    };
+    
+    var initConsole = function()
+    {
+      terminal = new Console();
+      terminal.setTitle('AD&D 1E - Random Dungeon Generator v0.0.1.20181207 (pre-alpha test)');
+      results.appendChild(terminal.getElement());
+    }
+
+    var createSession = function()
+    {
+      session = new Session();
+      session.components.push(terminal);
+      session.initialize();
+    }
+    
+    // overwriting stuff from console
+    var execute = function(cmd)
+    {
+      switch(cmd)
+      {
+        case 'door':
+          return tables.tableDoorsBeyond.roll().toString();
+          break;
+        case 'passageway' :
+          return tables.tablePeriodicCheck.roll().toString();
+          break;
+        case 'room' :
+          return tables.tableRoomShapeAndSize.roll().toString();
+          break;
+        case 'chamber' :
+          return tables.tableChamberShapeAndSize.roll().toString();
+          break;
+        case 'monster' :
+          return tables.tableDungeonRandomMonsterLevel1.roll().toString();
+          break;
+        case 'trick / trap' :
+          return tables.tableTrickTrap.roll().toString();
+          break;
+        case 'treasure' :
+          return tables.tableTreasure.roll().toString();
+          break;
+        case 'clear' :
+          terminal.tty.textContent = '';
+          return '';
+          break;
+        default:
+          return 'error';
+          break;
+      }
+      // console.log('Execute : ' + cmd);
+    };
+    
+    Console.prototype.update = function(sessiontime)
+    {
+      Window.prototype.initialize.call(this);
+      
+      var cmd = ''
+
+      while (cmd = this.cmdQueue.shift())
+      {
+        this.appendText('> ' + cmd);
+        
+        // NOTE: more gamemaster tweaks
+        var response = execute(cmd);
+        
+        //var response = gmClient.responseQueue.dequeue();
+        //var response = 'placeholder';
+        //console.log(response);
+        //this.appendText(response.resultText);
+        this.appendText(response);
+      }
+    }
+    
+    // handle buttons
+    var initButtons = function()
+    {
+      var btn_door          = document.getElementById('door');
+      var btn_passageway    = document.getElementById('passageway');
+      var btn_room          = document.getElementById('room');
+      var btn_chamber       = document.getElementById('chamber');
+      var btn_monster       = document.getElementById('monster');
+      var btn_tricktrap     = document.getElementById('tricktrap');
+      var btn_treasure      = document.getElementById('treasure');
+      var btn_clear         = document.getElementById('clear');
+      
+      $( btn_door       ).click(function() { terminal.cmdQueue.push('door') });
+      $( btn_passageway ).click(function() { terminal.cmdQueue.push('passageway') });
+      $( btn_room       ).click(function() { terminal.cmdQueue.push('room') });
+      $( btn_chamber    ).click(function() { terminal.cmdQueue.push('chamber') });
+      $( btn_monster    ).click(function() { terminal.cmdQueue.push('monster') });
+      $( btn_tricktrap  ).click(function() { terminal.cmdQueue.push('trick / trap') });
+      $( btn_treasure   ).click(function() { terminal.cmdQueue.push('treasure') });
+      $( btn_clear      ).click(function() { terminal.cmdQueue.push('clear') });
+    }
+    
+    </script>
+	</head>
+	<body>
+		<div id="page">
+			<div id="header"></div>
+			<div id="content">
+        <div id="results" style="position:absolute; height:90%; width:90%">
+          <div id="current">
+          </div>
+          <div id="history">
+          </div>
+        </div>
+        <div id="toolbar" style="float:right; width:10%">
+          <div>
+            <input id="door"       class="action" type="button" value="door"></input>
+          </div>
+          <div>
+            <input id="passageway" class="action" type="button" value="passageway"></input>
+          </div>
+          <div>
+            <input id="room"       class="action" type="button" value="room"></input>
+          </div>
+          <div>
+            <input id="chamber"    class="action" type="button" value="chamber"></input>
+          </div>
+          <div>
+            <input id="monster"    class="action" type="button" value="monster"></input>
+          </div>
+          <div>
+            <input id="tricktrap"  class="action" type="button" value="tricktrap" ></input>
+          </div>
+          <div>
+            <input id="treasure"   class="action" type="button" value="treasure" ></input>
+          </div>
+          <div>
+            <input id="clear"      class="action" type="button" value="clear"></input>
+          </div>
+          <div>
+            Comments:
+          </div>
+          <div>
+            RDG @ geeq.com
+          </div>
+        </div>
+      </div>
+			<div id="footer"></div>
+		</div>		
+	</body>
+</html>
