@@ -351,7 +351,7 @@ var initTableChamberShapeAndSize = function()
   thisTable.add(new TableOption( 3 , function(){return 'Rectangular, 20\' x 30\''; } , tables.tableNumberOfExits.subroll , tables.tableChamberOrRoomContents.subroll ));
   thisTable.add(new TableOption( 2 , function(){return 'Rectangular, 30\' x 50\''; } , tables.tableNumberOfExits.subroll , tables.tableChamberOrRoomContents.subroll ));
   thisTable.add(new TableOption( 2 , function(){return 'Rectangular, 40\' x 60\''; } , tables.tableNumberOfExits.subroll , tables.tableChamberOrRoomContents.subroll ));
-  thisTable.add(new TableOption( 2 , function(){return 'Unusual shape and size - see sub-tables below';} , tables.tableUnusualShape.subroll , tables.tableUnusualSize.subroll , tables.tableNumberOfExits.subroll , tables.tableChamberOrRoomContents.subroll ));
+  thisTable.add(new TableOption( 3 , function(){return 'Unusual shape and size - see sub-tables below';} , tables.tableUnusualShape.subroll , tables.tableUnusualSize.subroll , tables.tableNumberOfExits.subroll , tables.tableChamberOrRoomContents.subroll ));
   
   thisTable.addFootnote('Roll for Shape, Size, and Exits; then Contents, Treasure, and how the latter is contained, if applicable.');
   
@@ -374,7 +374,7 @@ var initTableRoomShapeAndSize = function()
   thisTable.add(new TableOption( 3 , function(){return 'Rectangular, 20\' x 30\''; } , tables.tableNumberOfExits.subroll , tables.tableChamberOrRoomContents.subroll ));
   thisTable.add(new TableOption( 2 , function(){return 'Rectangular, 20\' x 40\''; } , tables.tableNumberOfExits.subroll , tables.tableChamberOrRoomContents.subroll ));
   thisTable.add(new TableOption( 2 , function(){return 'Rectangular, 30\' x 40\''; } , tables.tableNumberOfExits.subroll , tables.tableChamberOrRoomContents.subroll ));
-  thisTable.add(new TableOption( 2 , function(){return 'Unusual shape and size - see sub-tables below'; } , tables.tableUnusualShape.subroll , tables.tableUnusualSize.subroll , tables.tableNumberOfExits.subroll , tables.tableChamberOrRoomContents.subroll ));
+  thisTable.add(new TableOption( 3 , function(){return 'Unusual shape and size - see sub-tables below'; } , tables.tableUnusualShape.subroll , tables.tableUnusualSize.subroll , tables.tableNumberOfExits.subroll , tables.tableChamberOrRoomContents.subroll ));
   
   thisTable.addFootnote('Roll for Shape, Size, and Exits; then Contents, Treasure, and how the latter is contained, if applicable.');  
   
