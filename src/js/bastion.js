@@ -1027,7 +1027,7 @@
       [ 3 , [ tables.tableNumberOfExits, tables.tableChamberOrRoomContents ] , 'Rectangular, 20\' x 30\'' ],
       [ 2 , [ tables.tableNumberOfExits, tables.tableChamberOrRoomContents ] , 'Rectangular, 30\' x 50\'' ],
       [ 2 , [ tables.tableNumberOfExits, tables.tableChamberOrRoomContents ] , 'Rectangular, 40\' x 60\'' ],
-      [ 2 , [ tables.tableUnusualShape, tables.tableUnusualSize, tables.tableChamberOrRoomContents ] , 'Unusual shape and size - see sub-tables below' ],
+      [ 3 , [ tables.tableUnusualShape, tables.tableUnusualSize, tables.tableChamberOrRoomContents ] , 'Unusual shape and size - see sub-tables below' ],
     ];
     
     addTableOptions(t, options);    
@@ -1049,7 +1049,7 @@
       [ 3 , [ tables.tableNumberOfExits, tables.tableChamberOrRoomContents ] , 'Rectangular, 20\' x 30\'' ],
       [ 2 , [ tables.tableNumberOfExits, tables.tableChamberOrRoomContents ] , 'Rectangular, 20\' x 40\'' ],
       [ 2 , [ tables.tableNumberOfExits, tables.tableChamberOrRoomContents ] , 'Rectangular, 30\' x 40\'' ],
-      [ 2 , [ tables.tableUnusualShape, tables.tableUnusualSize, tables.tableChamberOrRoomContents ] , 'Unusual shape and size - see sub-tables below' ],
+      [ 3 , [ tables.tableUnusualShape, tables.tableUnusualSize, tables.tableChamberOrRoomContents ] , 'Unusual shape and size - see sub-tables below' ],
     ];
     
     addTableOptions(t, options);
