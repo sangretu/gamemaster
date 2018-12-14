@@ -53,11 +53,11 @@ RandomDungeonGeneration.activities =
 
 var acts = RandomDungeonGeneration.activities;
 
-acts.generate_passage_segment          .getFunction = function() { return function(x) { return 'placeholder action - generate_passage_segment' + x ; } };
-acts.generate_door                     .getFunction = function() { return function(x) { return 'placeholder action - generate_door'            + x ; } };
-acts.generate_chamber                  .getFunction = function() { return function(x) { return 'placeholder action - generate_chamber'         + x ; } };
-acts.generate_room                     .getFunction = function() { return function(x) { return 'placeholder action - generate_room'            + x ; } };
-acts.generate_stairs                   .getFunction = function() { return function(x) { return 'placeholder action - generate_stairs'          + x ; } };
+acts.generate_passage_segment          .getFunction = function() { return function(x) { return new PassageSegment (x); } };
+acts.generate_door                     .getFunction = function() { return function(x) { return new Door           (x); } };
+acts.generate_chamber                  .getFunction = function() { return function(x) { return new Chamber        (x); } };
+acts.generate_room                     .getFunction = function() { return function(x) { return new Room           (x); } };
+acts.generate_stairs                   .getFunction = function() { return function(x) { return new Stairs         (x); } };
   
 var stub = RandomDungeonGeneration.tables;
 
@@ -340,30 +340,41 @@ stub.monster_level_3                   .options = [
   { chanceUnits : 5  , activities : [] , text : 'Weasel, giant (1-4)' },
 ];
 
+
 stub.periodic_check                    .options[0].activities = 
 [
   function()
   {
-    return RandomDungeonGeneration.activities.generate_passage_segment.getFunction()();
+    var generate_passage_segment = RandomDungeonGeneration.activities.generate_passage_segment.getFunction();
+    
+    var passage_segment = generate_passage_segment({length:60});
+    
+    return passage_segment;
   }
 ];
 
 stub.periodic_check                    .options[1].activities = 
 [
-  RandomDungeonGeneration.activities.generate_door.getFunction()
+  function()
+  {
+    var generate_door = RandomDungeonGeneration.activities.generate_door.getFunction();
+    
+    var door = generate_door();
+    
+    return door;
+  }
 ];
 
 stub.periodic_check                    .options[2].activities = 
 [
   function()
   {
-    var generate_chamber = RandomDungeonGeneration.activities.generate_chamber.getFunction();
-    var generate_stairs  = RandomDungeonGeneration.activities.generate_stairs .getFunction();
+    var generate_passage_segment = RandomDungeonGeneration.activities.generate_passage_segment.getFunction();
     
-    var chamber = generate_chamber();
-    var stairs  = generate_stairs(chamber);
+    var side_passage_segment = generate_passage_segment({length:30, direction:'side'});
+    var passage_segment      = generate_passage_segment({length:30});
     
-    return stairs;
+    return side_passage_segment;
   }
 ];
 
