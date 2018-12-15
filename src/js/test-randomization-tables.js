@@ -42,6 +42,31 @@ RandomDungeonGeneration.tables =
   monster_level_3                   : {},
 };
 
+// TODO: Placeholder rolling function applying to any table
+RandomDungeonGeneration.roll = function(table)
+{
+  var result     = {};
+  
+  var numOptions = table.options.length;
+  var tally      = 0;
+  var option     = {};
+  
+  var chanceUnits = 0;
+  for(var i in table.options) { chanceUnits += table.options[i].chanceUnits; };
+  
+  var roll        = rollDie(chanceUnits).getData().roll;
+  
+  for (var i=0 ; tally < roll && i < numOptions ; i++)
+  {
+    option  = table.options[i];      
+    tally  += option.chanceUnits;
+  };
+  
+  result = option;
+  
+  return result;
+};
+
 RandomDungeonGeneration.activities = 
 {  
   generate_passage_segment          : {},
@@ -349,6 +374,9 @@ stub.periodic_check                    .options[0].activities =
     
     var passage_segment = generate_passage_segment({length:60});
     
+    // TODO: probably shouldn't happen automatically whenever the option is found - handle by caller
+    svg.appendChild(passage_segment.svg());
+    
     return passage_segment;
   }
 ];
@@ -373,6 +401,9 @@ stub.periodic_check                    .options[2].activities =
     
     var side_passage_segment = generate_passage_segment({length:30, direction:'side'});
     var passage_segment      = generate_passage_segment({length:30});
+    
+    // TODO: probably shouldn't happen automatically whenever the option is found - handle by caller
+    svg.appendChild(passage_segment.svg());
     
     return side_passage_segment;
   }

@@ -100,8 +100,8 @@ textarea
 	font-family                  : Consolas, Monaco, Courier, Courier New, monospace;
 	font-weight                  : bold;
 	/* default size */
-	width                        : 90%;
-	height                       : 90%;
+	/*width                        : 90%;*/
+	/*height                       : 90%;*/
 }
 
 .window.console .bottom
