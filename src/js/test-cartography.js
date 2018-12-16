@@ -171,6 +171,29 @@ var Cartography = function(parameters)
 
   }
   
+  { // Vector
+  
+    var Vector = function(x, y)
+    {
+      this.x = x || 0;
+      this.y = y || 0;
+    }
+    
+    Vector.fromPoints = function(p1, p2)
+    {
+      var x = p2.x - p1.x;
+      var y = p2.y - p1.y;
+      
+      return new Vector(x, y);
+    };
+    
+    Vector.fromLine = function(line)
+    {
+      return Vector.fromPoints(line.p1, line.p2);
+    };
+  
+  }
+  
   { // Arc
   
     // This one is new, doesn't appear in charlotte (as of this writing)
