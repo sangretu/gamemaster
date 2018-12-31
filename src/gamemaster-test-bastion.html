@@ -7,6 +7,8 @@
 		<script type="text/javascript" src="js/bastion.js"></script> <!-- testing new table concept -->
 		<script type="text/javascript" src="js/test-cartography.js"></script> <!-- need something for map generation -->
 		<script type="text/javascript" src="js/test-randomization-tables.js"></script> <!-- testing new table concept -->
+		<script type="text/javascript" src="js/test-terbtd.js"></script> <!-- tacking on to new table concept -->
+		<script type="text/javascript" src="js/room_types.js"></script> <!-- hacked in descriptions -->
     
     <!-- Wasnt going to include jQuery but pasted in some last-minute stuff that requires it, will remove later -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
@@ -101,7 +103,14 @@
       switch(cmd)
       {
         case 'door':
-          return tables.tableDoorsBeyond.roll().toString();
+          //return tables.tableDoorsBeyond.roll().toString();          
+          var option = RandomDungeonGeneration.roll(RandomDungeonGeneration.tables.doors_beyond);
+          
+          var a = option.activities;
+            
+          for (var i in a) { console.log(a[i]()); };
+          
+          return option.text;
           break;
         case 'passageway' :
           //return tables.tablePeriodicCheck.roll().toString();
