@@ -54,15 +54,18 @@ RandomDungeonGeneration.roll = function(table)
   var chanceUnits = 0;
   for(var i in table.options) { chanceUnits += table.options[i].chanceUnits; };
   
-  var roll        = rollDie(chanceUnits).getData().roll;
+  var roll               = rollDie(chanceUnits);
+  var roll_result        = roll.getData().roll;
   
-  for (var i=0 ; tally < roll && i < numOptions ; i++)
+  for (var i=0 ; tally < roll_result && i < numOptions ; i++)
   {
     option  = table.options[i];      
     tally  += option.chanceUnits;
   };
   
   result = option;
+  
+  result.roll = roll;
   
   return result;
 };
@@ -97,6 +100,80 @@ stub.periodic_check                    .options = [
   { chanceUnits : 1  , activities : [] , text : 'Trick/Trap (see TABLE VII.), passage continues - check again in 30\' (this table)' },
   { chanceUnits : 1  , activities : [] , text : 'Wandering Monster, check again immediately to see what lies ahead so direction of monster\'s approach can be determined.' },
 ];
+
+stub.periodic_check                    .options[0].activities.push(RandomDungeonGeneration.activities.generate_passage_segment.getFunction());
+stub.periodic_check                    .options[1].activities.push(RandomDungeonGeneration.activities.generate_door.getFunction());
+stub.periodic_check                    .options[2].activities.push
+(
+  // TODO: making an exception here because of the parameters, need to add support for this
+  function()
+  {
+    var generate_passage_segment = RandomDungeonGeneration.activities.generate_passage_segment.getFunction();
+    
+    var side_passage_segment = generate_passage_segment({length:30, direction:'side'});
+    var passage_segment      = generate_passage_segment({length:30});
+    
+    // TODO: probably shouldn't happen automatically whenever the option is found - handle by caller
+    svg.appendChild(passage_segment.svg());
+    
+    return side_passage_segment;
+  }
+);
+
+/*
+stub.periodic_check                    .options[3].activities.push(RandomDungeonGeneration.activities..getFunction()); // Passage Turns
+stub.periodic_check                    .options[4].activities.push(RandomDungeonGeneration.activities..getFunction()); // Chamber
+stub.periodic_check                    .options[5].activities.push(RandomDungeonGeneration.activities..getFunction()); // Stairs
+stub.periodic_check                    .options[6].activities.push(RandomDungeonGeneration.activities..getFunction()); // Dead End
+stub.periodic_check                    .options[7].activities.push(RandomDungeonGeneration.activities..getFunction()); // Trick/Trap
+stub.periodic_check                    .options[8].activities.push(RandomDungeonGeneration.activities..getFunction()); // Wandering Monster
+*/
+
+/*
+stub.periodic_check                    .options[0].activities = 
+[
+  function()
+  {
+    var generate_passage_segment = RandomDungeonGeneration.activities.generate_passage_segment.getFunction();
+    
+    var passage_segment = generate_passage_segment({length:60});
+    
+    // TODO: probably shouldn't happen automatically whenever the option is found - handle by caller
+    svg.appendChild(passage_segment.svg());
+    
+    return passage_segment;
+  }
+];
+
+stub.periodic_check                    .options[1].activities = 
+[
+  function()
+  {
+    var generate_door = RandomDungeonGeneration.activities.generate_door.getFunction();
+    
+    var door = generate_door();
+    
+    return door;
+  }
+];
+
+stub.periodic_check                    .options[2].activities = 
+[
+  function()
+  {
+    var generate_passage_segment = RandomDungeonGeneration.activities.generate_passage_segment.getFunction();
+    
+    var side_passage_segment = generate_passage_segment({length:30, direction:'side'});
+    var passage_segment      = generate_passage_segment({length:30});
+    
+    // TODO: probably shouldn't happen automatically whenever the option is found - handle by caller
+    svg.appendChild(passage_segment.svg());
+    
+    return side_passage_segment;
+  }
+];
+*/
+
 stub.doors_location                    .options = [
   { chanceUnits : 6  , activities : [] , text : 'Left' },
   { chanceUnits : 6  , activities : [] , text : 'Right' },
@@ -363,50 +440,6 @@ stub.monster_level_3                   .options = [
   { chanceUnits : 9  , activities : [] , text : 'Spider, large (2-5)' },
   { chanceUnits : 2  , activities : [] , text : 'Tick, giant (1-3)' },
   { chanceUnits : 5  , activities : [] , text : 'Weasel, giant (1-4)' },
-];
-
-
-stub.periodic_check                    .options[0].activities = 
-[
-  function()
-  {
-    var generate_passage_segment = RandomDungeonGeneration.activities.generate_passage_segment.getFunction();
-    
-    var passage_segment = generate_passage_segment({length:60});
-    
-    // TODO: probably shouldn't happen automatically whenever the option is found - handle by caller
-    svg.appendChild(passage_segment.svg());
-    
-    return passage_segment;
-  }
-];
-
-stub.periodic_check                    .options[1].activities = 
-[
-  function()
-  {
-    var generate_door = RandomDungeonGeneration.activities.generate_door.getFunction();
-    
-    var door = generate_door();
-    
-    return door;
-  }
-];
-
-stub.periodic_check                    .options[2].activities = 
-[
-  function()
-  {
-    var generate_passage_segment = RandomDungeonGeneration.activities.generate_passage_segment.getFunction();
-    
-    var side_passage_segment = generate_passage_segment({length:30, direction:'side'});
-    var passage_segment      = generate_passage_segment({length:30});
-    
-    // TODO: probably shouldn't happen automatically whenever the option is found - handle by caller
-    svg.appendChild(passage_segment.svg());
-    
-    return side_passage_segment;
-  }
 ];
 
 // TODO: Here I am testing the ability to put together arbitrary logic using

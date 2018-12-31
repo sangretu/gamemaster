@@ -97,46 +97,55 @@
       session.initialize();
     }
     
+    // simple case thing?
+    var executeTableRoll = function(table)
+    {
+      var option = RandomDungeonGeneration.roll(table);
+      
+      var a = option.activities;
+        
+      for (var i in a) { console.log(a[i]()); };
+      
+      var output = option.text;
+      
+      output = option.roll.toString() + '\n' + output;
+      
+      return output;
+    };
+    
     // overwriting stuff from console
     var execute = function(cmd)
     {
       switch(cmd)
       {
         case 'door':
-          //return tables.tableDoorsBeyond.roll().toString();          
-          var option = RandomDungeonGeneration.roll(RandomDungeonGeneration.tables.doors_beyond);
-          
-          var a = option.activities;
-            
-          for (var i in a) { console.log(a[i]()); };
-          
-          return option.text;
+          //return tables.tableDoorsBeyond.roll().toString();
+          return executeTableRoll(RandomDungeonGeneration.tables.doors_beyond);
           break;
         case 'passageway' :
           //return tables.tablePeriodicCheck.roll().toString();
-          var option = RandomDungeonGeneration.roll(RandomDungeonGeneration.tables.periodic_check);
-          
-          var a = option.activities;
-            
-          for (var i in a) { console.log(a[i]()); };
-          
-          return option.text;
-          
+          return executeTableRoll(RandomDungeonGeneration.tables.periodic_check);          
           break;
         case 'room' :
-          return tables.tableRoomShapeAndSize.roll().toString();
+          //return tables.tableRoomShapeAndSize.roll().toString();
+          return executeTableRoll(RandomDungeonGeneration.tables.room_shape_and_size);
           break;
         case 'chamber' :
-          return tables.tableChamberShapeAndSize.roll().toString();
+          //return tables.tableChamberShapeAndSize.roll().toString();
+          return executeTableRoll(RandomDungeonGeneration.tables.chamber_shape_and_size);
           break;
         case 'monster' :
-          return tables.tableDungeonRandomMonsterLevel1.roll().toString();
+          //return tables.tableDungeonRandomMonsterLevel1.roll().toString();
+          // TODO: should determine monster level first
+          return executeTableRoll(RandomDungeonGeneration.tables.monster_level_1);
           break;
         case 'trick / trap' :
-          return tables.tableTrickTrap.roll().toString();
+          //return tables.tableTrickTrap.roll().toString();
+          return executeTableRoll(RandomDungeonGeneration.tables.trick_trap);
           break;
         case 'treasure' :
-          return tables.tableTreasure.roll().toString();
+          //return tables.tableTreasure.roll().toString();
+          return executeTableRoll(RandomDungeonGeneration.tables.treasure);
           break;
         case 'clear' :
           terminal.tty.textContent = '';
@@ -157,7 +166,8 @@
 
       while (cmd = this.cmdQueue.shift())
       {
-        this.appendText('> ' + cmd);
+        // 20181230 Differentiating commands from text, see similar changes in console.js and console.css
+        this.appendCommand('> ' + cmd);
         
         // NOTE: more gamemaster tweaks
         var response = execute(cmd);
@@ -167,6 +177,10 @@
         //console.log(response);
         //this.appendText(response.resultText);
         this.appendText(response);
+      
+        // 20181230 jQuery scrolling was done like so:
+        // $console.parent().animate({scrollTop: $console.height()}, {duration: 1000, queue: false});
+        this.element.center.scroll({left:0, top:this.element.center.scrollHeight, behavior:'smooth'});
       }
     }
     

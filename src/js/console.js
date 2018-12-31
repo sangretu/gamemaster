@@ -125,6 +125,21 @@
     // (2018-04-15, gamemaster prototype)
 		//$(center).animate({scrollTop: $(center.tty).height()}, {duration: 1000, queue: false});
 	}
+  
+  // 20181230 copied from appendText, differentiating commands
+  Console.prototype.appendCommand = function(text)
+	{
+		var center = this.getElement().center;
+		
+		var entry = document.createElement('div');
+		entry.setAttribute('class', 'entry command');
+		entry.innerText = text;
+		center.tty.appendChild(entry);
+		
+    // NOTE: yoinking this for now because its the only jQuery dependency remaining
+    // (2018-04-15, gamemaster prototype)
+		//$(center).animate({scrollTop: $(center.tty).height()}, {duration: 1000, queue: false});
+	}
 	
 	Console.prototype.initialize = function(sessionTime)
 	{
@@ -194,7 +209,8 @@
 
 		while (cmd = this.cmdQueue.shift())
 		{
-			this.appendText('> ' + cmd);
+      // 20181230 differentiating commands from output
+			this.appendCommand('> ' + cmd);
 			
 			// NOTE: more gamemaster tweaks
 			execute(cmd);
@@ -202,6 +218,10 @@
       var response = gmClient.responseQueue.dequeue();
 			console.log(response);
 			this.appendText(response.resultText);
+      
+      // 20181230 jQuery scrolling was done like so:
+      // $console.parent().animate({scrollTop: $console.height()}, {duration: 1000, queue: false});
+      this.element.center.scroll({left:0, top:this.element.center.scrollHeight, behavior:smooth});
 		}
 	}
 	

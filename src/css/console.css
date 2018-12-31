@@ -59,6 +59,11 @@ textarea
 	border-top                   : 1px groove threedface;
 }
 
+.window .center .tty .entry.command
+{
+	color                        : white;
+}
+
 .window .bottom .cmdArea
 {
 	background-color             : black;
