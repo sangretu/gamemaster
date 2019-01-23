@@ -16,20 +16,20 @@
 
 { /* Utilities */
 
-	// execute a command with the given arguments
-	// TODO: rough first version, very naive
-	var execute = function(cmd)
-	{
+  // execute a command with the given arguments
+  // TODO: rough first version, very naive
+  var execute = function(cmd)
+  {
     // NOTE: Integrating with gamemaster
     sendCommand(cmd);
-	}
+  }
 
 }
 
 { /* CLASSES */
 
-	{ // Window
-	
+  { // Window
+
     var Window = function(properties)
     {
       Component.call(this);
@@ -207,7 +207,7 @@
     {
       Window.prototype.initialize.call(this);
       
-      var cmd = ''
+      var cmd = '';
 
       while (cmd = this.cmdQueue.shift())
       {
@@ -215,7 +215,9 @@
         this.appendCommand('> ' + cmd);
         
         // NOTE: more gamemaster tweaks
-        execute(cmd);
+        //execute(cmd);
+        var response = execute(cmd);
+        // 20190123 not sure what if anything to do with this "response"...previous version didn't even capture it?
         
         var response = gmClient.responseQueue.dequeue();
         console.log(response);
@@ -223,9 +225,8 @@
         
         // 20181230 jQuery scrolling was done like so:
         // $console.parent().animate({scrollTop: $console.height()}, {duration: 1000, queue: false});
-        this.element.center.scroll({left:0, top:this.element.center.scrollHeight, behavior:smooth});
+        this.element.center.scroll({left:0, top:this.element.center.scrollHeight, behavior:'smooth'});
       }
-    }
-    
+    };    
   }
 }

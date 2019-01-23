@@ -158,28 +158,17 @@
       // console.log('Execute : ' + cmd);
     };
     
+    // 20190123 Tried removing this to use the default function but bastion implementation seems
+    // to be missing the gmClient object, so using this version here until I can fix this.
     Console.prototype.update = function(sessiontime)
     {
       Window.prototype.initialize.call(this);
-      
-      var cmd = ''
-
+      var cmd = '';
       while (cmd = this.cmdQueue.shift())
       {
-        // 20181230 Differentiating commands from text, see similar changes in console.js and console.css
         this.appendCommand('> ' + cmd);
-        
-        // NOTE: more gamemaster tweaks
         var response = execute(cmd);
-        
-        //var response = gmClient.responseQueue.dequeue();
-        //var response = 'placeholder';
-        //console.log(response);
-        //this.appendText(response.resultText);
         this.appendText(response);
-      
-        // 20181230 jQuery scrolling was done like so:
-        // $console.parent().animate({scrollTop: $console.height()}, {duration: 1000, queue: false});
         this.element.center.scroll({left:0, top:this.element.center.scrollHeight, behavior:'smooth'});
       }
     }
