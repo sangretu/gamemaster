@@ -9,7 +9,7 @@
 console.log('Game Master Evolution');
 
 /*
- step 10.   refine hit odds. Assign the goblin an appropriate armor class from the monster manual. Assign minimum to hit values based on character class. Similarly for the goblin.  these should be static for now, but annotate the code to indicate the assumption of fighting this specific opponent. 
+ step 11.  how to put dye rolls. With variable minimum hit requirements, it is necessary to understand what roles were made in order to determine if the calculations are correct.  include the results of each die roll with the output indicating a hit or miss.
 */
 
 var character_classes =
@@ -150,27 +150,31 @@ var attack = function()
 
   if (player_hit_points > 0)
   {
-    if (roll_die(20) >= player_thac_goblin) // (20 - goblin_armor_class) )
+    var hit_roll = roll_die(20);
+    
+    if (hit_roll >= player_thac_goblin) // (20 - goblin_armor_class) )
     {
       var damage = roll_die(6);
-      console.log('you hit the goblin for ' + damage + ' points of damage');
+      console.log('you hit the goblin (' + hit_roll + '/' + player_thac_goblin + ') for ' + damage + ' points of damage');
       goblin_hit_points -= damage;
     } else
     {
-      console.log('you miss the goblin');
+      console.log('you miss the goblin (' + hit_roll + '/' + player_thac_goblin + ')');
     };
   }
   
   if (goblin_hit_points > 0)
-  {  
-    if (roll_die(20) >= (goblin_thac0 - player_armor_class))// (20 - player_armor_class) )
+  {
+    var hit_roll = roll_die(20);
+    
+    if (hit_roll >= (goblin_thac0 - player_armor_class))// (20 - player_armor_class) )
     {
       var damage = roll_die(4);
-      console.log('the goblin hit you for ' + damage + ' points of damage');
+      console.log('the goblin hit you (' + hit_roll + '/' + (goblin_thac0 - player_armor_class) + ') for ' + damage + ' points of damage');
       player_hit_points -= damage;
     } else
     {
-      console.log('the goblin misses you');
+      console.log('the goblin misses you (' + hit_roll + '/' + (goblin_thac0 - player_armor_class) + ')');
     };
   }
   
