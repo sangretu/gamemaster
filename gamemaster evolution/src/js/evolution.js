@@ -9,7 +9,7 @@
 console.log('Game Master Evolution');
 
 /*
- step five.  randomize points. The player receives a random number of her points from 1 to 10, the goblin receives a random number of his points from 1 to 4. 
+ step six.  status updates. At the beginning of each round, the player and the goblins current and maximum points are displayed. 
 */
 
 var roll_die = function(max)
@@ -18,8 +18,10 @@ var roll_die = function(max)
   return Math.floor(Math.random()*Math.floor(max-min))+min;
 };
 
-var goblin_hit_points = roll_die(4);
-var player_hit_points = roll_die(10);
+var goblin_max_hit_points = roll_die(4);
+var player_max_hit_points = roll_die(10);
+var goblin_hit_points = goblin_max_hit_points;
+var player_hit_points = player_max_hit_points;
 var current_round     = 0;
 
 var btn_attack;
@@ -50,6 +52,8 @@ var attack = function()
 {
   current_round++;
   console.log('------------ round ' + current_round + ' ------------');
+  console.log('Player : ' + player_hit_points + '/' + player_max_hit_points + ' hp');
+  console.log('Goblin : ' + goblin_hit_points + '/' + goblin_max_hit_points + ' hp');
 
   if (roll_die(20) >= 10)
   {

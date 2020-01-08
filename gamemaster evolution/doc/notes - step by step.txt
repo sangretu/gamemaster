@@ -12,7 +12,7 @@ During this week off, I want to make progress on getting master in a new way. Sp
 
  [X] step four.  convert actions to buttons. Add an attack and flee button to the page, which perform the same action as the function calls. 
 
- [ ] step five.  randomize points. The player receives a random number of her points from 1 to 10, the goblin receives a random number of his points from 1 to 4. 
+ [X] step five.  randomize points. The player receives a random number of her points from 1 to 10, the goblin receives a random number of his points from 1 to 4. 
 
  [ ] step six.  status updates. At the beginning of each round, the player and the goblins current and maximum points are displayed. 
 
