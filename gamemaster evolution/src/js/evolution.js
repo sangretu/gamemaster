@@ -9,11 +9,12 @@
 console.log('Game Master Evolution');
 
 /*
- step one. A goblin fight. Goblin has four hit points, player has 10 hit points. Both need to roll a 10 on a 20 sided die to hit the other.  A successful hit does one damage.  output is sent to the consul, with the text “you hit the goblin“, you miss the goblin“, “the goblin hits you“, or “the goblin misses you“.  once one of the fighters is reduced to zero points, the other fighter is announced as the winner.  The player attacks first. 
+ step two. Add round markers. Between each set of attacks, a divider line is shown along with the current round number. Final read out has the number of rounds append it, for example, “the goblin one in three rounds. 
 */
 
 var goblin_hit_points = 4;
 var player_hit_points = 10;
+var current_round     = 0;
 
 var roll_to_hit = function()
 {
@@ -22,6 +23,10 @@ var roll_to_hit = function()
 
 while (goblin_hit_points > 0 && player_hit_points > 0)
 {
+
+  current_round++;
+  console.log('------------ round ' + current_round + ' ------------');
+
   if (roll_to_hit() >= 10)
   {
     console.log('you hit the goblin');
@@ -41,9 +46,10 @@ while (goblin_hit_points > 0 && player_hit_points > 0)
   {
     console.log('the goblin misses you');
   };
+  
 };
 
-if (goblin_hit_points == 0) console.log('you win');
-else if (player_hit_points == 0) console.log('goblin wins');
+if (goblin_hit_points == 0) console.log('you win in ' + current_round + ' rounds');
+else if (player_hit_points == 0) console.log('goblin wins in ' + current_round + ' rounds');
 else console.log('error');
 
