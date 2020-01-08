@@ -9,7 +9,7 @@
 console.log('Game Master Evolution');
 
 /*
- step six.  status updates. At the beginning of each round, the player and the goblins current and maximum points are displayed. 
+ step seven.  variable weapon damage. The player does a random amount of damage from 1 to 6 points each time they hit. The goblin does a random amount of damage from 1 to 4 points each time it hits. The amount of damage done each time is added to the readout, for example, “you hit the goblin for two points of damage.“
 */
 
 var roll_die = function(max)
@@ -27,8 +27,7 @@ var current_round     = 0;
 var btn_attack;
 var btn_flee;
 
-init_buttons = function()
-{
+init_buttons = function() {
   btn_attack = document.createElement('button');
   btn_attack.textContent = 'attack';
   btn_attack.onclick = attack;
@@ -38,8 +37,7 @@ init_buttons = function()
   btn_flee.onclick = flee;
 };
 
-window.onload = function(e)
-{
+window.onload = function(e) {
   init_buttons();
   document.getElementById('content').appendChild(btn_attack);
   document.getElementById('content').appendChild(btn_flee);
@@ -55,29 +53,34 @@ var attack = function()
   console.log('Player : ' + player_hit_points + '/' + player_max_hit_points + ' hp');
   console.log('Goblin : ' + goblin_hit_points + '/' + goblin_max_hit_points + ' hp');
 
-  if (roll_die(20) >= 10)
+  if (player_hit_points > 0)
   {
-    console.log('you hit the goblin');
-    goblin_hit_points--;
-  } else
-  {
-    console.log('you miss the goblin');
-  };
+    if (roll_die(20) >= 10)
+    {
+      var damage = roll_die(6);
+      console.log('you hit the goblin for ' + damage + ' points of damage');
+      goblin_hit_points -= damage;
+    } else
+    {
+      console.log('you miss the goblin');
+    };
+  }
   
   if (goblin_hit_points > 0)
   {  
     if (roll_die(20) >= 10)
     {
-      console.log('the goblin hit you');
-      player_hit_points--;
+      var damage = roll_die(4);
+      console.log('the goblin hit you for ' + damage + ' points of damage');
+      player_hit_points -= damage;
     } else
     {
       console.log('the goblin misses you');
     };
   }
   
-  if (goblin_hit_points == 0) console.log('you win in ' + current_round + ' rounds');
-  else if (player_hit_points == 0) console.log('goblin wins in ' + current_round + ' rounds');
+  if (goblin_hit_points <= 0) console.log('you win in ' + current_round + ' rounds');
+  else if (player_hit_points <= 0) console.log('goblin wins in ' + current_round + ' rounds');
 };
 
 var flee = function()
