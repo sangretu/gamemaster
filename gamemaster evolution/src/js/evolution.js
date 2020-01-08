@@ -9,12 +9,34 @@
 console.log('Game Master Evolution');
 
 /*
- step three.  allow the player to select an action for each round. The two actions the player may select “attack“ and “flea”. The player receives a simple prompt  on the consul, and inputs their selected option as a function call in the consul.  if the player fleas, the battle ends prematurely with the final output, “flat“.  amendment: “you flag after X rounds of combat“. 
+ step four.  convert actions to buttons. Add an attack and flee button to the page, which perform the same action as the function calls. 
 */
 
 var goblin_hit_points = 4;
 var player_hit_points = 10;
 var current_round     = 0;
+
+var btn_attack;
+var btn_flee;
+
+init_buttons = function()
+{
+  btn_attack = document.createElement('button');
+  btn_attack.textContent = 'attack';
+  btn_attack.onclick = attack;
+
+  btn_flee   = document.createElement('button');
+  btn_flee.textContent = 'flee';
+  btn_flee.onclick = flee;
+};
+
+window.onload = function(e)
+{
+  init_buttons();
+  document.getElementById('content').appendChild(btn_attack);
+  document.getElementById('content').appendChild(btn_flee);
+}
+
 
 var roll_to_hit = function()
 {
