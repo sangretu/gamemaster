@@ -9,11 +9,17 @@
 console.log('Game Master Evolution');
 
 /*
- step four.  convert actions to buttons. Add an attack and flee button to the page, which perform the same action as the function calls. 
+ step five.  randomize points. The player receives a random number of her points from 1 to 10, the goblin receives a random number of his points from 1 to 4. 
 */
 
-var goblin_hit_points = 4;
-var player_hit_points = 10;
+var roll_die = function(max)
+{
+  var min = 1;
+  return Math.floor(Math.random()*Math.floor(max-min))+min;
+};
+
+var goblin_hit_points = roll_die(4);
+var player_hit_points = roll_die(10);
 var current_round     = 0;
 
 var btn_attack;
@@ -37,18 +43,15 @@ window.onload = function(e)
   document.getElementById('content').appendChild(btn_flee);
 }
 
-
-var roll_to_hit = function()
-{
-  return Math.floor(Math.random()*20);
-};
+console.log('goblin_hit_points = ' + goblin_hit_points);
+console.log('player_hit_points = ' + player_hit_points);
 
 var attack = function()
 {
   current_round++;
   console.log('------------ round ' + current_round + ' ------------');
 
-  if (roll_to_hit() >= 10)
+  if (roll_die(20) >= 10)
   {
     console.log('you hit the goblin');
     goblin_hit_points--;
@@ -59,7 +62,7 @@ var attack = function()
   
   if (goblin_hit_points > 0)
   {  
-    if (roll_to_hit() >= 10)
+    if (roll_die(20) >= 10)
     {
       console.log('the goblin hit you');
       player_hit_points--;

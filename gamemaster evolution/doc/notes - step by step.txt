@@ -10,7 +10,7 @@ During this week off, I want to make progress on getting master in a new way. Sp
 
  [X] step three.  allow the player to select an action for each round. The two actions the player may select “attack“ and “flea”. The player receives a simple prompt  on the consul, and inputs their selected option as a function call in the consul.  if the player fleas, the battle ends prematurely with the final output, “flat“.  amendment: “you flag after X rounds of combat“. 
 
- [ ] step four.  convert actions to buttons. Add an attack and flee button to the page, which perform the same action as the function calls. 
+ [X] step four.  convert actions to buttons. Add an attack and flee button to the page, which perform the same action as the function calls. 
 
  [ ] step five.  randomize points. The player receives a random number of her points from 1 to 10, the goblin receives a random number of his points from 1 to 4. 
 
