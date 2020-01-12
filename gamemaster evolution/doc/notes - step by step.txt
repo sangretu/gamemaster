@@ -30,7 +30,7 @@ During this week off, I want to make progress on getting master in a new way. Sp
 
  [X] step 12.  specific weapons.  when character class is selected, randomly assign one of the set of allowed weapons for that character class and indicate the result in the output.   apply the appropriate damage range based on this specific opponent, to include its size and armor for that specific. Annotate as indicated previously.  make appropriate adjustments to the hit role as indicated in the weapon the type versus armor type table.  include this information in the class selection section. 
 
- [ ] step 13.  add round zero to indicate the beginning of combat. Move data pertinent to the specific set of fighters into this section. 
+ [X] step 13.  add round zero to indicate the beginning of combat. Move data pertinent to the specific set of fighters into this section. 
 
  [ ] step 14.  include target role information. When a roll to hit is made, include not only the result of the role, but the target value as well. 
 

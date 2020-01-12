@@ -9,7 +9,7 @@
 console.log('Game Master Evolution');
 
 /*
- step 13.  add round zero to indicate the beginning of combat. Move data pertinent to the specific set of fighters into this section. 
+ step 14.  include target role information. When a roll to hit is made, include not only the result of the role, but the target value as well. 
 */
 
 var roll_die = function(max)
