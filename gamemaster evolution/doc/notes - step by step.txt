@@ -26,7 +26,7 @@ During this week off, I want to make progress on getting master in a new way. Sp
 
  [X] step 10.   refine hit odds. Assign the goblin an appropriate armor class from the monster manual. Assign minimum to hit values based on character class. Similarly for the goblin.  these should be static for now, but annotate the code to indicate the assumption of fighting this specific opponent. 
 
- [ ] step 11.  how to put dye rolls. With variable minimum hit requirements, it is necessary to understand what roles were made in order to determine if the calculations are correct.  include the results of each die roll with the output indicating a hit or miss. 
+ [X] step 11.  how to put dye rolls. With variable minimum hit requirements, it is necessary to understand what roles were made in order to determine if the calculations are correct.  include the results of each die roll with the output indicating a hit or miss. 
 
  [ ] step 12.  specific weapons.  when character class is selected, randomly assign one of the set of allowed weapons for that character class and indicate the result in the output.   apply the appropriate damage range based on this specific opponent, to include its size and armor for that specific. Annotate as indicated previously.  make appropriate adjustments to the hit role as indicated in the weapon the type versus armor type table.  include this information in the class selection section. 
 
