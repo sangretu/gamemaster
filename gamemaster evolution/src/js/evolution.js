@@ -9,7 +9,7 @@
 console.log('Game Master Evolution');
 
 /*
- step 12.  specific weapons.  when character class is selected, randomly assign one of the set of allowed weapons for that character class and indicate the result in the output.   apply the appropriate damage range based on this specific opponent, to include its size and armor for that specific. Annotate as indicated previously.  make appropriate adjustments to the hit role as indicated in the weapon the type versus armor type table.  include this information in the class selection section.
+ step 13.  add round zero to indicate the beginning of combat. Move data pertinent to the specific set of fighters into this section. 
 */
 
 var roll_die = function(max)
@@ -81,6 +81,8 @@ var goblin_thac0          = 21;
 
 var current_round         = 0;
 
+console.log('------------ round ' + current_round + ' ------------');
+  
 console.log
 (
   'Player : '       + player_class_name 
