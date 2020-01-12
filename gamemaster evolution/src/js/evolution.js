@@ -9,7 +9,7 @@
 console.log('Game Master Evolution');
 
 /*
- step 14.  include target role information. When a roll to hit is made, include not only the result of the role, but the target value as well. 
+ step 15.  status button. Add a third button to the interface which displays the current state of the battle and the fighters. 
 */
 
 var roll_die = function(max)
@@ -82,7 +82,7 @@ var goblin_thac0          = 21;
 var current_round         = 0;
 
 console.log('------------ round ' + current_round + ' ------------');
-  
+
 console.log
 (
   'Player : '       + player_class_name 
@@ -104,12 +104,17 @@ init_buttons = function() {
   btn_flee   = document.createElement('button');
   btn_flee.textContent = 'flee';
   btn_flee.onclick = flee;
+
+  btn_status = document.createElement('button');
+  btn_status.textContent = 'status';
+  btn_status.onclick = showstatus;
 };
 
 window.onload = function(e) {
   init_buttons();
   document.getElementById('content').appendChild(btn_attack);
   document.getElementById('content').appendChild(btn_flee);
+  document.getElementById('content').appendChild(btn_status);
 }
 
 console.log('goblin_hit_points = ' + goblin_hit_points);
@@ -167,4 +172,34 @@ var flee = function()
 {
   if (player_hit_points <= 0 || goblin_hit_points <= 0) return;
   console.log('you fled after ' + current_round + ' rounds of combat');
+};
+
+var showstatus = function()
+{
+  console.log('============ status ============');
+  
+  console.log('Combat status : ');
+  if      (goblin_hit_points <= 0) console.log('player won in ' + current_round + ' rounds');
+  else if (player_hit_points <= 0) console.log('goblin won in ' + current_round + ' rounds');
+  else                             console.log('in progress (round ' + current_round + ')');
+  
+  console.log
+  (
+    'Player : '       + player_class_name 
+    + ', hp '         + player_hit_points + '/' + player_max_hit_points
+    + ', ac '         + player_armor_class
+    + ', weapon '     + player_weapon_type.name
+    + ', damage '     + player_weapon_type.damage_SM + ' (' + qty_dice + 'd' + size_dice + '+' + damage_mod_goblin + ')'
+    + ', thac6 '      + player_thac_goblin
+  );
+  
+  console.log
+  (
+    'Monster : '      + 'goblin'
+    + ', hp '         + goblin_hit_points + '/' + goblin_max_hit_points
+    + ', ac '         + goblin_armor_class
+    + ', weapon '     + 'undefined'
+    + ', damage '     + '1-4 (1d4+0)'
+    + ', thacPlayer ' + (goblin_thac0 - player_armor_class)
+  );
 };
