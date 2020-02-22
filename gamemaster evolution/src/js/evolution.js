@@ -9,8 +9,63 @@
 console.log('Game Master Evolution');
 
 /*
- step 15.  status button. Add a third button to the interface which displays the current state of the battle and the fighters. 
+ step 16. Add a kobold. Randomly determine which of the two monster types is the players opponent at the beginning of the battle. Make the necessary adjustments to target values and modifiers. 
 */
+
+{ /* Classes */
+
+  { // Monster
+  
+    var Monster = function(type)
+    {
+      /// TODO: This should be protected
+      this.type = type;
+      
+      // make getters referance available through instances
+      //this.getters = Monster.getters;
+    };
+    
+    // Master "get" function, offers mitigation of version compatibility issues
+    // by allowing attempts to retrieve data that may not be supported by the
+    // object being queried.
+    Monster.prototype.get         = function(getter)
+    {
+      if (getter == undefined) return undefined;
+      
+      /// NOTE: I wanted to construct it like this, but context got really messy, worth revisiting
+      /// return getter();
+      
+      if (getter === this.getters.type      ) return this.get_type();
+      if (getter === this.getters.type_name ) return this.get_type_name();
+      if (getter === this.getters.ac        ) return this.get_ac();
+      if (getter === this.getters.hp        ) return this.get_hp();
+      if (getter === this.getters.attacks   ) return this.get_attacks();
+      
+      return 'no getter';
+    };
+    
+    Monster.prototype.get_type      = function() { return this.type;           };
+    
+    Monster.prototype.get_type_name = function() { return this.type.type_name; };
+    
+    Monster.prototype.get_ac        = function() { return this.type.ac;        };
+    
+    Monster.prototype.get_hp        = function() { return this.type.hd;        }; /// TODO: not correct
+    
+    Monster.prototype.get_attacks   = function() { return 1;                   }; /// TODO: not correct
+    
+    Monster.prototype.getters =
+    {
+      type      : Monster.prototype.get_type,
+      type_name : Monster.prototype.get_type_name,
+      ac        : Monster.prototype.get_ac,
+      hp        : Monster.prototype.get_hp,
+      attacks   : Monster.prototype.get_attacks
+    };
+    
+  }
+
+}
 
 var roll_die = function(max)
 {

@@ -1,0 +1,18 @@
+[20200222]
+
+Starting a design doc because I need to record some decisions that have become necessary to make.
+
+I'm adding monster types, which necessitates a set of structural changes to the program which are best accomplished by proper organization. I realize at this point I am breaking the purpose of the experiment but it's been stale for a month now anyway and I feel like it did help me get off to a quicker start. To make progress, I have to get past the daunting feeling of this next step, and the only way I know of to do that is to solve the underlying issue.
+
+That means adding classes. And that brings up the question of class structures and heirarchies, which has been banging around in my head for a long time. I have several standards which I want to implement, including:
+
+  bastion/bulwark for underlying data structures
+  all values being retrieved by function
+  a master "get" function
+  a set of "get" types
+  a standard "context" parameter
+  a master class codifying much of this stuff
+
+I can skip much of this for now I think, but it's going to come up again soon.
+
+Regarding the master "get" function; I was considering having a defined set of properties for each class, which could be passed as a parameter to the function, but now I'm thinking that actually defeats the purpose of having a generalized get function in the sense that there's little difference between m.get_foo() and m.get(m.properties.foo) ... although I suppose one would send an undefined object while the other would throw an exception? But what about m.get('foo'), which was my initial concept? Could still be supported in JavaScript but strongly typed languages would choke on it. I'm tempted to keep the set of properties approach and just handle undefined parameters graciously, which would also obviate the need for passing strings.
