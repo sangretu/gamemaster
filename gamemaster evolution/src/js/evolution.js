@@ -100,7 +100,9 @@ for (var wtype in weapon_types)
   }
 };
 var player_weapon_type = available_types[roll_die(available_types.length)-1];
-var player_thac_goblin    = player_class.thac_goblin - (player_weapon_type.melee?player_weapon_type.ac_mods_2_to_10[4]:0);
+// TODO: index of "2 to 10" needs to be based on monster ac ... eventually armor type
+var player_thac0          = player_class.thac0 - (player_weapon_type.melee?player_weapon_type.ac_mods_2_to_10[4]:0);
+//var player_thac_goblin    = player_class.thac_goblin - (player_weapon_type.melee?player_weapon_type.ac_mods_2_to_10[4]:0);
 
 // TODO: convert range to die roll.
 // NOTE: need logic to determine rolls necessary for e.g., 2-8, 2-7, 3-12
@@ -146,6 +148,7 @@ console.log
   + ', weapon '     + player_weapon_type.name
   + ', damage '     + player_weapon_type.damage_SM + ' (' + qty_dice + 'd' + size_dice + '+' + damage_mod_goblin + ')'
   + ', thac6 '      + player_thac_goblin
+/// TODO: 20200224 left off around here; added thac0 to character classes, not done converting from thac_goblin here.
 );
 
 var btn_attack;
