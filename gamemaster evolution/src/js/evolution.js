@@ -9,15 +9,23 @@
 console.log('Game Master Evolution');
 
 /*
- step 15.  status button. Add a third button to the interface which displays the current state of the battle and the fighters. 
+ step 16.  add a cobalt. Randomly determine which of the two monster types is the players opponent at the beginning of the battle. Make the necessary adjustments to target values and modifiers. 
 */
 
-var roll_die = function(max)
-{
-  var min = 1;
-  var result = Math.floor(Math.random()*Math.floor(max-min+1))+min;
-  return result;
-};
+{ /* Utilities */
+
+  var roll_die = function(max)
+  {
+    var min = 1;
+    var result = Math.floor(Math.random()*Math.floor(max-min+1))+min;
+    return result;
+  };
+
+}
+
+// determine monster
+var monster_type_index = roll_die(monster_types.length)-1;
+var monster = new Monster(monster_types[monster_type_index]);
 
 var player_class = character_classes[roll_die(character_classes.length)-1];
 
@@ -25,6 +33,7 @@ var player_class_name     = player_class.class_name;
 var player_max_hit_points = roll_die(player_class.max_hp);
 var player_hit_points     = player_max_hit_points;
 var player_armor_class    = player_class.ac;
+
 // choose weapon type
 var available_types = [];
 for (var wtype in weapon_types)
@@ -44,28 +53,27 @@ for (var wtype in weapon_types)
     }
   }
 };
+
 var player_weapon_type = available_types[roll_die(available_types.length)-1];
-var player_thac_goblin    = player_class.thac_goblin - (player_weapon_type.melee?player_weapon_type.ac_mods_2_to_10[4]:0);
+//var player_thac_goblin    = player_class.thac_goblin - (player_weapon_type.melee?player_weapon_type.ac_mods_2_to_10[4]:0);
+var player_thac_monster = player_class.thac0 - (10 - monster.get().ac) - (player_weapon_type.melee?player_weapon_type.ac_mods_2_to_10[monster.get().ac - 2]:0);
 
-// TODO: convert range to die roll.
-// NOTE: need logic to determine rolls necessary for e.g., 2-8, 2-7, 3-12
-// NOTE: need new die roller or just call the regular one multiple times?
-
-var damage_range_goblin = player_weapon_type.damage_SM;
-if ( (damage_range_goblin.indexOf('-') < 1 ) ) throw 'invalid damage range : ' + damage_range_goblin + ' (' + player_weapon_type.name + ')';
-var damage_min_goblin   = damage_range_goblin.substring(0, damage_range_goblin.indexOf('-'));
-var damage_max_goblin   = damage_range_goblin.substring(damage_range_goblin.indexOf('-')+1);
+// Convert range to die roll.
+var damage_range_monster = player_weapon_type.damage_SM;
+if ( (damage_range_monster.indexOf('-') < 1 ) ) throw 'invalid damage range : ' + damage_range_monster + ' (' + player_weapon_type.name + ')';
+var damage_min_monster  = monster.get().damage_range.substring(0, monster.get().damage_range.indexOf('-'));
+var damage_max_monster  = monster.get().damage_range.substring(monster.get().damage_range.indexOf('-')+1);
 // TODO: maybe put this in a loop?
 // What is the exact logic anyway?
 // If min % max == 0, then roll min dice with max/min sides
 // Proper calculation from here relies on knowledge of D&D dice sets to know e.g., 4-19 is a curve of 3d6+1, rather than 1d16+3
 // But for this exercise, I think we can convert ranges with remainders to min-X to max-X where min = 1+X
 // Which actually works for the baseline formula as well...well, sort of...confuses with multiple dice
-var damage_mod_goblin   = 0;
+var damage_mod_monster   = 0;
 
-if ( ( !(damage_max_goblin % damage_min_goblin == 0) ) )
+if ( ( !(damage_max_monster % damage_min_monster == 0) ) )
 {
-  damage_mod_goblin = damage_min_goblin - 1;
+  damage_mod_monster = damage_min_monster  - 1;
 };
 
 // So we roll damage_min_goblin - damage_mod_goblin dice with (damage_max_goblin - damage_mod_goblin) / (damage_min_goblin - damage_mod_goblin) sides?

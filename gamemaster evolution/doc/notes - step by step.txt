@@ -34,7 +34,7 @@ During this week off, I want to make progress on getting master in a new way. Sp
 
  [X] step 14.  include target role information. When a roll to hit is made, include not only the result of the role, but the target value as well. 
 
- [ ] step 15.  status button. Add a third button to the interface which displays the current state of the battle and the fighters. 
+ [X] step 15.  status button. Add a third button to the interface which displays the current state of the battle and the fighters. 
 
  [ ] step 16.  add a cobalt. Randomly determine which of the two monster types is the players opponent at the beginning of the battle. Make the necessary adjustments to target values and modifiers. 
 
