@@ -1,0 +1,88 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "put on your robe and wizard hat",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "devnull",
+          "slots": [],
+          "samples": [
+            "pipe to devnull"
+          ]
+        },
+        {
+          "name": "admin_console",
+          "slots": [],
+          "samples": [
+            "computer arch",
+            "give me the admin console",
+            "admin console"
+          ]
+        },
+        {
+          "name": "admin_change_voice",
+          "slots": [],
+          "samples": [
+            "use a different voice",
+            "can you change the voice please",
+            "can we use a different voice",
+            "I don\u0027t like this voice",
+            "change to a different voice",
+            "change the voice"
+          ]
+        },
+        {
+          "name": "look",
+          "slots": [],
+          "samples": [
+            "what do I see",
+            "where am I",
+            "look around",
+            "look"
+          ]
+        },
+        {
+          "name": "listen",
+          "slots": [],
+          "samples": [
+            "I can\u0027t hear that",
+            "what",
+            "I heard something",
+            "listen carefully",
+            "listen",
+            "did you hear that",
+            "what was that sound",
+            "what was that"
+          ]
+        }
+      ],
+      "types": [],
+      "modelConfiguration": {
+        "fallbackIntentSensitivity": {
+          "level": "LOW"
+        }
+      }
+    }
+  },
+  "version": "6"
+}

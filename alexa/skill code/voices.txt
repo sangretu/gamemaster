@@ -1,0 +1,47 @@
+<voice name="Kendra">
+ I am going to spell out Hello as <say-as interpret-as="spell-out">hello</say-as>. Now and then, I speak <voice name="Hans"><lang xml:lang="de-DE">Deutsch</lang></voice> and <voice name="Celine"><lang xml:lang="fr-FR">français</lang></voice> and  <voice name="Enrique"><lang xml:lang="es-ES">español</lang>.</voice>
+</voice>
+
+
+Ivy
+Joanna
+Kendra
+Kimberly
+Salli
+Joey
+Justin
+Kevin
+Matthew
+
+
+
+
+<voice name = "Ivy"      ></voice>
+<voice name = "Joanna"   ></voice>
+<voice name = "Kendra"   ></voice>
+<voice name = "Kimberly" ></voice>
+<voice name = "Salli"    ></voice>
+<voice name = "Joey"     ></voice>
+<voice name = "Justin"   ></voice>
+<voice name = "Kevin"    ></voice>
+<voice name = "Matthew"  ></voice>
+
+
+
+
+
+
+<voice name = "Ivy"      >My name is Ivy.</voice>
+<voice name = "Joanna"   >My name is Joanna.</voice>
+<voice name = "Kendra"   >My name is Kendra.</voice>
+<voice name = "Kimberly" >My name is Kimberly.</voice>
+<voice name = "Salli"    >My name is Salli.</voice>
+<voice name = "Joey"     >My name is Joey.</voice>
+<voice name = "Justin"   >My name is Justin.</voice>
+<voice name = "Kevin"    >My name is Kevin.</voice>
+<voice name = "Matthew"  >My name is Matthew.</voice>
+
+
+
+
+<voice name = "Ivy"      >My name is Ivy.</voice><voice name = "Joanna"   >My name is Joanna.</voice><voice name = "Kendra"   >My name is Kendra.</voice><voice name = "Kimberly" >My name is Kimberly.</voice><voice name = "Salli"    >My name is Salli.</voice><voice name = "Joey"     >My name is Joey.</voice><voice name = "Justin"   >My name is Justin.</voice><voice name = "Kevin"    >My name is Kevin.</voice><voice name = "Matthew"  >My name is Matthew.</voice>

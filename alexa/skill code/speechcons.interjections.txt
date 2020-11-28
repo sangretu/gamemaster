@@ -1,0 +1,316 @@
+interjections.['abracadabra'] +
+interjections.['absolutely'] +
+interjections.['achoo'] +
+interjections.['ack'] +
+interjections.['agreed'] +
+interjections.['ah'] +
+interjections.['aha'] +
+interjections.['ahem'] +
+interjections.['ahoy'] +
+interjections.['alas'] +
+interjections.['all righty'] +
+interjections.['aloha'] +
+interjections.['alrighty'] +
+interjections.['anyhoo'] +
+interjections.['anytime'] +
+interjections.['aooga'] +
+interjections.['april fools''] +
+interjections.['argh'] +
+interjections.['arr'] +
+interjections.['arrivederci'] +
+interjections.['as if'] +
+interjections.['as you wish'] +
+interjections.['attagirl'] +
+interjections.['au revoir'] +
+interjections.['avast ye'] +
+interjections.['aw'] +
+interjections.['aw man'] +
+interjections.['awesome'] +
+interjections.['aww applesauce'] +
+interjections.['aww yeah'] +
+interjections.['ay'] +
+interjections.['aye'] +
+interjections.['baa'] +
+interjections.['bada bing bada boom'] +
+interjections.['bah humbug'] +
+interjections.['bam'] +
+interjections.['bang'] +
+interjections.['batter up'] +
+interjections.['bazinga'] +
+interjections.['beep beep'] +
+interjections.['behold'] +
+interjections.['bing'] +
+interjections.['bingo'] +
+interjections.['blah'] +
+interjections.['blarg'] +
+interjections.['blast'] +
+interjections.['blimey'] +
+interjections.['boing'] +
+interjections.['bon appetit'] +
+interjections.['bon voyage'] +
+interjections.['bonjour'] +
+interjections.['boo'] +
+interjections.['boo hoo'] +
+interjections.['boom'] +
+interjections.['booya'] +
+interjections.['bravo'] +
+interjections.['brrr'] +
+interjections.['buh bye'] +
+interjections.['bummer'] +
+interjections.['caw'] +
+interjections.['cha ching'] +
+interjections.['checkmate'] +
+interjections.['cheer up'] +
+interjections.['cheerio'] +
+interjections.['cheers'] +
+interjections.['chirp'] +
+interjections.['choo choo'] +
+interjections.['clank'] +
+interjections.['click clack'] +
+interjections.['cock a doodle doo'] +
+interjections.['coo'] +
+interjections.['cowabunga'] +
+interjections.['d'oh'] +
+interjections.['dang'] +
+interjections.['darn'] +
+interjections.['ding'] +
+interjections.['ding ding ding'] +
+interjections.['ding dong'] +
+interjections.['ditto'] +
+interjections.['dot dot dot'] +
+interjections.['drat'] +
+interjections.['dude'] +
+interjections.['duh'] +
+interjections.['dum'] +
+interjections.['dun dun dun'] +
+interjections.['dynomite'] +
+interjections.['eek'] +
+interjections.['eep'] +
+interjections.['eggselent'] +
+interjections.['eh?'] +
+interjections.['ehn'] +
+interjections.['en gard'] +
+interjections.['encore'] +
+interjections.['er'] +
+interjections.['eureka'] +
+interjections.['excellent'] +
+interjections.['fancy that'] +
+interjections.['fiddlesticks'] +
+interjections.['gadzooks'] +
+interjections.['gee'] +
+interjections.['gee whiz'] +
+interjections.['gee willikers'] +
+interjections.['geronimo'] +
+interjections.['giddy up'] +
+interjections.['giddyap'] +
+interjections.['golly'] +
+interjections.['good'] +
+interjections.['good afternoon'] +
+interjections.['good call'] +
+interjections.['good evening'] +
+interjections.['good grief'] +
+interjections.['good luck'] +
+interjections.['good morning'] +
+interjections.['good night'] +
+interjections.['good riddance'] +
+interjections.['goodbye'] +
+interjections.['gosh'] +
+interjections.['gotcha'] +
+interjections.['gracious me'] +
+interjections.['great'] +
+interjections.['great scott'] +
+interjections.['guess what'] +
+interjections.['ha'] +
+interjections.['ha ha'] +
+interjections.['hardy har har'] +
+interjections.['he shoots he scores'] +
+interjections.['heads up'] +
+interjections.['hear hear'] +
+interjections.['heave ho'] +
+interjections.['hee-yah'] +
+interjections.['hey now'] +
+interjections.['hi-yah'] +
+interjections.['high five'] +
+interjections.['hike'] +
+interjections.['hip hip hooray'] +
+interjections.['hiss'] +
+interjections.['hiya'] +
+interjections.['hmm'] +
+interjections.['holy smoke'] +
+interjections.['honk'] +
+interjections.['howdy'] +
+interjections.['huh'] +
+interjections.['hurrah'] +
+interjections.['hurray'] +
+interjections.['huzzah'] +
+interjections.['i'm totally kidding'] +
+interjections.['inconceivable'] +
+interjections.['indeed'] +
+interjections.['interesting'] +
+interjections.['jeepers creepers'] +
+interjections.['jeez'] +
+interjections.['jeez louise'] +
+interjections.['jiminy cricket'] +
+interjections.['jinx'] +
+interjections.['just joshin''] +
+interjections.['just kidding'] +
+interjections.['kablam'] +
+interjections.['kaboom'] +
+interjections.['kaching'] +
+interjections.['kapow'] +
+interjections.['katchow'] +
+interjections.['kazaam'] +
+interjections.['kerbam'] +
+interjections.['kerboom'] +
+interjections.['kerching'] +
+interjections.['kerchoo'] +
+interjections.['kerflop'] +
+interjections.['kerplop'] +
+interjections.['kerplunk'] +
+interjections.['kerpow'] +
+interjections.['kersplat'] +
+interjections.['kerthump'] +
+interjections.['kidding'] +
+interjections.['knock knock'] +
+interjections.['le sigh'] +
+interjections.['legendary'] +
+interjections.['look out'] +
+interjections.['magnificent'] +
+interjections.['mamma mia'] +
+interjections.['man overboard'] +
+interjections.['mazel tov'] +
+interjections.['meow'] +
+interjections.['merci'] +
+interjections.['mm hmm'] +
+interjections.['moo'] +
+interjections.['my bad'] +
+interjections.['my goodness'] +
+interjections.['nanu nanu'] +
+interjections.['neener neener'] +
+interjections.['never'] +
+interjections.['no'] +
+interjections.['no way'] +
+interjections.['now now'] +
+interjections.['nuh uh'] +
+interjections.['oh'] +
+interjections.['oh behave'] +
+interjections.['oh boy'] +
+interjections.['oh brother'] +
+interjections.['oh dear'] +
+interjections.['oh my'] +
+interjections.['oh snap'] +
+interjections.['oh well'] +
+interjections.['oink'] +
+interjections.['okey dokey'] +
+interjections.['oof'] +
+interjections.['ooh'] +
+interjections.['ooh la la'] +
+interjections.['oops'] +
+interjections.['open sesame'] +
+interjections.['ouch'] +
+interjections.['ow'] +
+interjections.['oy'] +
+interjections.['pew pew'] +
+interjections.['phew'] +
+interjections.['phooey'] +
+interjections.['ping'] +
+interjections.['play ball'] +
+interjections.['plop'] +
+interjections.['poof'] +
+interjections.['pop'] +
+interjections.['pow'] +
+interjections.['puh-leeze'] +
+interjections.['quack'] +
+interjections.['rats'] +
+interjections.['read 'em and weep'] +
+interjections.['really'] +
+interjections.['ribbit'] +
+interjections.['righto'] +
+interjections.['roger'] +
+interjections.['ruh roh'] +
+interjections.['schwing'] +
+interjections.['she shoots she scores'] +
+interjections.['sheesh'] +
+interjections.['shh'] +
+interjections.['shiver me timbers'] +
+interjections.['shoot'] +
+interjections.['shucks'] +
+interjections.['shush'] +
+interjections.['splash'] +
+interjections.['splendid'] +
+interjections.['spoiler alert'] +
+interjections.['squee'] +
+interjections.['stunning'] +
+interjections.['suit up'] +
+interjections.['swish'] +
+interjections.['swoosh'] +
+interjections.['ta da'] +
+interjections.['ta ta'] +
+interjections.['tee hee'] +
+interjections.['thanks for asking'] +
+interjections.['there there'] +
+interjections.['thump'] +
+interjections.['tick tick tick'] +
+interjections.['tick-tock'] +
+interjections.['totally kidding'] +
+interjections.['totally kidding of course'] +
+interjections.['totes'] +
+interjections.['touche'] +
+interjections.['tsk tsk'] +
+interjections.['tweet'] +
+interjections.['ugh'] +
+interjections.['uh'] +
+interjections.['uh huh'] +
+interjections.['uh oh'] +
+interjections.['uh uh'] +
+interjections.['um'] +
+interjections.['va va voom'] +
+interjections.['very'] +
+interjections.['voila'] +
+interjections.['vroom'] +
+interjections.['wah wah'] +
+interjections.['wahoo'] +
+interjections.['watch out'] +
+interjections.['way to go'] +
+interjections.['well'] +
+interjections.['well done'] +
+interjections.['well well'] +
+interjections.['wham'] +
+interjections.['whammo'] +
+interjections.['whee'] +
+interjections.['whew'] +
+interjections.['whoa'] +
+interjections.['whoo ah'] +
+interjections.['whoops'] +
+interjections.['whoops a daisy'] +
+interjections.['whoosh'] +
+interjections.['woo'] +
+interjections.['woo hoo'] +
+interjections.['woof'] +
+interjections.['wow'] +
+interjections.['wowza'] +
+interjections.['wowzer'] +
+interjections.['yabba dabba doo'] +
+interjections.['yadda yadda yadda'] +
+interjections.['yahoo'] +
+interjections.['yay'] +
+interjections.['yeah'] +
+interjections.['yeehaw'] +
+interjections.['yes'] +
+interjections.['yikes'] +
+interjections.['yippee'] +
+interjections.['yo'] +
+interjections.['yoink'] +
+interjections.['yoo hoo'] +
+interjections.['you bet'] +
+interjections.['you go girl'] +
+interjections.['you rang?'] +
+interjections.['yowza'] +
+interjections.['yowzer'] +
+interjections.['yuck'] +
+interjections.['yum'] +
+interjections.['zap'] +
+interjections.['zing'] +
+interjections.['zoinks'] +
+interjections.['zoom'] +
+zowie
