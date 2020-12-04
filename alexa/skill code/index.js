@@ -98,16 +98,26 @@ const lobby =
 
 var ivy_intro = function(handlerInput)
 {
-  var chirp     = '<audio src="soundbank://soundlibrary/animals/amzn_sfx_bird_forest_short_01"/>';
+  var chirp              = '<audio src="soundbank://soundlibrary/animals/amzn_sfx_bird_forest_short_01"/>';
+  var rustle             = '<audio src="soundbank://soundlibrary/various/various_02"/>';
+  var footsteps_on_grass = '<audio src="soundbank://soundlibrary/human/amzn_sfx_walking_on_grass_03"/>';
   
   var utterance = chirp
-      + ivy.announce()
-      + ivy.say('I grew up on the edge of the forest. My parents are, Joe the blacksmith')
-      + joanna.say('Joanna. Call me Joanna.')
-      + ivy.say('and Salli...')
-      + salli.say('Watchyerself, I don\'t need them knowin my name!')
-      + justin.announce()
-      + ivy.say('Justin, this is not about you.');
+      + ivy    .announce()
+      + ivy    .say     ( 'Are you ok? Here. Let me help you out of those bushes.' )
+      + rustle
+      + ivy    .say     ( 'Is that better? You don\'t look badly hurt, but I should probably take you back to the village so the grown-ups can take care of you.' )
+      + footsteps_on_grass
+      + ivy    .say     ( 'I\'m a human. Are you human too? Or ... are you something else?' )
+      /*
+      + ivy    .say     ( 'I grew up on the edge of the forest. My parents are, Joe the blacksmith' )
+      + joanna .say     ( 'Joanna. Call me Joanna.' )
+      + ivy    .say     ( 'and Salli...' )
+      + salli  .say     ( 'Watchyerself, I don\'t need them knowin my name!' )
+      + justin .announce()
+      + ivy    .say     ( 'Justin, this is not about you.' )
+      */
+  ;
   
   var prompt    = 'Ivy waits for your reaction.';
   
@@ -173,7 +183,9 @@ const help =
       
       'This skill works like a tabletop role-playing game, where you, the player, describe your actions and I, the game master, tell you the effects of those actions.',
       
-      'bugger off'
+      'Use your imagination.',
+      
+      'bugger off!'
     ];
     
     var utterance = randomElementOfArray(advice);
