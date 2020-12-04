@@ -1,0 +1,3019 @@
+Category	Name	Duration
+Air/Fire_Extinguisher	Fire Extinguisher (1)	1.62s
+Air/Fire_Extinguisher	Fire Extinguisher (2)	1.88s
+Air/Fire_Extinguisher	Fire Extinguisher (3)	2.04s
+Air/Fire_Extinguisher	Fire Extinguisher (4)	2.79s
+Air/Fire_Extinguisher	Fire Extinguisher (5)	3.24s
+Air/Fire_Extinguisher	Fire Extinguisher (6)	1.54s
+Air/Fire_Extinguisher	Fire Extinguisher (7)	1.67s
+Air/Fire_Extinguisher	Fire Extinguisher (8)	0.78s
+Air/Fire_Extinguisher	Fire Extinguisher (9)	1.33s
+Air/Fire_Extinguisher	Fire Extinguisher (10)	2.53s
+Air/Fire_Extinguisher	Fire Extinguisher (11)	1.28s
+Air/Fire_Extinguisher	Fire Extinguisher (12)	3.92s
+Air/Fire_Extinguisher	Fire Extinguisher (13)	4.55s
+Air/Steam	Scifi Air Escaping (1)	2.29s
+Air/Steam	Small Stream (1)	2.11s
+Air/Steam	Small Stream (2)	2.07s
+Air/Steam	Steam (1)	2.17s
+Air/Steam	Steam (2)	3.6s
+Air/Steam	Steam (3)	4.26s
+Air/Steam	Steam (4)	1.99s
+Air/Steam	Steam (5)	4.02s
+Air/Steam	Steam (6)	5.49s
+Air/Steam	Steam (7)	2.14s
+Air/Steam	Steam (8)	1.07s
+Air/Steam	Steam (9)	2.69s
+Air/Steam	Steam (10)	2.95s
+Air/Steam	Steam (11)	5.3s
+Air/Steam	Steam (12)	2.14s
+Air/Steam	Steam (13)	4.47s
+Air/Steam	Steam (14)	4.52s
+Air/Steam	Stream (1)	5.28s
+Air/Steam	Stream (2)	4.74s
+Air/Steam	Stream (3)	4.95s
+Aircrafts/Futuristic	Futuristic (1)	4.18s
+Aircrafts/Futuristic	Futuristic (2)	2.09s
+Aircrafts/Futuristic	Futuristic (3)	1.85s
+Aircrafts/Futuristic	Futuristic (4)	2.17s
+Aircrafts/Futuristic	Futuristic (5)	2.35s
+Aircrafts/Futuristic	Futuristic (6)	4.02s
+Aircrafts/Futuristic	Futuristic (7)	4.86s
+Aircrafts/Futuristic	Futuristic (8)	3.97s
+Aircrafts/Futuristic	Futuristic (9)	3.74s
+Aircrafts/Futuristic	Futuristic (10)	4.1s
+Aircrafts/Futuristic	Futuristic (11)	4.44s
+Aircrafts/Futuristic	Futuristic (12)	4.65s
+Aircrafts/Futuristic	Futuristic (13)	2.25s
+Aircrafts/Futuristic	Futuristic (14)	2.27s
+Aircrafts/Futuristic	Futuristic (15)	2.77s
+Aircrafts/Helicopter	Helicopter (1)	4.47s
+Aircrafts/Helicopter	Helicopter (2)	4.75s
+Aircrafts/Helicopter	Helicopter (3)	3.74s
+Aircrafts/Helicopter	Helicopter (4)	4.41s
+Aircrafts/Helicopter	Helicopter (5)	4.34s
+Aircrafts/Helicopter	Helicopter (6)	3.5s
+Aircrafts/Helicopter	Helicopter (7)	5.49s
+Aircrafts/Helicopter	Helicopter (8)	4.39s
+Aircrafts/Helicopter	Helicopter (9)	5.02s
+Aircrafts/Helicopter	Helicopter (10)	4.49s
+Aircrafts/Helicopter	Helicopter (11)	5.49s
+Aircrafts/Helicopter	Helicopter (12)	4.83s
+Aircrafts/Helicopter	Helicopter (13)	5.02s
+Aircrafts/Helicopter	Helicopter (14)	5.36s
+Aircrafts/Helicopter	Helicopter (15)	5.77s
+Aircrafts/Jets	Airplane Takeoff Whoosh (1)	2.15s
+Aircrafts/Jets	Jet (1)	4.02s
+Aircrafts/Jets	Jet (2)	4.02s
+Aircrafts/Jets	Jet (3)	4.75s
+Aircrafts/Jets	Jet (4)	4.75s
+Aircrafts/Jets	Jet (5)	4.99s
+Aircrafts/Jets	Jet (6)	5.25s
+Aircrafts/Jets	Jet (7)	3.58s
+Aircrafts/Jets	Jet (8)	5.43s
+Aircrafts/Jets	Jet (9)	4.36s
+Aircrafts/Jets	Jet (10)	5.62s
+Aircrafts/Jets	Jet (11)	3.92s
+Aircrafts/Jets	Jet (12)	4.44s
+Aircrafts/Jets	Jet (13)	4.65s
+Aircrafts/Jets	Jet (14)	4.81s
+Aircrafts/Jets	Jet (15)	3.92s
+Airport	Airport (1)	4.81s
+Airport	Airport (2)	5.22s
+Airport	Airport (3)	4.65s
+Airport	Airport (4)	5.3s
+Airport	Airport (5)	4.78s
+Airport	Airport (6)	6.43s
+Airport	Airport (7)	5.04s
+Airport	Airport (8)	3.89s
+Airport	Airport (9)	3.71s
+Airport	Airport (10)	6.14s
+Airport	Airport (11)	4.83s
+Airport	Airport (12)	5.43s
+Airport	Airport (13)	5.07s
+Alarms/Air_Horns	Air Horn (1)	1.57s
+Alarms/Air_Horns	Air Horn (2)	4.18s
+Alarms/Air_Horns	Air Horn (3)	1.31s
+Alarms/Air_Horns	Air Horn (4)	1.62s
+Alarms/Air_Horns	Air Horns (1)	4.41s
+Alarms/Air_Horns	Air Horns (2)	2.09s
+Alarms/Air_Horns	Air Horns (3)	2.12s
+Alarms/Air_Horns	Air Horns (4)	3.68s
+Alarms/Air_Horns	Air Horns (5)	1.23s
+Alarms/Air_Horns	Air Horns (6)	2.17s
+Alarms/Air_Horns	Air Horns (7)	1.46s
+Alarms/Air_Horns	Air Horns (8)	0.86s
+Alarms/Air_Horns	Air Horns (9)	1.31s
+Alarms/Alarm_Sirens_Scifi	Scifi Alarm (1)	2.79s
+Alarms/Alarm_Sirens_Scifi	Scifi Alarm (2)	3.62s
+Alarms/Alarm_Sirens_Scifi	Scifi Alarm (3)	5.96s
+Alarms/Alarm_Sirens_Scifi	Scifi Alarm (4)	4.49s
+Alarms/Alarm_Sirens_Scifi	Scifi Alarm (5)	2.72s
+Alarms/Alarm_Sirens_Scifi	Scifi Alarm (6)	5.13s
+Alarms/Alarm_Sirens_Scifi	Sirens (1)	4.13s
+Alarms/Back_Up_Beeps	Back Up Beeps (1)	4.39s
+Alarms/Back_Up_Beeps	Back Up Beeps (2)	4.23s
+Alarms/Back_Up_Beeps	Back Up Beeps (3)	4.28s
+Alarms/Back_Up_Beeps	Back Up Beeps (4)	5.09s
+Alarms/Back_Up_Beeps	Back Up Beeps (5)	4.78s
+Alarms/Back_Up_Beeps	Back Up Beeps (6)	4.13s
+Alarms/Back_Up_Beeps	Back Up Beeps (7)	2.06s
+Alarms/Back_Up_Beeps	Back Up Beeps (8)	4.21s
+Alarms/Back_Up_Beeps	Back Up Beeps (9)	4.13s
+Alarms/Beeps and Bloops	Bell (1)	0.57s
+Alarms/Beeps and Bloops	Bell (2)	3.08s
+Alarms/Beeps and Bloops	Bell (3)	0.71s
+Alarms/Beeps and Bloops	Bell (4)	0.71s
+Alarms/Beeps and Bloops	Bell (5)	0.65s
+Alarms/Beeps and Bloops	Bell (6)	0.89s
+Alarms/Beeps and Bloops	Bell Med Chime (2)	0.89s
+Alarms/Beeps and Bloops	Bell Short Chime (1)	0.71s
+Alarms/Beeps and Bloops	Bell Short Chime (2)	0.71s
+Alarms/Beeps and Bloops	Bell Short Chime (3)	0.67s
+Alarms/Beeps and Bloops	Bell Timer (1)	3.08s
+Alarms/Beeps and Bloops	Bicycle Bell Ring (1)	2s
+Alarms/Beeps and Bloops	Boing (1)	0.78s
+Alarms/Beeps and Bloops	Boing (2)	0.99s
+Alarms/Beeps and Bloops	Boing (3)	1.57s
+Alarms/Beeps and Bloops	Buzz (1)	0.47s
+Alarms/Beeps and Bloops	Buzz (2)	1.15s
+Alarms/Beeps and Bloops	Buzz (3)	2.27s
+Alarms/Beeps and Bloops	Buzz (4)	0.76s
+Alarms/Beeps and Bloops	Buzz (5)	1.02s
+Alarms/Beeps and Bloops	Clock (1)	1.33s
+Alarms/Beeps and Bloops	Clock (2)	4.08s
+Alarms/Beeps and Bloops	Electronic Beep (1)	0.85s
+Alarms/Beeps and Bloops	Electronic Beep (2)	0.81s
+Alarms/Beeps and Bloops	Electronic Beep (3)	0.81s
+Alarms/Beeps and Bloops	Intro (1)	4.81s
+Alarms/Beeps and Bloops	Intro (2)	4.83s
+Alarms/Beeps and Bloops	Scifi Timer Beep (1)	1.93s
+Alarms/Beeps and Bloops	Scifi Zap Backwards (1)	1.93s
+Alarms/Beeps and Bloops	Scifi Zap Electric (1)	2.15s
+Alarms/Beeps and Bloops	Scifi Zap Electric (2)	2.11s
+Alarms/Beeps and Bloops	Sirens (1)	4.13s
+Alarms/Beeps and Bloops	Test Tone (1)	1.64s
+Alarms/Beeps and Bloops	Timer (1)	1.93s
+Alarms/Beeps and Bloops	Tone (1)	1.65s
+Alarms/Beeps and Bloops	Tone (2)	0.84s
+Alarms/Beeps and Bloops	Tone (3)	0.81s
+Alarms/Beeps and Bloops	Tone (4)	0.78s
+Alarms/Beeps and Bloops	Tone (5)	2.04s
+Alarms/Beeps and Bloops	Woosh (1)	2.09s
+Alarms/Beeps and Bloops	Woosh (2)	1.23s
+Alarms/Beeps and Bloops	Woosh (3)	1.41s
+Alarms/Beeps and Bloops	Woosh (4)	2.12s
+Alarms/Beeps and Bloops	Zap (1)	2.14s
+Alarms/Beeps and Bloops	Zap (2)	2.12s
+Alarms/Beeps and Bloops	Zap (3)	1.93s
+Alarms/Buzzers	Buzzers (1)	3.16s
+Alarms/Buzzers	Buzzers (2)	2.53s
+Alarms/Buzzers	Buzzers (3)	3.24s
+Alarms/Buzzers	Buzzers (4)	4.05s
+Alarms/Buzzers	Buzzers (5)	2.79s
+Alarms/Buzzers	Buzzers (6)	1.15s
+Alarms/Buzzers	Buzzers (7)	1.78s
+Alarms/Buzzers	Buzzers (8)	3.16s
+Alarms/Buzzers	Buzzers (9)	1.18s
+Alarms/Buzzers	Buzzers (10)	5.54s
+Alarms/Buzzers	Buzzers (11)	2.09s
+Alarms/Buzzers	Buzzers (12)	3.37s
+Alarms/Buzzers	Buzzers (13)	2.56s
+Alarms/Buzzers	Buzzers (14)	3.19s
+Alarms/Buzzers	Buzzers (15)	2.19s
+Alarms/Car_Alarms	Car Alarm (1)	4.18s
+Alarms/Car_Alarms	Car Alarm (2)	4.02s
+Alarms/Car_Alarms	Car Alarm (3)	4.26s
+Alarms/Car_Alarms	Car Alarm (4)	3.37s
+Alarms/Car_Alarms	Car Alarm (5)	0.71s
+Alarms/Car_Alarms	Car Alarms (1)	2.51s
+Alarms/Car_Alarms	Car Alarms (2)	2.77s
+Alarms/Car_Alarms	Car Alarms (3)	1.02s
+Alarms/Car_Alarms	Car Alarms (4)	4.13s
+Alarms/Car_Alarms	Car Alarms (5)	4.02s
+Alarms/Car_Alarms	Car Alarms (6)	2.56s
+Alarms/Car_Alarms	Car Alarms (7)	4.13s
+Alarms/Car_Alarms	Car Alarms (8)	0.91s
+Alarms/Car_Alarms	Car Alarms (9)	3.87s
+Alarms/Car_Alarms	Car Alarms (10)	3.47s
+Alarms/Chimes_and_Bells	Chimes Bells (1)	4.08s
+Alarms/Chimes_and_Bells	Chimes Bells (2)	2.98s
+Alarms/Chimes_and_Bells	Chimes Bells (3)	4.62s
+Alarms/Chimes_and_Bells	Chimes Bells (4)	3.81s
+Alarms/Chimes_and_Bells	Chimes Bells (5)	4s
+Alarms/Chimes_and_Bells	Chimes Bells (6)	3.06s
+Alarms/Chimes_and_Bells	Chimes Bells (7)	4.34s
+Alarms/Chimes_and_Bells	Chimes Bells (8)	4.44s
+Alarms/Chimes_and_Bells	Chimes Bells (9)	2.72s
+Alarms/Chimes_and_Bells	Chimes Bells (10)	3.29s
+Alarms/Chimes_and_Bells	Chimes Bells (11)	3.13s
+Alarms/Chimes_and_Bells	Chimes Bells (12)	3.4s
+Alarms/Chimes_and_Bells	Chimes Bells (13)	3.32s
+Alarms/Chimes_and_Bells	Chimes Bells (14)	4.62s
+Alarms/Chimes_and_Bells	Doorbell (1)	2.15s
+Alarms/Chimes_and_Bells	Doorbell Buzz (1)	2.11s
+Alarms/Chimes_and_Bells	Doorbell Chime (1)	2.15s
+Alarms/Chimes_and_Bells	Doorbell Chime (2)	1.89s
+Alarms/Radar	Scifi Radar High Ping (1)	2.87s
+Alarms/Radar	Scifi Radar Low (1)	3.05s
+Alarms/Radar	Scifi Radar Medium (1)	1.71s
+Alarms/Sonar	Scifi Sonar Ping 3x (1)	5.71s
+Alarms/Sonar	Scifi Sonar Ping 4x (1)	5.49s
+Animals/Bear	Bear Groan Roar (1)	2.79s
+Animals/Bear	Bear Roar Grumble (1)	3.95s
+Animals/Bear	Bear Roar Small (1)	1.86s
+Animals/Birds	Bird Chickadee Chirp 1x (1)	0.63s
+Animals/Birds	Bird Chickadee Chirps (1)	2.58s
+Animals/Birds	Bird Forest (1)	2.9s
+Animals/Birds	Bird Forest (2)	2.65s
+Animals/Birds	Bird Forest Short (1)	2.79s
+Animals/Birds	Bird Robin Chirp 1x (1)	0.67s
+Animals/Birds	Raven Caw 1x (1)	0.63s
+Animals/Birds	Raven Caw 2x (1)	1.17s
+Animals/Birds	Rooster Crow (1)	2.47s
+Animals/Birds	Rooster Crow (2)	2.43s
+Animals/Birds	Turkey Gobbling (1)	1.17s
+Animals/Cat	Cat Angry Meow 1x (1)	1.68s
+Animals/Cat	Cat Angry Meow 1x (2)	1.97s
+Animals/Cat	Cat Angry Screech 1x (1)	1.5s
+Animals/Cat	Cat Long Meow 1x (1)	1.75s
+Animals/Cat	Cat Meow 1x (1)	1.03s
+Animals/Cat	Cat Meow 1x (2)	1.25s
+Animals/Cat	Cat Purr (1)	1.82s
+Animals/Cat	Cat Purr (2)	1.82s
+Animals/Cat	Cat Purr (3)	1.71s
+Animals/Cat	Cat Purr Meow (1)	1.61s
+Animals/Chickens	Chicken Cluck (1)	1.07s
+Animals/Crow	Crow Caw 1x (1)	0.74s
+Animals/Crow	Crow Caw 1x (2)	0.81s
+Animals/Dinosaurs	Dinosaurs (1)	4.68s
+Animals/Dinosaurs	Dinosaurs (2)	2.06s
+Animals/Dinosaurs	Dinosaurs (3)	2.04s
+Animals/Dinosaurs	Dinosaurs (4)	3.89s
+Animals/Dinosaurs	Dinosaurs (5)	4.26s
+Animals/Dinosaurs	Dinosaurs (6)	5.12s
+Animals/Dinosaurs	Dinosaurs (7)	2.09s
+Animals/Dinosaurs	Dinosaurs (8)	3.21s
+Animals/Dinosaurs	Dinosaurs (9)	2.32s
+Animals/Dinosaurs	Dinosaurs (10)	4.73s
+Animals/Dinosaurs	Dinosaurs (11)	1.8s
+Animals/Dinosaurs	Dinosaurs (12)	1.7s
+Animals/Dinosaurs	Dinosaurs (13)	1.23s
+Animals/Dinosaurs	Dinosaurs (14)	3.71s
+Animals/Dinosaurs	Dinosaurs (15)	2.59s
+Animals/Dog	Dog Med Bark 1x (1)	0.74s
+Animals/Dog	Dog Med Bark 1x (2)	0.81s
+Animals/Dog	Dog Med Bark 1x (3)	0.53s
+Animals/Dog	Dog Med Bark 2x (1)	1.25s
+Animals/Dog	Dog Med Bark 2x (2)	0.92s
+Animals/Dog	Dog Med Bark 2x (3)	0.92s
+Animals/Dog	Dog Med Bark Growl (1)	1.35s
+Animals/Dog	Dog Med Growl 1x (1)	1.28s
+Animals/Dog	Dog Med Woof 1x (1)	0.6s
+Animals/Dog	Dog Small Bark 2x (1)	1.25s
+Animals/Elephant	Elephant (1)	1.64s
+Animals/Elephant	Elephant (2)	1.86s
+Animals/Elephant	Elephant (3)	1.86s
+Animals/Elephant	Elephant (4)	1.86s
+Animals/Elephant	Elephant (5)	1.64s
+Animals/Gorilla	Gorilla (1)	3.84s
+Animals/Gorilla	Gorilla (2)	4.55s
+Animals/Gorilla	Gorilla (3)	1.99s
+Animals/Gorilla	Gorilla (4)	1.91s
+Animals/Gorilla	Gorilla (5)	3.13s
+Animals/Gorilla	Gorilla (6)	2.77s
+Animals/Gorilla	Gorilla (7)	3.71s
+Animals/Gorilla	Gorilla (8)	2.93s
+Animals/Gorilla	Gorilla (9)	0.97s
+Animals/Gorilla	Gorilla (10)	0.97s
+Animals/Horse	Horse Gallop 4x (1)	1.93s
+Animals/Horse	Horse Gallop 4x (2)	1.89s
+Animals/Horse	Horse Gallop 4x (3)	1.86s
+Animals/Horse	Horse Huff Whinny (1)	2.47s
+Animals/Horse	Horse Neigh (1)	1.43s
+Animals/Horse	Horse Neigh Low (1)	1.93s
+Animals/Horse	Horse Whinny (1)	2s
+Animals/Horse	Horse Whinny (2)	2.76s
+Animals/Horse	Horse Whinny (3)	3.08s
+Animals/Lion	Lion Roar (1)	2.4s
+Animals/Lion	Lion Roar (2)	1.71s
+Animals/Lion	Lion Roar (3)	2.18s
+Animals/Monkey	Monkey Calls 3x (1)	1.53s
+Animals/Monkey	Monkey Chimp (1)	2.69s
+Animals/Monkey	Monkeys Chatter (1)	3.8s
+Animals/Rat	Rat Squeak 2x (1)	1.75s
+Animals/Rat	Rat Squeaks (1)	1.43s
+Animals/Sheep	Sheep Baa (1)	1.61s
+Animals/Sheep	Sheep Bleat (1)	1.43s
+Animals/Sheep	Sheep Bleat (2)	1.35s
+Animals/Sheep	Sheep Bleat (3)	1.39s
+Animals/Wolf	Wolf Howl (1)	1.97s
+Animals/Wolf	Wolf Howl (2)	2.07s
+Animals/Wolf	Wolf Howl (3)	3.95s
+Animals/Wolf	Wolf Young Howl (1)	2.22s
+Backgrounds_Ambience/Bars_Restaurants	Bars Restaurants (1)	7.76s
+Backgrounds_Ambience/Bars_Restaurants	Bars Restaurants (2)	8.02s
+Backgrounds_Ambience/Bars_Restaurants	Bars Restaurants (3)	5.04s
+Backgrounds_Ambience/Bars_Restaurants	Bars Restaurants (4)	5.07s
+Backgrounds_Ambience/Bars_Restaurants	Bars Restaurants (5)	5.02s
+Backgrounds_Ambience/Bars_Restaurants	Bars Restaurants (6)	8.41s
+Backgrounds_Ambience/Bars_Restaurants	Bars Restaurants (7)	8.91s
+Backgrounds_Ambience/Bars_Restaurants	Bars Restaurants (8)	6.61s
+Backgrounds_Ambience/Bars_Restaurants	Bars Restaurants (9)	7.24s
+Backgrounds_Ambience/Bars_Restaurants	Bars Restaurants (10)	8.62s
+Backgrounds_Ambience/Bars_Restaurants	Bars Restaurants (11)	8.54s
+Backgrounds_Ambience/Bars_Restaurants	Bars Restaurants (12)	8.52s
+Backgrounds_Ambience/Bars_Restaurants	Bars Restaurants (13)	7.18s
+Backgrounds_Ambience/Bars_Restaurants	Bars Restaurants (14)	7.78s
+Backgrounds_Ambience/Bars_Restaurants	Bars Restaurants (15)	8.8s
+Backgrounds_Ambience/Bars_Restaurants	Bars Restaurants (16)	9.01s
+Backgrounds_Ambience/Bars_Restaurants	Crowd Bar (1)	5.06s
+Backgrounds_Ambience/Bars_Restaurants	Crowd Bar Rowdy (1)	4.67s
+Backgrounds_Ambience/Bars_Restaurants	Kitchen Ambience (1)	2.11s
+Backgrounds_Ambience/Bars_Restaurants	Restaurant Ambience (1)	2.15s
+Backgrounds_Ambience/Bars_Restaurants	Restaurant Ambience (2)	2.11s
+Backgrounds_Ambience/Carnivals_Fairs	Carnivals Fairs (1)	4.1s
+Backgrounds_Ambience/Carnivals_Fairs	Carnivals Fairs (2)	3.81s
+Backgrounds_Ambience/Carnivals_Fairs	Carnivals Fairs (3)	4.44s
+Backgrounds_Ambience/Carnivals_Fairs	Carnivals Fairs (4)	3.16s
+Backgrounds_Ambience/Carnivals_Fairs	Carnivals Fairs (5)	5.2s
+Backgrounds_Ambience/Carnivals_Fairs	Carnivals Fairs (6)	8.25s
+Backgrounds_Ambience/Carnivals_Fairs	Carnivals Fairs (7)	8.1s
+Backgrounds_Ambience/Carnivals_Fairs	Carnivals Fairs (8)	8.07s
+Backgrounds_Ambience/Carnivals_Fairs	Carnivals Fairs (9)	7.92s
+Backgrounds_Ambience/Casinos	Casino (1)	7.08s
+Backgrounds_Ambience/Casinos	Casino (2)	7.11s
+Backgrounds_Ambience/Casinos	Casino (3)	5.75s
+Backgrounds_Ambience/Casinos	Casino (4)	6.95s
+Backgrounds_Ambience/Casinos	Casino (5)	3.94s
+Backgrounds_Ambience/Casinos	Casinos (1)	7.92s
+Backgrounds_Ambience/Casinos	Casinos (2)	7.34s
+Backgrounds_Ambience/Casinos	Casinos (3)	8.07s
+Backgrounds_Ambience/Casinos	Casinos (4)	8.1s
+Backgrounds_Ambience/Casinos	Casinos (5)	8.67s
+Backgrounds_Ambience/Construction_Factory	Construction Factory (1)	6.71s
+Backgrounds_Ambience/Construction_Factory	Construction Factory (2)	7.47s
+Backgrounds_Ambience/Construction_Factory	Construction Factory (3)	6.19s
+Backgrounds_Ambience/Construction_Factory	Construction Factory (4)	4.55s
+Backgrounds_Ambience/Construction_Factory	Construction Factory (5)	8.41s
+Backgrounds_Ambience/Construction_Factory	Construction Factory (6)	8.93s
+Backgrounds_Ambience/Construction_Factory	Construction Factory (7)	8.8s
+Backgrounds_Ambience/Construction_Factory	Construction Factory (8)	8.41s
+Backgrounds_Ambience/Construction_Factory	Construction Factory (9)	8.78s
+Backgrounds_Ambience/Construction_Factory	Construction Factory (10)	7.63s
+Backgrounds_Ambience/Construction_Factory	Construction Factory (11)	8.62s
+Backgrounds_Ambience/Construction_Factory	Construction Factory (12)	8.44s
+Backgrounds_Ambience/Construction_Factory	Construction Factory (13)	5.09s
+Backgrounds_Ambience/Dining_Kitchens_Eating	Dining Kitchens (1)	7.18s
+Backgrounds_Ambience/Dining_Kitchens_Eating	Dining Kitchens (2)	10.61s
+Backgrounds_Ambience/Dining_Kitchens_Eating	Dining Kitchens (3)	25.13s
+Backgrounds_Ambience/Dining_Kitchens_Eating	Dining Kitchens (4)	7.68s
+Backgrounds_Ambience/Dining_Kitchens_Eating	Dining Kitchens (5)	12.07s
+Backgrounds_Ambience/Dining_Kitchens_Eating	Dining Kitchens (6)	8.65s
+Backgrounds_Ambience/Dining_Kitchens_Eating	Dining Kitchens (7)	8.78s
+Backgrounds_Ambience/Dining_Kitchens_Eating	Dining Kitchens (8)	7.6s
+Backgrounds_Ambience/Dining_Kitchens_Eating	Dining Kitchens (9)	8.7s
+Backgrounds_Ambience/Dining_Kitchens_Eating	Dining Kitchens (10)	8.7s
+Backgrounds_Ambience/Dining_Kitchens_Eating	Dining Kitchens (11)	8.8s
+Backgrounds_Ambience/Elevator	Elevator (1)	5.59s
+Backgrounds_Ambience/Elevator	Elevator (2)	8.36s
+Backgrounds_Ambience/Elevator	Elevator Bell 1x (1)	1.03s
+Backgrounds_Ambience/Elevator	Elevator Open Bell (1)	1.64s
+Backgrounds_Ambience/Prison	Prison (1)	6.61s
+Backgrounds_Ambience/Prison	Prison (2)	8.2s
+Backgrounds_Ambience/Prison	Prison (3)	8.57s
+Backgrounds_Ambience/Public_Space	Public Space (1)	4.55s
+Backgrounds_Ambience/Public_Space	Public Space (2)	5.28s
+Backgrounds_Ambience/Public_Space	Public Space (3)	4.94s
+Backgrounds_Ambience/Public_Space	Public Space (4)	8.72s
+Backgrounds_Ambience/Public_Space	Public Space (5)	6.09s
+Backgrounds_Ambience/Tones_Noises	Tones Noises (1)	4.55s
+Backgrounds_Ambience/Tones_Noises	Tones Noises (2)	5.17s
+Backgrounds_Ambience/Tones_Noises	Tones Noises (3)	3.66s
+Backgrounds_Ambience/Tones_Noises	Tones Noises (4)	6.77s
+Backgrounds_Ambience/Tones_Noises	Tones Noises (5)	8.7s
+Backgrounds_Ambience/Tones_Noises	Tones Noises (6)	8.44s
+Backgrounds_Ambience/Tones_Noises	Tones Noises (7)	8.7s
+Backgrounds_Ambience/Tones_Noises	Tones Noises (8)	7.86s
+Backgrounds_Ambience/Tones_Noises	Tones Noises (9)	8.57s
+Backgrounds_Ambience/Tones_Noises	Tones Noises (10)	8.65s
+Backgrounds_Ambience/Tones_Noises	Tones Noises (11)	5.77s
+Backgrounds_Ambience/Traffic	Traffic (1)	6.32s
+Backgrounds_Ambience/Traffic	Traffic (2)	6.43s
+Backgrounds_Ambience/Traffic	Traffic (3)	8.65s
+Backgrounds_Ambience/Traffic	Traffic (4)	8.99s
+Backgrounds_Ambience/Traffic	Traffic (5)	9.06s
+Backgrounds_Ambience/Traffic	Traffic (6)	9.14s
+Backgrounds_Ambience/Traffic	Traffic (7)	9.04s
+Backgrounds_Ambience/Traffic	Traffic (8)	8.57s
+Backgrounds_Ambience/Traffic	Traffic (9)	8.72s
+Backgrounds_Ambience/Traffic	Traffic (10)	8.93s
+Backgrounds_Ambience/Traffic	Traffic (11)	8.8s
+Backgrounds_Ambience/Volcano_Earthquake	Earthquake Rumble (1)	2.69s
+Backgrounds_Ambience/Volcano_Earthquake	Earthquake Rumble (2)	3.95s
+Backgrounds_Ambience/Volcano_Earthquake	Volcano Earthquake (1)	6.22s
+Backgrounds_Ambience/Volcano_Earthquake	Volcano Earthquake (2)	5.36s
+Backgrounds_Ambience/Volcano_Earthquake	Volcano Earthquake (3)	8.72s
+Bell/Chimes	Chimes (1)	4.81s
+Bell/Chimes	Chimes (2)	4.41s
+Bell/Chimes	Chimes (3)	5.09s
+Bell/Chimes	Chimes (4)	5.36s
+Bell/Chimes	Chimes (5)	4.86s
+Bell/Chimes	Chimes (6)	4.39s
+Bell/Chimes	Chimes (7)	4.44s
+Bell/Chimes	Chimes (8)	4.83s
+Bell/Chimes	Chimes (9)	4.26s
+Bell/Chimes	Chimes (10)	2.82s
+Bell/Chimes	Chimes (11)	4.44s
+Bell/Chimes	Chimes (12)	3.97s
+Bell/Chimes	Chimes (13)	4.7s
+Bell/Chimes	Chimes (14)	4.02s
+Bell/Church	Church Bell 1x (1)	2.15s
+Bell/Church	Church Bell 1x (2)	2.11s
+Bell/Church	Church Bell 1x (3)	2.11s
+Bell/Church	Church Bell 1x (4)	2.15s
+Bell/Church	Church Bell 1x (5)	2.07s
+Bell/Church	Church Bells (1)	10.14s
+Bell/Church	Church Bells (2)	4.88s
+Bell/Church	Church Bells (3)	3.94s
+Bell/Church	Church Bells (4)	4s
+Bell/Church	Church Bells (5)	4.34s
+Bell/Church	Church Bells (6)	8.12s
+Bell/Church	Church Bells (7)	4.73s
+Bell/Church	Church Bells (8)	4.83s
+Bell/Church	Church Bells (9)	3.34s
+Bell/Church	Church Bells Ringing (1)	1.97s
+Boats_Ships/Airboat	Airboat (1)	5.12s
+Boats_Ships/Airboat	Airboat (2)	4.86s
+Boats_Ships/Airboat	Airboat (3)	6.84s
+Boats_Ships/Airboat	Airboat (4)	6.03s
+Boats_Ships/Airboat	Airboat (5)	5.07s
+Boats_Ships/Airboat	Airboat (6)	4.52s
+Boats_Ships/Airboat	Airboat (7)	5.07s
+Boats_Ships/Anchors	Anchor (1)	4.96s
+Boats_Ships/Anchors	Anchor (2)	4.39s
+Boats_Ships/Anchors	Anchor (3)	2.82s
+Boats_Ships/Anchors	Anchor (4)	2.12s
+Boats_Ships/Anchors	Anchor (5)	4.02s
+Boats_Ships/Anchors	Anchor (6)	2.85s
+Boats_Ships/Anchors	Anchor (7)	3.13s
+Boats_Ships/Anchors	Anchor (8)	4.28s
+Boats_Ships/Anchors	Anchor (9)	5.09s
+Boats_Ships/Anchors	Anchor (10)	5.09s
+Boats_Ships/Anchors	Anchor (11)	2.27s
+Boats_Ships/Anchors	Anchor (12)	2.06s
+Boats_Ships/Anchors	Anchor (13)	4.05s
+Boats_Ships/Futuristic	Futuristic Ship (1)	2.32s
+Boats_Ships/Futuristic	Futuristic Ship (2)	5.46s
+Boats_Ships/Futuristic	Futuristic Ship (3)	6.01s
+Boats_Ships/Futuristic	Futuristic Ship (4)	1.51s
+Boats_Ships/Futuristic	Futuristic Ship (5)	3.63s
+Boats_Ships/Futuristic	Futuristic Ship (6)	4.52s
+Boats_Ships/Futuristic	Futuristic Ship (7)	3.71s
+Boats_Ships/Futuristic	Futuristic Ship (8)	4.13s
+Boats_Ships/Futuristic	Futuristic Ship (9)	3.42s
+Boats_Ships/Futuristic	Futuristic Ship (10)	1.88s
+Boats_Ships/Futuristic	Futuristic Ship (11)	1.12s
+Boats_Ships/Futuristic	Futuristic Ship (12)	4.36s
+Boats_Ships/Futuristic	Futuristic Ship (13)	2.79s
+Boats_Ships/Futuristic	Futuristic Ship (14)	2.85s
+Boats_Ships/Oar_Boat	Oar Boat (1)	3.19s
+Boats_Ships/Oar_Boat	Oar Boat (2)	3.74s
+Boats_Ships/Oar_Boat	Oar Boat (3)	4.88s
+Boats_Ships/Oar_Boat	Oar Boat (4)	5.15s
+Boats_Ships/Oar_Boat	Oar Boat (5)	5.85s
+Boats_Ships/Oar_Boat	Oar Boat (6)	2.22s
+Boats_Ships/Oar_Boat	Oar Boat (7)	3.84s
+Boats_Ships/Oar_Boat	Oar Boat (8)	3.6s
+Boats_Ships/Oar_Boat	Oar Boat (9)	3.84s
+Boats_Ships/Oar_Boat	Oar Boat (10)	4.13s
+Boats_Ships/Oar_Boat	Oar Boat (11)	4.02s
+Boats_Ships/Oar_Boat	Oar Boat (12)	4.7s
+Boats_Ships/Oar_Boat	Oar Boat (13)	4.13s
+Boats_Ships/Sails	Sails (1)	2.79s
+Boats_Ships/Sails	Sails (2)	5.93s
+Boats_Ships/Sails	Sails (3)	6.82s
+Boats_Ships/Sails	Sails (4)	4.26s
+Boats_Ships/Sails	Sails (5)	1.72s
+Boats_Ships/Sails	Sails (6)	4.68s
+Boats_Ships/Sails	Sails (7)	5.09s
+Boats_Ships/Sails	Sails (8)	2.61s
+Boats_Ships/Sails	Sails (9)	3.63s
+Boats_Ships/Sails	Sails (10)	3.5s
+Boats_Ships/Sails	Sails (11)	5.07s
+Boats_Ships/Sails	Sails (12)	4.15s
+Boats_Ships/Sails	Sails (13)	3.87s
+Boats_Ships/Sails	Sails (14)	3.58s
+Boats_Ships/Splashing_Rowboat	Oars Splashing Rowboat (1)	3.69s
+Boats_Ships/Splashing_Rowboat	Rowboat Canoe (1)	3.92s
+Boats_Ships/Splashing_Rowboat	Rowboat Canoe (2)	4.86s
+Boats_Ships/Splashing_Rowboat	Rowboat Canoe (3)	2.46s
+Boats_Ships/Splashing_Rowboat	Rowboat Canoe (4)	4.65s
+Boats_Ships/Splashing_Rowboat	Rowboat Canoe (5)	1.67s
+Boats_Ships/Splashing_Rowboat	Rowboat Canoe (6)	4.99s
+Boats_Ships/Splashing_Rowboat	Splash Water (1)	5.46s
+Boats_Ships/Splashing_Rowboat	Splash Water (2)	3.32s
+Boats_Ships/Splashing_Rowboat	Splash Water (3)	2.85s
+Boats_Ships/Splashing_Rowboat	Wood Boat (1)	4.75s
+Boats_Ships/Submarine_Diesel	Submarine Diesel (1)	8.07s
+Boats_Ships/Submarine_Diesel	Submarine Diesel (2)	6.11s
+Boats_Ships/Submarine_Diesel	Submarine Diesel (3)	6.19s
+Boats_Ships/Submarine_Diesel	Submarine Diesel (4)	4.68s
+Boats_Ships/Submarine_Diesel	Submarine Diesel (5)	2.69s
+Boats_Ships/Submarine_Diesel	Submarine Diesel (6)	4.6s
+Boats_Ships/Submarine_Diesel	Submarine Diesel (7)	4.7s
+Boats_Ships/Submarine_Diesel	Submarine Diesel (8)	4.78s
+Boats_Ships/Submarine_Diesel	Submarine Diesel (9)	5.07s
+Boats_Ships/Submarine_Diesel	Submarine Diesel (10)	3.84s
+Boats_Ships/Wood_Boat	Wood Boat (1)	5.64s
+Boats_Ships/Wood_Boat	Wood Boat (2)	4.88s
+Boats_Ships/Wood_Boat	Wood Boat (3)	5.07s
+Boats_Ships/Wood_Boat	Wood Boat (4)	4.65s
+Boats_Ships/Wood_Boat	Wood Boat (5)	4.96s
+Buzzers_Pistols	Buzz Electronic (1)	1.03s
+Buzzers_Pistols	Buzzer Loud Alarm (1)	2.29s
+Buzzers_Pistols	Buzzer Small (1)	1.14s
+Buzzers_Pistols	Buzzers Pistols (1)	1.15s
+Buzzers_Pistols	Buzzers Pistols (2)	0.99s
+Buzzers_Pistols	Buzzers Pistols (3)	0.99s
+Buzzers_Pistols	Buzzers Pistols (4)	1.51s
+Buzzers_Pistols	Buzzers Pistols (5)	1.25s
+Buzzers_Pistols	Buzzers Pistols (6)	2.46s
+Buzzers_Pistols	Buzzers Pistols (7)	1.25s
+Buzzers_Pistols	Buzzers Pistols (8)	2.77s
+Buzzers_Pistols	Buzzers Pistols (9)	0.44s
+Buzzers_Pistols	Buzzers Pistols (10)	1.78s
+Buzzers_Pistols	Buzzers Pistols (11)	0.99s
+Buzzers_Pistols	Buzzers Pistols (12)	2.35s
+Buzzers_Pistols	Buzzers Pistols (13)	1.54s
+Buzzers_Pistols	Buzzers Pistols (14)	1.93s
+Buzzers_Pistols	Buzzers Pistols (15)	0.86s
+Camera	Camera (1)	1.18s
+Camera	Camera (2)	2.01s
+Camera	Camera (3)	2.06s
+Camera	Camera (4)	0.57s
+Camera	Camera (5)	0.99s
+Camera	Camera (6)	1.02s
+Camera	Camera (7)	2.12s
+Camera	Camera (8)	1.36s
+Camera	Camera (9)	1.12s
+Camera	Camera (10)	1.41s
+Camera	Camera (11)	3.03s
+Camera	Camera (12)	1.49s
+Camera	Camera (13)	1.04s
+Camera	Camera (14)	4.18s
+Camera	Camera (15)	1.59s
+Cartoon	Beep 1x (1)	0.78s
+Cartoon	Boing Long 1x (1)	1.57s
+Cartoon	Boing Med 1x (2)	0.99s
+Cartoon	Boing Short 1x (1)	0.81s
+Cartoon	Swoosh Cartoon Fast (1)	1.39s
+Cartoon	Swoosh Cartoon Fast (2)	2.11s
+Chairs/Seats_Stools	Seats Stools (1)	1.44s
+Chairs/Seats_Stools	Seats Stools (2)	3.06s
+Chairs/Seats_Stools	Seats Stools (3)	1.12s
+Chairs/Seats_Stools	Seats Stools (4)	1.91s
+Chairs/Seats_Stools	Seats Stools (5)	0.94s
+Chairs/Seats_Stools	Seats Stools (6)	0.57s
+Chairs/Seats_Stools	Seats Stools (7)	1.83s
+Chairs/Seats_Stools	Seats Stools (8)	0.89s
+Chairs/Seats_Stools	Seats Stools (9)	1.62s
+Clocks/Clock	Clock (1)	2.17s
+Clocks/Ticks	Clock Ticking (1)	1.35s
+Clocks/Ticks	Clock Ticking Long (1)	4.09s
+Clocks/Ticks	Ticks (1)	6.48s
+Clocks/Ticks	Ticks (2)	5.72s
+Clocks/Ticks	Ticks (3)	4.13s
+Clocks/Ticks	Ticks (4)	3.34s
+Clocks/Ticks	Ticks (5)	4.1s
+Clocks/Ticks	Ticks (6)	2.14s
+Clocks/Ticks	Ticks (7)	3.11s
+Clocks/Ticks	Ticks (8)	3.29s
+Clocks/Ticks	Ticks (9)	2.12s
+Clocks/Ticks	Ticks (10)	2.93s
+Clocks/Ticks	Ticks (11)	3.66s
+Clocks/Ticks	Ticks (12)	3.63s
+Clocks/Ticks	Ticks (13)	4.13s
+Clocks/Ticks	Ticks (14)	4.15s
+Clocks/Ticks	Ticks (15)	3.45s
+Clocks/Ticks	Ticks (16)	1.57s
+Clocks/Ticks	Ticks (17)	2.61s
+Clocks/Ticks	Ticks (18)	2.01s
+Clocks/Watches	Watches (1)	1.78s
+Clocks/Watches	Watches (2)	1.41s
+Clocks/Watches	Watches (3)	1.49s
+Clocks/Watches	Watches (4)	2.01s
+Clocks/Watches	Watches (5)	2.01s
+Clocks/Watches	Watches (6)	0.44s
+Clocks/Watches	Watches (7)	2.77s
+Clocks/Watches	Watches (8)	1.23s
+Cloth_Leather_Paper/Books	Books (1)	2.72s
+Cloth_Leather_Paper/Books	Books (2)	2.38s
+Cloth_Leather_Paper/Books	Books (3)	2.85s
+Cloth_Leather_Paper/Books	Books (4)	1.75s
+Cloth_Leather_Paper/Books	Books (5)	1.88s
+Cloth_Leather_Paper/Books	Books (6)	1.18s
+Cloth_Leather_Paper/Books	Books (7)	0.78s
+Cloth_Leather_Paper/Books	Books (8)	1.04s
+Cloth_Leather_Paper/Books	Books (9)	2.66s
+Cloth_Leather_Paper/Books	Books (10)	1.65s
+Cloth_Leather_Paper/Books	Books (11)	1.23s
+Cloth_Leather_Paper/Cloth	Cloth (1)	3.34s
+Cloth_Leather_Paper/Cloth	Cloth (2)	3.27s
+Cloth_Leather_Paper/Cloth	Cloth (3)	2.9s
+Cloth_Leather_Paper/Cloth	Cloth (4)	1.62s
+Cloth_Leather_Paper/Cloth	Cloth (5)	2.22s
+Cloth_Leather_Paper/Cloth	Cloth (6)	4.49s
+Cloth_Leather_Paper/Cloth	Cloth (7)	1.1s
+Cloth_Leather_Paper/Cloth	Cloth (8)	2.27s
+Cloth_Leather_Paper/Cloth	Cloth (9)	1.23s
+Cloth_Leather_Paper/Cloth	Cloth (10)	1.93s
+Cloth_Leather_Paper/Cloth	Cloth (11)	0.81s
+Cloth_Leather_Paper/Cloth	Cloth (12)	1.36s
+Cloth_Leather_Paper/Cloth	Cloth (13)	2.35s
+Cloth_Leather_Paper/Cloth	Cloth (14)	1.51s
+Cloth_Leather_Paper/Flags	Flags (1)	6.01s
+Cloth_Leather_Paper/Flags	Flags (2)	4.65s
+Cloth_Leather_Paper/Flags	Flags (3)	4.47s
+Cloth_Leather_Paper/Flags	Flags (4)	5.22s
+Cloth_Leather_Paper/Flags	Flags (5)	2.9s
+Cloth_Leather_Paper/Flags	Flags (6)	2.95s
+Cloth_Leather_Paper/Flags	Flags (7)	4.26s
+Cloth_Leather_Paper/Flags	Flags (8)	3.74s
+Cloth_Leather_Paper/Flags	Flags (9)	2.64s
+Cloth_Leather_Paper/Flags	Flags (10)	4.15s
+Cloth_Leather_Paper/Flags	Flags (11)	1.88s
+Cloth_Leather_Paper/Flags	Flags (12)	3.45s
+Cloth_Leather_Paper/Leather	Leather (1)	1.85s
+Cloth_Leather_Paper/Leather	Leather (2)	2.4s
+Cloth_Leather_Paper/Leather	Leather (3)	3.08s
+Cloth_Leather_Paper/Leather	Leather (4)	1.67s
+Cloth_Leather_Paper/Leather	Leather (5)	1.51s
+Cloth_Leather_Paper/Leather	Leather (6)	3.21s
+Cloth_Leather_Paper/Leather	Leather (7)	1.12s
+Cloth_Leather_Paper/Leather	Leather (8)	1.23s
+Cloth_Leather_Paper/Leather	Leather (9)	4.86s
+Cloth_Leather_Paper/Money_Coins	Money Coins (1)	4.26s
+Cloth_Leather_Paper/Money_Coins	Money Coins (2)	3s
+Cloth_Leather_Paper/Money_Coins	Money Coins (3)	1.78s
+Cloth_Leather_Paper/Money_Coins	Money Coins (4)	2.12s
+Cloth_Leather_Paper/Money_Coins	Money Coins (5)	1.18s
+Cloth_Leather_Paper/Money_Coins	Money Coins (6)	3.53s
+Cloth_Leather_Paper/Paper	Paper (1)	1.02s
+Cloth_Leather_Paper/Paper	Paper (2)	1.7s
+Cloth_Leather_Paper/Paper	Paper (3)	1.07s
+Cloth_Leather_Paper/Paper	Paper (4)	1.65s
+Cloth_Leather_Paper/Paper	Paper (5)	0.57s
+Cloth_Leather_Paper/Paper	Paper (6)	3.21s
+Cloth_Leather_Paper/Paper	Paper (7)	1.59s
+Cloth_Leather_Paper/Paper	Paper (8)	2.27s
+Cloth_Leather_Paper/Paper	Paper (9)	1.85s
+Cloth_Leather_Paper/Paper	Paper (10)	1.38s
+Cloth_Leather_Paper/Paper	Paper (11)	3.66s
+Cloth_Leather_Paper/Paper	Paper (12)	0.78s
+Cloth_Leather_Paper/Paper	Paper (13)	0.89s
+Cloth_Leather_Paper/Paper	Paper (14)	4.02s
+Cloth_Leather_Paper/Paper	Paper (15)	2.27s
+Cloth_Leather_Paper/Paper	Paper (16)	2.09s
+Cloth_Leather_Paper/Parachute	Parachute (1)	1.75s
+Cloth_Leather_Paper/Parachute	Parachute (2)	1.65s
+Cloth_Leather_Paper/Parachute	Parachute (3)	2.98s
+Cloth_Leather_Paper/Parachute	Parachute (4)	1.07s
+Cloth_Leather_Paper/Parachute	Parachute (5)	5.43s
+Cloth_Leather_Paper/Parachute	Parachute (6)	3.42s
+Cloth_Leather_Paper/Parachute	Parachute (7)	2.14s
+Cloth_Leather_Paper/Parachute	Parachute (8)	3.76s
+Cloth_Leather_Paper/Parachute	Parachute (9)	2.95s
+Cloth_Leather_Paper/Parachute	Parachute (10)	4.44s
+Cloth_Leather_Paper/Parachute	Parachute (11)	2.46s
+Cloth_Leather_Paper/Parachute	Parachute (12)	1.25s
+Cloth_Leather_Paper/Rubber	Rubber (1)	1.31s
+Cloth_Leather_Paper/Rubber	Rubber (2)	3.6s
+Cloth_Leather_Paper/Rubber	Rubber (3)	3.5s
+Cloth_Leather_Paper/Rubber	Rubber (4)	0.71s
+Cloth_Leather_Paper/Rubber	Rubber (5)	2.9s
+Cloth_Leather_Paper/Rubber	Rubber (6)	1.2s
+Cloth_Leather_Paper/Rubber	Rubber (7)	0.6s
+Cloth_Leather_Paper/Rubber	Rubber (8)	2.69s
+Cloth_Leather_Paper/Rubber	Rubber (9)	0.55s
+Cloth_Leather_Paper/Rubber	Rubber (10)	0.99s
+Cloth_Leather_Paper/Rubber	Rubber (11)	2.09s
+Cloth_Leather_Paper/Rubber	Rubber (12)	0.81s
+Cloth_Leather_Paper/Shoes_Boots	Shoes Boots (1)	2.72s
+Cloth_Leather_Paper/Shoes_Boots	Shoes Boots (2)	0.63s
+Cloth_Leather_Paper/Shoes_Boots	Shoes Boots (3)	3.4s
+Cloth_Leather_Paper/Shoes_Boots	Shoes Boots (4)	1.44s
+Cloth_Leather_Paper/Shoes_Boots	Shoes Boots (5)	1.44s
+Cloth_Leather_Paper/Shoes_Boots	Shoes Boots (6)	1.7s
+Cloth_Leather_Paper/Shoes_Boots	Shoes Boots (7)	0.91s
+Cloth_Leather_Paper/Tape	Tape (1)	2.04s
+Cloth_Leather_Paper/Tape	Tape (2)	3.37s
+Cloth_Leather_Paper/Tape	Tape (3)	1.31s
+Cloth_Leather_Paper/Tape	Tape (4)	2.01s
+Cloth_Leather_Paper/Tape	Tape (5)	1.51s
+Cloth_Leather_Paper/Tape	Tape (6)	0.65s
+Cloth_Leather_Paper/Tape	Tape (7)	0.65s
+Cloth_Leather_Paper/Tape	Tape (8)	2.14s
+Cloth_Leather_Paper/Tape	Tape (9)	1.25s
+Cloth_Leather_Paper/Tape	Tape (10)	0.52s
+Cloth_Leather_Paper/Tape	Tape (11)	1.18s
+Cloth_Leather_Paper/Tape	Tape (12)	1.91s
+Cloth_Leather_Paper/Tape	Tape (13)	3.4s
+Cloth_Leather_Paper/Umbrella	Umbrella (1)	3.6s
+Cloth_Leather_Paper/Umbrella	Umbrella (2)	1.12s
+Cloth_Leather_Paper/Umbrella	Umbrella (3)	1.25s
+Cloth_Leather_Paper/Umbrella	Umbrella (4)	0.76s
+Cloth_Leather_Paper/Umbrella	Umbrella (5)	0.76s
+Cloth_Leather_Paper/Umbrella	Umbrella (6)	0.42s
+Cloth_Leather_Paper/Umbrella	Umbrella (7)	4.28s
+Cloth_Leather_Paper/Umbrella	Umbrella (8)	1.72s
+Cloth_Leather_Paper/Umbrella	Umbrella (9)	0.81s
+Cloth_Leather_Paper/Umbrella	Umbrella (10)	0.94s
+Cloth_Leather_Paper/Umbrella	Umbrella (11)	1.96s
+Cloth_Leather_Paper/Zippers	Zippers (1)	2.38s
+Cloth_Leather_Paper/Zippers	Zippers (2)	1.67s
+Cloth_Leather_Paper/Zippers	Zippers (3)	0.6s
+Cloth_Leather_Paper/Zippers	Zippers (4)	1.54s
+Cloth_Leather_Paper/Zippers	Zippers (5)	2.4s
+Cloth_Leather_Paper/Zippers	Zippers (6)	1.67s
+Cloth_Leather_Paper/Zippers	Zippers (7)	2.12s
+Cloth_Leather_Paper/Zippers	Zippers (8)	1.8s
+Cloth_Leather_Paper/Zippers	Zippers (9)	1.57s
+Cloth_Leather_Paper/Zippers	Zippers (10)	0.86s
+Cloth_Leather_Paper/Zippers	Zippers (11)	3.63s
+Cloth_Leather_Paper/Zippers	Zippers (12)	0.5s
+Cloth_Leather_Paper/Zippers	Zippers (13)	0.99s
+Cloth_Leather_Paper/Zippers	Zippers (14)	2.09s
+Cloth_Leather_Paper/Zippers	Zippers (15)	0.84s
+Computers/Beeps_Tones	Beeps Tones (1)	0.5s
+Computers/Beeps_Tones	Beeps Tones (2)	1.67s
+Computers/Beeps_Tones	Beeps Tones (3)	1.49s
+Computers/Beeps_Tones	Beeps Tones (4)	1.78s
+Computers/Beeps_Tones	Beeps Tones (5)	1.18s
+Computers/Beeps_Tones	Beeps Tones (6)	0.34s
+Computers/Beeps_Tones	Beeps Tones (7)	0.65s
+Computers/Beeps_Tones	Beeps Tones (8)	1.85s
+Computers/Beeps_Tones	Beeps Tones (9)	1.51s
+Computers/Beeps_Tones	Beeps Tones (10)	2.04s
+Computers/Beeps_Tones	Beeps Tones (11)	2.72s
+Computers/Beeps_Tones	Beeps Tones (12)	1.12s
+Computers/Beeps_Tones	Beeps Tones (13)	2.04s
+Computers/Beeps_Tones	Beeps Tones (14)	1.51s
+Computers/Beeps_Tones	Beeps Tones (15)	0.97s
+Computers/Fax_Scanner_Copy_machine	Copy Machine (1)	2.15s
+Computers/Fax_Scanner_Copy_machine	Copy Machine (2)	2.04s
+Computers/Fax_Scanner_Copy_machine	Fax Scanner Copier (1)	4.88s
+Computers/Fax_Scanner_Copy_machine	Fax Scanner Copier (2)	6.35s
+Computers/Fax_Scanner_Copy_machine	Fax Scanner Copier (3)	4.57s
+Computers/Fax_Scanner_Copy_machine	Fax Scanner Copier (4)	4.13s
+Computers/Fax_Scanner_Copy_machine	Fax Scanner Copier (5)	4.57s
+Computers/Fax_Scanner_Copy_machine	Fax Scanner Copier (6)	4.23s
+Computers/Fax_Scanner_Copy_machine	Fax Scanner Copier (7)	5.02s
+Computers/Fax_Scanner_Copy_machine	Fax Scanner Copier (8)	1.8s
+Computers/Fax_Scanner_Copy_machine	Fax Scanner Copier (9)	4.28s
+Computers/Fax_Scanner_Copy_machine	Fax Scanner Copier (10)	4.49s
+Computers/Fax_Scanner_Copy_machine	Fax Scanner Copier (11)	2.09s
+Computers/Fax_Scanner_Copy_machine	Fax Scanner Copier (12)	4s
+Computers/Fax_Scanner_Copy_machine	Fax Scanner Copier (13)	2.93s
+Computers/Fax_Scanner_Copy_machine	Fax Scanner Copier (14)	4.96s
+Computers/Fax_Scanner_Copy_machine	Fax Scanner Copier (15)	3.87s
+Computers/Printers	Printers (1)	4.96s
+Computers/Printers	Printers (2)	6.92s
+Computers/Printers	Printers (3)	2.43s
+Computers/Printers	Printers (4)	3.27s
+Computers/Printers	Printers (5)	2.35s
+Computers/Printers	Printers (6)	2.25s
+Computers/Printers	Printers (7)	0.91s
+Computers/Printers	Printers (8)	4.78s
+Computers/Printers	Printers (9)	3.47s
+Computers/Printers	Printers (10)	3.08s
+Computers/Printers	Printers (11)	1.02s
+Computers/Printers	Printers (12)	2.66s
+Computers/Printers	Printers (13)	3.19s
+Computers/Printers	Printers (14)	3.79s
+Computers/Screens	Screens (1)	0.39s
+Computers/Screens	Screens (2)	0.91s
+Computers/Screens	Screens (3)	1.1s
+Computers/Screens	Screens (4)	1.41s
+Computers/Screens	Screens (5)	3.21s
+Computers/Screens	Screens (6)	2.66s
+Computers/Screens	Screens (7)	1.57s
+Computers/Screens	Screens (8)	3.03s
+Computers/Screens	Screens (9)	3.06s
+Computers/Screens	Screens (10)	0.37s
+Computers/Screens	Screens (11)	4.21s
+Computers/Screens	Screens (12)	1.31s
+Computers/Screens	Screens (13)	2.09s
+Computers/Screens	Screens (14)	1.54s
+Computers/Typing	Typing (1)	2.93s
+Computers/Typing	Typing (2)	3.81s
+Computers/Typing	Typing (3)	3.03s
+Computers/Typing	Typing (4)	2.19s
+Computers/Typing	Typing (5)	2.51s
+Computers/Typing	Typing (6)	3.87s
+Computers/Typing	Typing (7)	6.03s
+Computers/Typing	Typing (8)	3.92s
+Computers/Typing	Typing (9)	4.15s
+Computers/Typing	Typing (10)	2.38s
+Computers/Typing	Typing Medium (1)	2.11s
+Computers/Typing	Typing Medium (2)	1.97s
+Computers/Typing	Typing Short (1)	0.89s
+Computers/Typing	Typing Short (2)	0.96s
+Computers/Typing	Typing Typewriter (1)	1.32s
+Doors/Doors_Cars	Cars (1)	0.99s
+Doors/Doors_Cars	Cars (2)	1.78s
+Doors/Doors_Cars	Cars (3)	2.43s
+Doors/Doors_Cars	Cars (4)	2.43s
+Doors/Doors_Cars	Cars (5)	1.96s
+Doors/Doors_Cars	Cars (6)	1.72s
+Doors/Doors_Cars	Cars (7)	1.72s
+Doors/Doors_Cars	Cars (8)	1.04s
+Doors/Doors_Cars	Cars (9)	0.89s
+Doors/Doors_Cars	Cars (10)	1.04s
+Doors/Doors_Cars	Cars (11)	1.72s
+Doors/Doors_Cars	Cars (12)	2.48s
+Doors/Doors_Cars	Cars (13)	0.65s
+Doors/Doors_Cars	Cars (14)	2.27s
+Doors/Doors_Cars	Cars (15)	0.86s
+Doors/Doors_Cellar	Cellar (1)	1.67s
+Doors/Doors_Cellar	Cellar (2)	0.71s
+Doors/Doors_Cellar	Cellar (3)	1.15s
+Doors/Doors_Cellar	Cellar (4)	2.04s
+Doors/Doors_Glass	Glass (1)	0.99s
+Doors/Doors_Glass	Glass (2)	1.62s
+Doors/Doors_Glass	Glass (3)	1.65s
+Doors/Doors_Glass	Glass (4)	0.78s
+Doors/Doors_Glass	Glass (5)	1.18s
+Doors/Doors_Glass	Glass (6)	1.96s
+Doors/Doors_Glass	Glass (7)	1.07s
+Doors/Doors_Glass	Glass (8)	0.86s
+Doors/Doors_Glass	Glass (9)	1.33s
+Doors/Doors_Handles	Handle (1)	0.97s
+Doors/Doors_Handles	Handle (2)	0.99s
+Doors/Doors_Handles	Handle (3)	0.71s
+Doors/Doors_Handles	Handle (4)	1.57s
+Doors/Doors_Handles	Handle (5)	3.03s
+Doors/Doors_Handles	Handle (6)	0.91s
+Doors/Doors_Handles	Handle (7)	0.91s
+Doors/Doors_Handles	Handle (8)	1.18s
+Doors/Doors_Handles	Handle (9)	0.76s
+Doors/Doors_Handles	Handle (10)	0.73s
+Doors/Doors_Handles	Handle (11)	0.63s
+Doors/Doors_Handles	Handle (12)	1.2s
+Doors/Doors_Handles	Handle (13)	0.78s
+Doors/Doors_Handles	Handle (14)	0.52s
+Doors/Doors_Handles	Scifi Door Open (1)	1.14s
+Doors/Doors_High_Tech	High Tech (1)	5.02s
+Doors/Doors_High_Tech	High Tech (2)	4.99s
+Doors/Doors_High_Tech	High Tech (3)	4.78s
+Doors/Doors_High_Tech	High Tech (4)	4.36s
+Doors/Doors_High_Tech	High Tech (5)	2.01s
+Doors/Doors_High_Tech	High Tech (6)	3.27s
+Doors/Doors_High_Tech	High Tech (7)	4.88s
+Doors/Doors_High_Tech	High Tech (8)	2.14s
+Doors/Doors_High_Tech	High Tech (9)	2.3s
+Doors/Doors_High_Tech	High Tech (10)	2.93s
+Doors/Doors_High_Tech	High Tech (11)	4.73s
+Doors/Doors_High_Tech	High Tech (12)	4.44s
+Doors/Doors_High_Tech	High Tech (13)	2.14s
+Doors/Doors_High_Tech	High Tech (14)	2.27s
+Doors/Doors_High_Tech	High Tech (15)	3.74s
+Doors/Doors_High_Tech	Scifi Door Open (2)	1.71s
+Doors/Doors_High_Tech	Scifi Door Open (3)	1.14s
+Doors/Doors_High_Tech	Scifi Door Open (4)	1.86s
+Doors/Doors_High_Tech	Scifi Door Open (5)	1.25s
+Doors/Doors_High_Tech	Scifi Motor Short 1x (1)	1.1s
+Doors/Doors_High_Tech	Scifi Open Airlock (1)	7.73s
+Doors/Doors_Key_Lock	Key Lock (1)	2.04s
+Doors/Doors_Key_Lock	Key Lock (2)	3.94s
+Doors/Doors_Key_Lock	Key Lock (3)	1.15s
+Doors/Doors_Key_Lock	Key Lock (4)	2.27s
+Doors/Doors_Key_Lock	Key Lock (5)	4.13s
+Doors/Doors_Key_Lock	Key Lock (6)	2.72s
+Doors/Doors_Key_Lock	Key Lock (7)	1.28s
+Doors/Doors_Key_Lock	Key Lock (8)	0.57s
+Doors/Doors_Key_Lock	Key Lock (9)	3.45s
+Doors/Doors_Key_Lock	Key Lock (10)	2.12s
+Doors/Doors_Key_Lock	Key Lock (11)	0.6s
+Doors/Doors_Key_Lock	Key Lock (12)	0.81s
+Doors/Doors_Knocks	Knocks (1)	1.2s
+Doors/Doors_Knocks	Knocks (2)	1.23s
+Doors/Doors_Knocks	Knocks (3)	1.67s
+Doors/Doors_Knocks	Knocks (4)	2.48s
+Doors/Doors_Knocks	Knocks (5)	1.54s
+Doors/Doors_Knocks	Knocks (6)	2.43s
+Doors/Doors_Knocks	Knocks (7)	1.38s
+Doors/Doors_Knocks	Knocks (8)	1.93s
+Doors/Doors_Knocks	Knocks (9)	1.02s
+Doors/Doors_Knocks	Knocks (10)	1.31s
+Doors/Doors_Knocks	Knocks (11)	1.04s
+Doors/Doors_Knocks	Knocks (12)	1.36s
+Doors/Doors_Knocks	Knocks (13)	0.73s
+Doors/Doors_Knocks	Knocks (14)	1.18s
+Doors/Doors_Knocks	Knocks (15)	1.28s
+Doors/Doors_Locker_Doors	Locker Doors (1)	5.77s
+Doors/Doors_Locker_Doors	Locker Doors (2)	2.64s
+Doors/Doors_Locker_Doors	Locker Doors (3)	2.61s
+Doors/Doors_Locker_Doors	Locker Doors (4)	3.47s
+Doors/Doors_Locker_Doors	Locker Doors (5)	3.08s
+Doors/Doors_Locker_Doors	Locker Doors (6)	3.4s
+Doors/Doors_Locker_Doors	Locker Doors (7)	3.87s
+Doors/Doors_Locker_Doors	Locker Doors (8)	3.29s
+Doors/Doors_Locker_Doors	Locker Doors (9)	2.51s
+Doors/Doors_Locker_Doors	Locker Doors (10)	0.84s
+Doors/Doors_Locker_Doors	Locker Doors (11)	2.38s
+Doors/Doors_Locker_Doors	Locker Doors (12)	1.65s
+Doors/Doors_Metal	Metal (1)	4.41s
+Doors/Doors_Metal	Metal (2)	2.04s
+Doors/Doors_Metal	Metal (3)	3.08s
+Doors/Doors_Metal	Metal (4)	1.85s
+Doors/Doors_Metal	Metal (5)	2.9s
+Doors/Doors_Metal	Metal (6)	1.78s
+Doors/Doors_Metal	Metal (7)	1.31s
+Doors/Doors_Metal	Metal (8)	1.07s
+Doors/Doors_Metal	Metal (9)	1.51s
+Doors/Doors_Metal	Metal (10)	1.33s
+Doors/Doors_Metal	Metal (11)	0.97s
+Doors/Doors_Metal	Metal (12)	4.08s
+Doors/Doors_Metal	Metal (13)	1.38s
+Doors/Doors_Metal	Metal (14)	2.25s
+Doors/Doors_Metal	Metal (15)	4.47s
+Doors/Doors_Prison	Prison (1)	3.37s
+Doors/Doors_Prison	Prison (2)	1.65s
+Doors/Doors_Prison	Prison (3)	5.17s
+Doors/Doors_Prison	Prison (4)	6.19s
+Doors/Doors_Prison	Prison (5)	1.41s
+Doors/Doors_Prison	Prison (6)	2.82s
+Doors/Doors_Prison	Prison (7)	4.34s
+Doors/Doors_Prison	Prison (8)	1.41s
+Doors/Doors_Prison	Prison (9)	4.68s
+Doors/Doors_Prison	Prison (10)	2.43s
+Doors/Doors_Prison	Prison (11)	2.12s
+Doors/Doors_Prison	Prison (12)	2.79s
+Doors/Doors_Prison	Prison (13)	2.14s
+Doors/Doors_Prison	Prison (14)	2.32s
+Doors/Doors_Regular	Regular (1)	2.46s
+Doors/Doors_Regular	Regular (2)	0.81s
+Doors/Doors_Regular	Regular (3)	3.6s
+Doors/Doors_Regular	Regular (4)	3.71s
+Doors/Doors_Regular	Regular (5)	2.04s
+Doors/Doors_Regular	Regular (6)	1.93s
+Doors/Doors_Regular	Regular (7)	0.99s
+Doors/Doors_Regular	Regular (8)	1.83s
+Doors/Doors_Regular	Regular (9)	2.85s
+Doors/Doors_Regular	Regular (10)	3.16s
+Doors/Doors_Regular	Regular (11)	2.12s
+Doors/Doors_Regular	Regular (12)	1.18s
+Doors/Doors_Regular	Regular (13)	1.51s
+Doors/Doors_Regular	Regular (14)	0.94s
+Doors/Doors_Regular	Regular (15)	1.2s
+Doors/Doors_Regular	Regular (16)	2.12s
+Doors/Doors_Regular	Regular (17)	2.93s
+Doors/Doors_Regular	Regular (18)	1.36s
+Doors/Doors_Regular	Regular (19)	1.46s
+Doors/Doors_Screen_Doors	Screen Doors (1)	3.16s
+Doors/Doors_Screen_Doors	Screen Doors (2)	6.01s
+Doors/Doors_Screen_Doors	Screen Doors (3)	2.35s
+Doors/Doors_Screen_Doors	Screen Doors (4)	2.74s
+Doors/Doors_Screen_Doors	Screen Doors (5)	2.35s
+Doors/Doors_Screen_Doors	Screen Doors (6)	0.71s
+Doors/Doors_Screen_Doors	Screen Doors (7)	1.1s
+Doors/Doors_Screen_Doors	Screen Doors (8)	1.46s
+Doors/Doors_Screen_Doors	Screen Doors (9)	1.2s
+Doors/Doors_Screen_Doors	Screen Doors (10)	1.41s
+Doors/Doors_Screen_Doors	Screen Doors (11)	2.14s
+Doors/Doors_Screen_Doors	Screen Doors (12)	1.51s
+Doors/Doors_Screen_Doors	Screen Doors (13)	1.25s
+Doors/Doors_Screen_Doors	Screen Doors (14)	1.54s
+Doors/Doors_Squeaky	Squeaky (1)	4.23s
+Doors/Doors_Squeaky	Squeaky (2)	2.4s
+Doors/Doors_Squeaky	Squeaky (3)	4.13s
+Doors/Doors_Squeaky	Squeaky (4)	2.46s
+Doors/Doors_Squeaky	Squeaky (5)	2.77s
+Doors/Doors_Squeaky	Squeaky (6)	1.78s
+Doors/Doors_Squeaky	Squeaky (7)	2.98s
+Doors/Doors_Squeaky	Squeaky (8)	3.92s
+Doors/Doors_Squeaky	Squeaky (9)	1.85s
+Doors/Doors_Squeaky	Squeaky (10)	2.77s
+Doors/Doors_Squeaky	Squeaky (11)	1.62s
+Doors/Doors_Squeaky	Squeaky (12)	4.02s
+Doors/Doors_Squeaky	Squeaky (13)	4.99s
+Doors/Doors_Squeaky	Squeaky (14)	1.67s
+Doors/Doors_Squeaky	Squeaky (15)	2.12s
+Doors/Doors_Swing_Doors	Swing Doors (1)	1.04s
+Doors/Doors_Swing_Doors	Swing Doors (2)	7.21s
+Doors/Doors_Swing_Doors	Swing Doors (3)	3.16s
+Doors/Doors_Swing_Doors	Swing Doors (4)	1.57s
+Doors/Doors_Various	Door Open (1)	1.46s
+Doors/Doors_Various	Door Open (2)	1.32s
+Doors/Doors_Various	Door Open (3)	1.17s
+Doors/Doors_Various	Door Shut (1)	1.39s
+Doors/Doors_Various	Door Shut (2)	0.53s
+Doors/Doors_Various	Various (1)	1.54s
+Doors/Doors_Various	Various (2)	2.46s
+Doors/Doors_Various	Various (3)	4.99s
+Doors/Doors_Various	Various (4)	2.9s
+Doors/Doors_Various	Various (5)	2.38s
+Doors/Doors_Various	Various (6)	1.65s
+Doors/Doors_Various	Various (7)	3.16s
+Doors/Doors_Various	Various (8)	3.76s
+Doors/Doors_Various	Various (9)	2.3s
+Doors/Doors_Various	Various (10)	4.34s
+Doors/Doors_Various	Various (11)	3.24s
+Doors/Doors_Various	Various (12)	4.41s
+Doors/Doors_Various	Various (13)	2.35s
+Doors/Doors_Wood	Wood (1)	1.93s
+Doors/Doors_Wood	Wood (2)	0.94s
+Doors/Doors_Wood	Wood (3)	0.86s
+Doors/Doors_Wood	Wood (4)	2.74s
+Doors/Doors_Wood	Wood (5)	1.36s
+Doors/Doors_Wood	Wood (6)	2.14s
+Doors/Doors_Wood	Wood (7)	1.57s
+Doors/Doors_Wood	Wood (8)	1.07s
+Doors/Doors_Wood	Wood (9)	1.02s
+Doors/Doors_Wood	Wood (10)	1.1s
+Doors/Doors_Wood	Wood (11)	1.31s
+Doors/Doors_Wood	Wood (12)	1.25s
+Doors/Doors_Wood	Wood (13)	0.97s
+Doors/Doors_Wood	Wood (14)	0.57s
+Doors/Doors_Wood	Wooden Door (1)	1.75s
+Doors/Doors_Wood	Wooden Door Creaks Long (1)	2.33s
+Doors/Doors_Wood	Wooden Door Creaks Long (2)	1.68s
+Doors/Doors_Wood	Wooden Door Creaks Multiple (1)	4.05s
+Doors/Doors_Wood	Wooden Door Creaks Open (1)	0.78s
+Electrical/Arcs_Sparks	Arcs Sparks (1)	4.34s
+Electrical/Arcs_Sparks	Arcs Sparks (2)	4.34s
+Electrical/Arcs_Sparks	Arcs Sparks (3)	3.16s
+Electrical/Arcs_Sparks	Arcs Sparks (4)	3.06s
+Electrical/Arcs_Sparks	Arcs Sparks (5)	4.83s
+Electrical/Arcs_Sparks	Arcs Sparks (6)	2.22s
+Electrical/Arcs_Sparks	Arcs Sparks (7)	2.3s
+Electrical/Arcs_Sparks	Arcs Sparks (8)	2.87s
+Electrical/Arcs_Sparks	Arcs Sparks (9)	2.9s
+Electrical/Arcs_Sparks	Arcs Sparks (10)	2.72s
+Electrical/Arcs_Sparks	Arcs Sparks (11)	1.96s
+Electrical/Arcs_Sparks	Arcs Sparks (12)	2.74s
+Electrical/Arcs_Sparks	Arcs Sparks (13)	0.78s
+Electrical/Arcs_Sparks	Arcs Sparks (14)	3.84s
+Electrical/Arcs_Sparks	Arcs Sparks (15)	4.94s
+Electrical/Buzz_Hums	Buzz Hums (1)	3.32s
+Electrical/Buzz_Hums	Buzz Hums (2)	4.55s
+Electrical/Buzz_Hums	Buzz Hums (3)	9.61s
+Electrical/Buzz_Hums	Buzz Hums (4)	4.13s
+Electrical/Buzz_Hums	Buzz Hums (5)	4.18s
+Electrical/Buzz_Hums	Buzz Hums (6)	4.02s
+Electrical/Buzz_Hums	Buzz Hums (7)	5.07s
+Electrical/Buzz_Hums	Buzz Hums (8)	2.95s
+Electrical/Buzz_Hums	Buzz Hums (9)	3.13s
+Electrical/Buzz_Hums	Buzz Hums (10)	4.49s
+Electrical/Buzz_Hums	Buzz Hums (11)	4.7s
+Electrical/Buzz_Hums	Buzz Hums (12)	4.34s
+Electrical/Buzz_Hums	Buzz Hums (13)	3s
+Electrical/Buzz_Hums	Buzz Hums (14)	3.63s
+Electrical/Buzz_Hums	Buzz Hums (15)	3.63s
+Electrical/Feedback_Mics	Feedback Mics (1)	5.67s
+Electrical/Feedback_Mics	Feedback Mics (2)	3.76s
+Electrical/Feedback_Mics	Feedback Mics (3)	1.44s
+Electrical/Feedback_Mics	Feedback Mics (4)	5.43s
+Electrical/Feedback_Mics	Feedback Mics (5)	2.93s
+Electrical/Feedback_Mics	Feedback Mics (6)	3.19s
+Electrical/Feedback_Mics	Feedback Mics (7)	1.62s
+Electrical/Feedback_Mics	Feedback Mics (8)	4.62s
+Electrical/Feedback_Mics	Feedback Mics (9)	4.68s
+Electrical/Feedback_Mics	Feedback Mics (10)	3.53s
+Electrical/Feedback_Mics	Feedback Mics (11)	4.62s
+Electrical/Feedback_Mics	Feedback Mics (12)	1.72s
+Electrical/Feedback_Mics	Feedback Mics (13)	3.47s
+Electrical/Feedback_Mics	Feedback Mics (14)	1.57s
+Electrical/Feedback_Mics	Feedback Mics (15)	3.66s
+Explosions/Electrical	Electrical (1)	3.29s
+Explosions/Electrical	Electrical (2)	1.91s
+Explosions/Electrical	Electrical (3)	1.8s
+Explosions/Electrical	Electrical (4)	2.35s
+Explosions/Electrical	Electrical (5)	2.04s
+Explosions/Electrical	Electrical (6)	2.01s
+Explosions/Electrical	Electrical (7)	2.38s
+Explosions/Electrical	Electrical (8)	2.01s
+Explosions/Electrical	Electrical (9)	4.21s
+Explosions/Electrical	Electrical (10)	3.08s
+Explosions/Electrical	Electrical (11)	2.77s
+Explosions/Electrical	Electrical (12)	4.81s
+Explosions/Electrical	Electrical (13)	2.85s
+Explosions/Electrical	Electrical (14)	1.25s
+Explosions/Electrical	Electrical (15)	3.89s
+Explosions/Explosions	Explosions (1)	6.4s
+Explosions/Explosions	Explosions (2)	1.78s
+Explosions/Explosions	Explosions (3)	1.51s
+Explosions/Explosions	Explosions (4)	2.56s
+Explosions/Explosions	Explosions (5)	4.31s
+Explosions/Explosions	Explosions (6)	4.13s
+Explosions/Explosions	Explosions (7)	2.9s
+Explosions/Explosions	Explosions (8)	3.42s
+Explosions/Explosions	Explosions (9)	3.45s
+Explosions/Explosions	Explosions (10)	4.62s
+Explosions/Explosions	Explosions (11)	4.05s
+Explosions/Explosions	Explosions (12)	3.13s
+Explosions/Explosions	Explosions (13)	3.5s
+Explosions/Explosions	Explosions (14)	3.79s
+Explosions/Explosions	Scifi Close Large Explosion (1)	4.05s
+Explosions/Explosions	Scifi Explosion (1)	2.51s
+Explosions/Explosions	Scifi Explosion (2)	2.04s
+Explosions/Explosions	Scifi Explosion (3)	2.15s
+Explosions/Explosions	Scifi Explosion 2x (1)	3.69s
+Explosions/Explosions	Scifi Incoming Explosion (1)	4.09s
+Explosions/Fire	Fire (1)	4.23s
+Explosions/Fire	Fire (2)	4.26s
+Explosions/Fire	Fire (3)	5.22s
+Explosions/Fire	Fire (4)	4.62s
+Explosions/Fire	Fire (5)	4.65s
+Explosions/Fire	Fire (6)	4.83s
+Explosions/Fire	Fire (7)	2.19s
+Explosions/Fire	Fire (8)	2.43s
+Explosions/Fire	Fire (9)	4.21s
+Explosions/Fire	Fire (10)	2.06s
+Explosions/Fire	Fire (11)	4.1s
+Explosions/Fire	Fire (12)	1.15s
+Explosions/Fire	Fire (13)	3.92s
+Explosions/Fireballs	Fireballs (1)	4.47s
+Explosions/Fireballs	Fireballs (2)	4.39s
+Explosions/Fireballs	Fireballs (3)	2.72s
+Explosions/Fireballs	Fireballs (4)	5.36s
+Explosions/Fireballs	Fireballs (5)	3.32s
+Explosions/Fireballs	Fireballs (6)	1.59s
+Explosions/Fireballs	Fireballs (7)	2.87s
+Explosions/Fireballs	Fireballs (8)	2.3s
+Explosions/Fireballs	Fireballs (9)	2.27s
+Explosions/Fireballs	Fireballs (10)	2.32s
+Explosions/Fireballs	Fireballs (11)	3.94s
+Explosions/Fireballs	Fireballs (12)	4.62s
+Explosions/Fireballs	Fireballs (13)	3.37s
+Explosions/Fireballs	Fireballs (14)	1.41s
+Explosions/Fireballs	Fireballs (15)	4.13s
+Explosions/Fireworks	Fireworks (1)	2.69s
+Explosions/Fireworks	Fireworks (1)	1.53s
+Explosions/Fireworks	Fireworks (2)	6.09s
+Explosions/Fireworks	Fireworks (3)	5.59s
+Explosions/Fireworks	Fireworks (4)	4.13s
+Explosions/Fireworks	Fireworks (5)	3.37s
+Explosions/Fireworks	Fireworks (6)	3.29s
+Explosions/Fireworks	Fireworks (7)	4.55s
+Explosions/Fireworks	Fireworks (8)	4.13s
+Explosions/Fireworks	Fireworks (9)	3.58s
+Explosions/Fireworks	Fireworks (10)	4.39s
+Explosions/Fireworks	Fireworks (11)	4.86s
+Explosions/Fireworks	Fireworks (12)	4.75s
+Explosions/Fireworks	Fireworks (13)	2.72s
+Explosions/Fireworks	Fireworks (14)	2.35s
+Explosions/Fireworks	Fireworks (15)	4.44s
+Explosions/Fireworks	Fireworks Firecrackers (1)	5.31s
+Explosions/Fireworks	Fireworks Launch (1)	2.9s
+Explosions/Fireworks	Fireworks Whistles (1)	3.08s
+Explosions/Fireworks	Fireworks Whistles (2)	1.64s
+Explosions/Ignitions	Ignitions (1)	2.12s
+Explosions/Ignitions	Ignitions (2)	2.51s
+Explosions/Ignitions	Ignitions (3)	5.25s
+Explosions/Ignitions	Ignitions (4)	2.19s
+Explosions/Ignitions	Ignitions (5)	4.49s
+Explosions/Ignitions	Ignitions (6)	3.74s
+Explosions/Ignitions	Ignitions (7)	2.04s
+Explosions/Ignitions	Ignitions (8)	1.83s
+Explosions/Ignitions	Ignitions (9)	1.28s
+Explosions/Ignitions	Ignitions (10)	2.14s
+Explosions/Ignitions	Ignitions (11)	2.27s
+Explosions/Ignitions	Ignitions (12)	4.21s
+Explosions/Ignitions	Ignitions (13)	1.99s
+Explosions/Ignitions	Ignitions (14)	0.44s
+Explosions/Ignitions	Ignitions (15)	0.65s
+Explosions/Medium_Large	Medium Large Explosions (1)	2.48s
+Explosions/Medium_Large	Medium Large Explosions (2)	4.68s
+Explosions/Medium_Large	Medium Large Explosions (3)	4.96s
+Explosions/Medium_Large	Medium Large Explosions (4)	2.72s
+Explosions/Medium_Large	Medium Large Explosions (5)	5.62s
+Explosions/Medium_Large	Medium Large Explosions (6)	1.51s
+Explosions/Medium_Large	Medium Large Explosions (7)	2.3s
+Explosions/Medium_Large	Medium Large Explosions (8)	4.7s
+Explosions/Medium_Large	Medium Large Explosions (9)	4.62s
+Explosions/Medium_Large	Medium Large Explosions (10)	3.32s
+Explosions/Medium_Large	Medium Large Explosions (11)	4.75s
+Explosions/Medium_Large	Medium Large Explosions (12)	3.97s
+Explosions/Medium_Large	Medium Large Explosions (13)	2.82s
+Explosions/Medium_Large	Scifi Long Explosion 1x (1)	4.7s
+Explosions/Missile	Scifi Missile (1)	1.46s
+Explosions/Missile	Scifi Missile (2)	3.98s
+Explosions/Missile	Scifi Missile (3)	3.37s
+Explosions/Missile	Scifi Missile (4)	4.63s
+Explosions/Small	Scifi Short Low Explosion (1)	2.15s
+Explosions/Small	Small Explosions (1)	1.44s
+Explosions/Small	Small Explosions (2)	1.51s
+Explosions/Small	Small Explosions (3)	1.83s
+Explosions/Small	Small Explosions (4)	0.99s
+Explosions/Small	Small Explosions (5)	2.35s
+Explosions/Small	Small Explosions (6)	1.33s
+Explosions/Small	Small Explosions (7)	0.86s
+Explosions/Small	Small Explosions (8)	2.25s
+Explosions/Small	Small Explosions (9)	1.93s
+Explosions/Small	Small Explosions (10)	1.44s
+Explosions/Small	Small Explosions (11)	1.59s
+Explosions/Small	Small Explosions (12)	1.7s
+Explosions/Small	Small Explosions (13)	1.33s
+Explosions/Small	Small Explosions (14)	0.6s
+Footsteps/Concrete	Concrete (1)	3.08s
+Footsteps/Concrete	Concrete (2)	3.47s
+Footsteps/Concrete	Concrete (3)	2.25s
+Footsteps/Concrete	Concrete (4)	2.64s
+Footsteps/Concrete	Concrete (5)	2.85s
+Footsteps/Concrete	Concrete (6)	3.5s
+Footsteps/Concrete	Concrete (7)	4.7s
+Footsteps/Concrete	Concrete (8)	1.85s
+Footsteps/Concrete	Concrete (9)	2.77s
+Footsteps/Concrete	Concrete (10)	3.34s
+Footsteps/Concrete	Footsteps (1)	3.91s
+Footsteps/Concrete	Human Walking (1)	2.07s
+Footsteps/Concrete	Human Walking (3)	2.15s
+Footsteps/Distant	Footsteps Muffled (2)	3.66s
+Footsteps/Distant	Scifi Boots Walking (1)	4.7s
+Footsteps/Footsteps Crowd	People Walking (1)	2.04s
+Footsteps/Footsteps Crowd	People Walking (2)	2.04s
+Footsteps/Grass	Walking On Grass (1)	2.36s
+Footsteps/Grass	Walking On Grass (2)	2.79s
+Footsteps/Grass	Walking On Grass (3)	3.08s
+Footsteps/Metal	Metal (1)	3.11s
+Footsteps/Metal	Metal (2)	4.65s
+Footsteps/Metal	Metal (3)	4.44s
+Footsteps/Metal	Metal (4)	5.59s
+Footsteps/Metal	Metal (5)	2.9s
+Footsteps/Metal	Metal (6)	3.63s
+Footsteps/Metal	Metal (7)	2.35s
+Footsteps/Metal	Metal (8)	2.98s
+Footsteps/Metal	Metal (9)	3.94s
+Footsteps/Metal	Metal (10)	3.68s
+Footsteps/Metal	Metal (11)	2.77s
+Footsteps/Metal	Metal (12)	4.44s
+Footsteps/Metal	Metal (13)	2.09s
+Footsteps/Metal	Metal (14)	4.21s
+Footsteps/Running	Person Running (1)	2.07s
+Footsteps/Running	Person Running (2)	2.04s
+Footsteps/Running	Person Running (3)	1.97s
+Footsteps/Running	Running (1)	3.79s
+Footsteps/Running	Running (2)	3.76s
+Footsteps/Running	Running (3)	5.56s
+Footsteps/Running	Running (4)	4.05s
+Footsteps/Running	Running (5)	3.58s
+Footsteps/Running	Running (6)	3.71s
+Footsteps/Running	Running (7)	3.55s
+Footsteps/Running	Running (8)	3.03s
+Footsteps/Running	Running (9)	3.6s
+Footsteps/Running	Running (10)	4.73s
+Footsteps/Running	Running (11)	4.65s
+Footsteps/Running	Running (12)	2.98s
+Footsteps/Running	Scifi Run Away (1)	4.2s
+Footsteps/Running	Scifi Run Away (2)	3.44s
+Footsteps/Sand_Gravel_Mud	Sand Gravel (1)	4.34s
+Footsteps/Sand_Gravel_Mud	Sand Gravel (2)	2.61s
+Footsteps/Sand_Gravel_Mud	Sand Gravel (3)	3.92s
+Footsteps/Sand_Gravel_Mud	Sand Gravel (4)	3.4s
+Footsteps/Sand_Gravel_Mud	Sand Gravel (5)	2.66s
+Footsteps/Sand_Gravel_Mud	Sand Gravel (6)	3.42s
+Footsteps/Sand_Gravel_Mud	Sand Gravel (7)	4.39s
+Footsteps/Sand_Gravel_Mud	Sand Gravel (8)	3.19s
+Footsteps/Sand_Gravel_Mud	Sand Gravel (9)	1.49s
+Footsteps/Sand_Gravel_Mud	Sand Gravel (10)	4.08s
+Footsteps/Sand_Gravel_Mud	Walking In Mud (1)	4.05s
+Footsteps/Sand_Gravel_Mud	Walking In Mud (2)	2.43s
+Footsteps/Snow	Snow (1)	4.49s
+Footsteps/Snow	Snow (2)	6.53s
+Footsteps/Snow	Snow (3)	4.23s
+Footsteps/Snow	Snow (4)	5.8s
+Footsteps/Snow	Snow (5)	5.25s
+Footsteps/Snow	Snow (6)	3.94s
+Footsteps/Snow	Snow (7)	4.88s
+Footsteps/Snow	Snow (8)	4.62s
+Footsteps/Snow	Snow (9)	4.65s
+Footsteps/Snow	Snow (10)	2.64s
+Footsteps/Snow	Snow (11)	3.63s
+Footsteps/Snow	Snow (12)	2.09s
+Footsteps/Snow	Walking In Snow (1)	1.75s
+Footsteps/Stairs	Human Walking (2)	2s
+Footsteps/Stairs	Stairs (1)	1.65s
+Footsteps/Stairs	Stairs (2)	4.83s
+Footsteps/Stairs	Stairs (3)	2.04s
+Footsteps/Stairs	Stairs (4)	4.99s
+Footsteps/Stairs	Stairs (5)	3.08s
+Footsteps/Stairs	Stairs (6)	2.04s
+Footsteps/Stairs	Stairs (7)	3.53s
+Footsteps/Stairs	Stairs (8)	1.85s
+Footsteps/Stairs	Stairs (9)	4.02s
+Footsteps/Stairs	Stairs (10)	3.79s
+Footsteps/Stairs	Stairs (11)	4.23s
+Footsteps/Stairs	Stairs (12)	2.87s
+Footsteps/Water	Water (1)	5.41s
+Footsteps/Water	Water (2)	4.91s
+Footsteps/Water	Water (3)	5.56s
+Footsteps/Water	Water (4)	4.78s
+Footsteps/Water	Water (5)	3.76s
+Footsteps/Water	Water (6)	3.68s
+Footsteps/Water	Water (7)	4.49s
+Footsteps/Water	Water (8)	4.96s
+Footsteps/Water	Water (9)	4.49s
+Footsteps/Water	Water (10)	2.09s
+Footsteps/Wood	Wood (1)	4.18s
+Footsteps/Wood	Wood (2)	5.56s
+Footsteps/Wood	Wood (3)	3.71s
+Footsteps/Wood	Wood (4)	4.68s
+Footsteps/Wood	Wood (5)	1.44s
+Footsteps/Wood	Wood (6)	3.27s
+Footsteps/Wood	Wood (7)	3.19s
+Footsteps/Wood	Wood (8)	2.59s
+Footsteps/Wood	Wood (9)	2.69s
+Footsteps/Wood	Wood (10)	3.27s
+Gameshow	Gameshow (1)	5.56s
+Gameshow	Gameshow (2)	0.99s
+Gameshow	Gameshow (3)	2.87s
+Gameshow	Gameshow (4)	0.63s
+Gameshow	Gameshow Bridge (1)	2.66s
+Gameshow	Gameshow Bridge (2)	2.63s
+Gameshow	Gameshow Countdown Loop 32s Full (1)	32.15s
+Gameshow	Gameshow Countdown Loop 64s Full (1)	64.15s
+Gameshow	Gameshow Countdown Loop 64s Minimal (1)	64.15s
+Gameshow	Gameshow Intro (1)	4.39s
+Gameshow	Gameshow Negative Response (1)	0.58s
+Gameshow	Gameshow Negative Response (2)	1.51s
+Gameshow	Gameshow Negative Response (3)	3.17s
+Gameshow	Gameshow Neutral Response (1)	1.08s
+Gameshow	Gameshow Neutral Response (2)	1.01s
+Gameshow	Gameshow Neutral Response (3)	1.19s
+Gameshow	Gameshow Outro (1)	2.74s
+Gameshow	Gameshow Player1 (1)	0.86s
+Gameshow	Gameshow Player2 (1)	0.9s
+Gameshow	Gameshow Player3 (1)	0.86s
+Gameshow	Gameshow Player4 (1)	0.86s
+Gameshow	Gameshow Positive Response (1)	1.51s
+Gameshow	Gameshow Positive Response (2)	2.66s
+Gameshow	Gameshow Positive Response (3)	2.99s
+Gameshow	Gameshow Tally Negative (1)	3.46s
+Gameshow	Gameshow Tally Positive (1)	3.56s
+Gameshow	Gameshow Waiting Loop 30s (1)	31.1s
+Glass/Break_Shatter_Smash	Break Shatter Smash (1)	1.44s
+Glass/Break_Shatter_Smash	Break Shatter Smash (2)	1.2s
+Glass/Break_Shatter_Smash	Break Shatter Smash (3)	1.46s
+Glass/Break_Shatter_Smash	Break Shatter Smash (4)	1.2s
+Glass/Break_Shatter_Smash	Break Shatter Smash (5)	2.06s
+Glass/Break_Shatter_Smash	Break Shatter Smash (6)	1.46s
+Glass/Break_Shatter_Smash	Break Shatter Smash (7)	1.25s
+Glass/Break_Shatter_Smash	Break Shatter Smash (8)	1.51s
+Glass/Break_Shatter_Smash	Break Shatter Smash (9)	2.56s
+Glass/Break_Shatter_Smash	Break Shatter Smash (10)	1.51s
+Glass/Break_Shatter_Smash	Break Shatter Smash (11)	1.7s
+Glass/Break_Shatter_Smash	Break Shatter Smash (12)	1.51s
+Glass/Break_Shatter_Smash	Break Shatter Smash (13)	1.33s
+Glass/Break_Shatter_Smash	Break Shatter Smash (14)	1.46s
+Glass/Break_Shatter_Smash	Break Shatter Smash (15)	1.1s
+Glass/Clink	Glass On Table (1)	0.6s
+Glass/Clink	Glasses Clink (1)	1.57s
+Glass/Clink	Glasses Clink (1)	5.38s
+Glass/Clink	Glasses Clink (2)	1.23s
+Glass/Clink	Glasses Clink (2)	0.67s
+Glass/Clink	Glasses Clink (3)	0.55s
+Glass/Clink	Glasses Clink (3)	1.46s
+Glass/Clink	Glasses Clink (4)	0.99s
+Glass/Clink	Glasses Clink (4)	1.57s
+Glass/Crashes	Crashes (1)	3.37s
+Glass/Crashes	Crashes (2)	1.85s
+Glass/Crashes	Crashes (3)	1.36s
+Glass/Crashes	Crashes (4)	4.34s
+Glass/Crashes	Crashes (5)	1.33s
+Glass/Crashes	Crashes (6)	0.78s
+Glass/Crashes	Crashes (7)	1.49s
+Glass/Crashes	Crashes (8)	3.08s
+Glass/Crashes	Crashes (9)	1.36s
+Glass/Crashes	Crashes (10)	1.67s
+Glass/Crashes	Crashes (11)	1.31s
+Glass/Crashes	Crashes (12)	1.67s
+Glass/Crashes	Crashes (13)	1.23s
+Glass/Crashes	Crashes (14)	3s
+Glass/Hits	Hits (1)	2.98s
+Glass/Hits	Hits (2)	0.65s
+Glass/Hits	Hits (3)	1.51s
+Glass/Hits	Hits (4)	1.15s
+Glass/Hits	Hits (5)	2.51s
+Glass/Hits	Hits (6)	0.57s
+Glass/Hits	Hits (7)	1.15s
+Glass/Hits	Hits (8)	1.1s
+Glass/Hits	Hits (9)	2.35s
+Glass/Hits	Hits (10)	1.18s
+Glass/Hits	Hits (11)	0.55s
+Glass/Hits	Jar On Table 1x (1)	0.6s
+Guns/Battles	Battles (1)	6.06s
+Guns/Battles	Battles (2)	5.25s
+Guns/Battles	Battles (3)	4.73s
+Guns/Battles	Battles (4)	6.14s
+Guns/Battles	Battles (5)	3.53s
+Guns/Battles	Battles (6)	4.18s
+Guns/Battles	Battles (7)	3.6s
+Guns/Battles	Battles (8)	2.53s
+Guns/Battles	Battles (9)	3.11s
+Guns/Battles	Battles (10)	2.35s
+Guns/Battles	Battles (11)	4.15s
+Guns/Battles	Battles (12)	4.49s
+Guns/Battles	Battles (13)	4s
+Guns/Battles	Scifi Laser Gun Battle (1)	3.26s
+Guns/Battles	Scifi Laser Gun Battle (2)	3.84s
+Guns/Bullets	Bullets (1)	1.1s
+Guns/Bullets	Bullets (2)	0.78s
+Guns/Bullets	Bullets (3)	0.89s
+Guns/Bullets	Bullets (4)	1.67s
+Guns/Bullets	Bullets (5)	1.46s
+Guns/Bullets	Bullets (6)	2.43s
+Guns/Bullets	Bullets (7)	3.29s
+Guns/Bullets	Bullets (8)	2.38s
+Guns/Bullets	Bullets (9)	0.84s
+Guns/Bullets	Bullets (10)	1.51s
+Guns/Bullets	Bullets (11)	1.46s
+Guns/Bullets	Bullets (12)	2.35s
+Guns/Cannons	Cannons (1)	5.93s
+Guns/Cannons	Cannons (2)	3.68s
+Guns/Cannons	Cannons (3)	2.93s
+Guns/Cannons	Cannons (4)	2.25s
+Guns/Cannons	Cannons (5)	1.75s
+Guns/Cannons	Cannons (6)	2.14s
+Guns/Cannons	Cannons (7)	2.14s
+Guns/Cannons	Cannons (8)	3s
+Guns/Cannons	Cannons (9)	1.91s
+Guns/Cannons	Cannons (10)	3.58s
+Guns/Cannons	Cannons (11)	3.45s
+Guns/Cannons	Cannons (12)	1.85s
+Guns/Cannons	Cannons (13)	4.18s
+Guns/Cannons	Cannons (14)	1.59s
+Guns/Futuristic	Futuristic (1)	1.33s
+Guns/Futuristic	Futuristic (2)	1.38s
+Guns/Futuristic	Futuristic (3)	1.36s
+Guns/Futuristic	Futuristic (4)	3.5s
+Guns/Futuristic	Futuristic (5)	3.13s
+Guns/Futuristic	Futuristic (6)	1.72s
+Guns/Futuristic	Futuristic (7)	1.15s
+Guns/Futuristic	Futuristic (8)	1.12s
+Guns/Futuristic	Futuristic (9)	1.57s
+Guns/Futuristic	Futuristic (10)	1.44s
+Guns/Futuristic	Futuristic (11)	0.73s
+Guns/Futuristic	Futuristic (12)	0.57s
+Guns/Futuristic	Futuristic (13)	1.25s
+Guns/Futuristic	Futuristic (14)	2.12s
+Guns/Futuristic	Futuristic (15)	1.38s
+Guns/Futuristic	Scifi Laser Gun Fires (1)	2.94s
+Guns/Futuristic	Scifi Laser Gun Fires (2)	0.89s
+Guns/Futuristic	Scifi Laser Gun Fires (3)	0.67s
+Guns/Futuristic	Scifi Laser Gun Fires (4)	3.05s
+Guns/Futuristic	Scifi Laser Gun Fires (5)	0.6s
+Guns/Futuristic	Scifi Laser Gun Fires (6)	0.81s
+Guns/Futuristic	Scifi Laser Gun Fires Large (1)	1.35s
+Guns/Futuristic	Scifi Laser Gun Fires Large (2)	1.93s
+Guns/Futuristic	Scifi Laser Gun Fires Large (3)	1.32s
+Guns/Futuristic	Scifi Laser Gun Fires Large (4)	1.43s
+Guns/Grenade_Lanucher	Grenade Lanucher (1)	1.8s
+Guns/Grenade_Lanucher	Grenade Lanucher (2)	1.67s
+Guns/Grenade_Lanucher	Grenade Lanucher (3)	1.75s
+Guns/Grenade_Lanucher	Grenade Lanucher (4)	1.38s
+Guns/Grenade_Lanucher	Grenade Lanucher (5)	1.12s
+Guns/Grenade_Lanucher	Grenade Lanucher (6)	0.57s
+Guns/Grenade_Lanucher	Grenade Lanucher (7)	1.72s
+Guns/Grenade_Lanucher	Grenade Lanucher (8)	2.38s
+Guns/Grenade_Lanucher	Grenade Lanucher (9)	1.72s
+Guns/Grenade_Lanucher	Grenade Lanucher (10)	1.07s
+Guns/Grenade_Lanucher	Grenade Lanucher (11)	1.23s
+Guns/Grenade_Lanucher	Grenade Lanucher (12)	1.83s
+Guns/Handguns	Handgun Loading (1)	1.38s
+Guns/Handguns	Handgun Loading (2)	0.68s
+Guns/Handguns	Handgun Loading (3)	2.06s
+Guns/Handguns	Handgun Loading (4)	2.19s
+Guns/Handguns	Handgun Loading (5)	1.46s
+Guns/Handguns	Handgun Loading (6)	0.65s
+Guns/Handguns	Handgun Loading (7)	0.68s
+Guns/Handguns	Handgun Loading (8)	1.72s
+Guns/Handguns	Handgun Loading (9)	0.63s
+Guns/Handguns	Handgun Loading (10)	1.46s
+Guns/Handguns	Handgun Loading (11)	0.42s
+Guns/Handguns	Handgun Loading (12)	2.95s
+Guns/Handguns	Handgun Loading (13)	1.12s
+Guns/Handguns	Handgun Loading (14)	2.06s
+Guns/Handguns	Handgun Shot (1)	1.78s
+Guns/Handguns	Handgun Shot (2)	1.72s
+Guns/Handguns	Handgun Shot (3)	0.55s
+Guns/Handguns	Handgun Shot (4)	0.76s
+Guns/Handguns	Handgun Shot (5)	0.73s
+Guns/Handguns	Handgun Shot (6)	1.65s
+Guns/Handguns	Handgun Shot (7)	1.07s
+Guns/Handguns	Handgun Shot (8)	0.89s
+Guns/Handguns	Handgun Shot (9)	0.89s
+Guns/Handguns	Handgun Shot (10)	2.12s
+Guns/Handguns	Handgun Shot (11)	1.72s
+Guns/Handguns	Handgun Shot (12)	1.57s
+Guns/Handguns	Handgun Shot (13)	1.93s
+Guns/Machine_Gun	Machine Gun (1)	3.53s
+Guns/Machine_Gun	Machine Gun (2)	5.04s
+Guns/Machine_Gun	Machine Gun (3)	3.08s
+Guns/Machine_Gun	Machine Gun (4)	4.83s
+Guns/Machine_Gun	Machine Gun (5)	5.07s
+Guns/Machine_Gun	Machine Gun (6)	2.43s
+Guns/Machine_Gun	Machine Gun (7)	1.62s
+Guns/Machine_Gun	Machine Gun (8)	1.46s
+Guns/Machine_Gun	Machine Gun (9)	1.65s
+Guns/Machine_Gun	Machine Gun (10)	0.99s
+Guns/Machine_Gun	Machine Gun (11)	2.43s
+Guns/Machine_Gun	Machine Gun (12)	1.93s
+Guns/Machine_Gun	Machine Gun (13)	2.01s
+Guns/Machine_Gun	Machine Gun (14)	1.75s
+Guns/Rifles	Rifle (1)	2.22s
+Guns/Rifles	Rifle (2)	2.46s
+Guns/Rifles	Rifle (3)	3.03s
+Guns/Rifles	Rifle (4)	2.98s
+Guns/Rifles	Rifle (5)	2.04s
+Guns/Rifles	Rifle (6)	1.36s
+Guns/Rifles	Rifle (7)	0.68s
+Guns/Rifles	Rifle (8)	1.15s
+Guns/Rifles	Rifle (9)	0.78s
+Guns/Rifles	Rifle (10)	0.71s
+Guns/Rifles	Rifle (11)	0.78s
+Guns/Rifles	Rifle (12)	1.54s
+Guns/Rifles	Rifle (13)	0.73s
+Guns/Rifles	Rifle (14)	0.47s
+Guns/Shotguns	Shotgun (1)	1.93s
+Guns/Shotguns	Shotgun (2)	0.57s
+Guns/Shotguns	Shotgun (3)	4.02s
+Guns/Shotguns	Shotgun (4)	3.13s
+Guns/Shotguns	Shotgun (5)	1.62s
+Guns/Shotguns	Shotgun (6)	1.75s
+Guns/Shotguns	Shotgun (7)	0.6s
+Guns/Shotguns	Shotgun (8)	0.71s
+Guns/Shotguns	Shotgun (9)	2.43s
+Guns/Shotguns	Shotgun (10)	2.53s
+Guns/Shotguns	Shotgun (11)	2.77s
+Guns/Shotguns	Shotgun (12)	1.7s
+Guns/Shotguns	Shotgun (13)	3.03s
+Holidays/Christmas	Christmas (1)	5.8s
+Holidays/Christmas	Christmas (2)	4.68s
+Holidays/Christmas	Christmas (3)	2.27s
+Holidays/Christmas	Christmas (4)	2.14s
+Holidays/Christmas	Christmas (5)	3.53s
+Holidays/Christmas	Christmas (6)	4.7s
+Holidays/Christmas	Christmas (7)	4.94s
+Holidays/Christmas	Sleigh Bells (1)	2.15s
+Holidays/Christmas	Sleigh Bells (2)	2.11s
+Horror	Horror (1)	4.94s
+Horror	Horror (2)	4.68s
+Horror	Horror (3)	1.83s
+Horror	Horror (4)	4.52s
+Horror	Horror (5)	2.98s
+Horror	Horror (6)	4.65s
+Horror	Horror (7)	4.28s
+Horror	Horror (8)	4.21s
+Horror	Horror (9)	4.41s
+Horror	Horror (10)	5.02s
+Horror	Horror (11)	4.78s
+Horror	Horror (12)	4.94s
+Horror	Horror (13)	4.94s
+Horror	Horror (14)	2.77s
+Horror	Horror (15)	3.03s
+Hospital/Heartbeats_EKG	Heartbeats EKG (1)	3.71s
+Hospital/Heartbeats_EKG	Heartbeats EKG (2)	4.26s
+Hospital/Heartbeats_EKG	Heartbeats EKG (3)	4.08s
+Hospital/Heartbeats_EKG	Heartbeats EKG (4)	2.93s
+Hospital/Heartbeats_EKG	Heartbeats EKG (5)	1.12s
+Hospital/Heartbeats_EKG	Heartbeats EKG (6)	4.39s
+Hospital/Heartbeats_EKG	Heartbeats EKG (7)	2.27s
+Hospital/Heartbeats_EKG	Heartbeats EKG (8)	4.86s
+Hospital/Heartbeats_EKG	Heartbeats EKG (9)	4.86s
+Hospital/Heartbeats_EKG	Heartbeats EKG (10)	5.04s
+Hospital/Heartbeats_EKG	Heartbeats EKG (11)	4.34s
+Hospital/Heartbeats_EKG	Heartbeats EKG (12)	3.5s
+Hospital/Heartbeats_EKG	Heartbeats EKG (13)	3.89s
+Hospital/Lab_Equip	Lab Equip (1)	4.31s
+Hospital/Lab_Equip	Lab Equip (2)	2.06s
+Hospital/Lab_Equip	Lab Equip (3)	4.52s
+Hospital/Lab_Equip	Lab Equip (4)	3.81s
+Hospital/Lab_Equip	Lab Equip (5)	5.93s
+Hospital/Lab_Equip	Lab Equip (6)	4.65s
+Hospital/Lab_Equip	Lab Equip (7)	4.49s
+Hospital/Lab_Equip	Lab Equip (8)	4.96s
+Hospital/Lab_Equip	Lab Equip (9)	4.57s
+Hospital/Lab_Equip	Lab Equip (10)	5.07s
+Hospital/Lab_Equip	Lab Equip (11)	4.41s
+Hospital/Lab_Equip	Lab Equip (12)	1.88s
+Hospital/Lab_Equip	Lab Equip (13)	5.38s
+Hospital/Liquid_Suction	Liquid Suction (1)	4.28s
+Hospital/Liquid_Suction	Liquid Suction (2)	5.02s
+Hospital/Liquid_Suction	Liquid Suction (3)	4.99s
+Hospital/Liquid_Suction	Liquid Suction (4)	4.94s
+Hospital/Liquid_Suction	Liquid Suction (5)	2.17s
+Hospital/Liquid_Suction	Liquid Suction (6)	2.69s
+Hospital/Liquid_Suction	Liquid Suction (7)	2.69s
+Hospital/Liquid_Suction	Liquid Suction (8)	1.65s
+Hospital/Liquid_Suction	Liquid Suction (9)	3.94s
+Hospital/Liquid_Suction	Liquid Suction (10)	1.93s
+Hospital/Liquid_Suction	Liquid Suction (11)	2.74s
+Hospital/Liquid_Suction	Liquid Suction (12)	5.02s
+Hospital/Pills	Pills (1)	1.12s
+Hospital/Pills	Pills (2)	3.11s
+Hospital/Pills	Pills (3)	2.56s
+Hospital/Pills	Pills (4)	5.09s
+Hospital/Pills	Pills (5)	2.35s
+Hospital/Pills	Pills (6)	1.02s
+Hospital/Pills	Pills (7)	1.67s
+Hospital/Pills	Pills (8)	1.23s
+Hospital/Pills	Pills (9)	2.12s
+Hospital/Pills	Pills (10)	1.59s
+Hospital/Pills	Pills (11)	1.51s
+Hospital/Respirator	Respirator (1)	6.5s
+Hospital/Respirator	Respirator (2)	7.08s
+Hospital/Respirator	Respirator (3)	6.69s
+Hospital/Respirator	Respirator (4)	5.54s
+Hospital/Respirator	Respirator (5)	2.4s
+Hospital/Respirator	Respirator (6)	3.16s
+Hospital/Respirator	Respirator (7)	4.52s
+Hospital/Respirator	Respirator (8)	1.31s
+Hospital/Respirator	Respirator (9)	5.46s
+Hospital/Respirator	Respirator (10)	5.15s
+Hospital/Respirator	Respirator (11)	5.43s
+Hospital/Respirator	Respirator (12)	3.92s
+Hospital/Respirator	Respirator (13)	4.73s
+Hospital/Respirator	Respirator (14)	4.99s
+Household/Brooms_Mops	Brooms Mops (1)	4.28s
+Household/Brooms_Mops	Brooms Mops (2)	4.78s
+Household/Brooms_Mops	Brooms Mops (3)	4.83s
+Household/Brooms_Mops	Brooms Mops (4)	2.59s
+Household/Brooms_Mops	Brooms Mops (5)	2.64s
+Household/Brooms_Mops	Brooms Mops (6)	2.51s
+Household/Brooms_Mops	Brooms Mops (7)	2.25s
+Household/Brooms_Mops	Brooms Mops (8)	0.97s
+Household/Brooms_Mops	Brooms Mops (9)	3.55s
+Household/Brooms_Mops	Brooms Mops (10)	2.22s
+Household/Brooms_Mops	Brooms Mops (11)	2.74s
+Household/Brooms_Mops	Brooms Mops (12)	4.7s
+Household/Brooms_Mops	Brooms Mops (13)	2.46s
+Household/Brooms_Mops	Brooms Mops (14)	1.88s
+Household/Brooms_Mops	Brooms Mops (15)	3.16s
+Household/Cooking	Food Frying (1)	2.07s
+Household/Cooking	Silverware Clank (1)	1.28s
+Household/Cooking	Silverware Clank (2)	1.86s
+Household/Cooking	Silverware Clank (3)	1.5s
+Household/Fireplace	Fireplace Crackle (1)	4.16s
+Household/Fireplace	Fireplace Crackle (2)	4.16s
+Household/Fireplace	Fireplace Crackle (3)	4.16s
+Household/Fireplace	Large Fire Crackling (1)	4.16s
+Household/Hygene	Hygene (1)	2.98s
+Household/Hygene	Hygene (2)	4.47s
+Household/Hygene	Hygene (3)	5.17s
+Household/Hygene	Hygene (4)	4.47s
+Household/Hygene	Hygene (5)	4.78s
+Household/Hygene	Hygene (6)	4.83s
+Household/Hygene	Hygene (7)	4.78s
+Household/Hygene	Hygene (8)	2.25s
+Household/Hygene	Hygene (9)	3.11s
+Household/Lamps_Lanterns	Lamps Lanterns (1)	4.81s
+Household/Lamps_Lanterns	Lamps Lanterns (2)	4.13s
+Household/Lamps_Lanterns	Lamps Lanterns (3)	3.24s
+Household/Lamps_Lanterns	Lamps Lanterns (4)	2.43s
+Household/Lamps_Lanterns	Lamps Lanterns (5)	0.84s
+Household/Lamps_Lanterns	Lamps Lanterns (6)	4.75s
+Household/Lamps_Lanterns	Lamps Lanterns (7)	0.65s
+Household/Lamps_Lanterns	Lamps Lanterns (8)	2.66s
+Household/Lamps_Lanterns	Lamps Lanterns (9)	0.99s
+Household/Lamps_Lanterns	Lamps Lanterns (10)	5.9s
+Household/Refrigerators_Freezers	Refrigerators Freezers (1)	4.57s
+Household/Refrigerators_Freezers	Refrigerators Freezers (2)	3s
+Household/Refrigerators_Freezers	Refrigerators Freezers (3)	2.04s
+Household/Refrigerators_Freezers	Refrigerators Freezers (4)	1.12s
+Household/Refrigerators_Freezers	Refrigerators Freezers (5)	4.41s
+Household/Refrigerators_Freezers	Refrigerators Freezers (6)	2.04s
+Household/Refrigerators_Freezers	Refrigerators Freezers (7)	1.99s
+Household/Refrigerators_Freezers	Refrigerators Freezers (8)	2.74s
+Household/Refrigerators_Freezers	Refrigerators Freezers (9)	1.83s
+Household/Refrigerators_Freezers	Refrigerators Freezers (10)	4.34s
+Household/Refrigerators_Freezers	Refrigerators Freezers (11)	1.75s
+Household/Refrigerators_Freezers	Refrigerators Freezers (12)	0.55s
+Household/Tape_Machines	Tape Machine (1)	2.3s
+Household/Tape_Machines	Tape Machine (2)	3.32s
+Household/Tape_Machines	Tape Machine (3)	6.45s
+Household/Tape_Machines	Tape Machine (4)	4.91s
+Household/Tape_Machines	Tape Machine (5)	5.07s
+Household/Tape_Machines	Tape Machine (6)	3.47s
+Household/Tape_Machines	Tape Machine (7)	3.4s
+Household/Tape_Machines	Tape Machine (8)	2.38s
+Household/Tape_Machines	Tape Machine (9)	3.97s
+Household/Tape_Machines	Tape Machine (10)	1.57s
+Household/Tape_Machines	Tape Machine (11)	1.93s
+Household/Tape_Machines	Tape Machine (12)	3.71s
+Household/Tape_Machines	Tape Machine (13)	4.86s
+Household/Tape_Machines	Tape Machine (14)	4.44s
+Household/Vacuum	Vacuum Off (1)	2.15s
+Household/Vacuum	Vacuum On (1)	2.11s
+Household/Water	Faucet Drip (1)	2.07s
+Household/Water	Faucet Drip (2)	2.11s
+Household/Water	Faucet Drip (3)	2s
+Household/Water	Faucet Running (1)	2.11s
+Household/Water	Faucet Running (2)	2.07s
+Household/Water	Faucet Running (3)	2.07s
+Household/Water	Hot Tub Filling Up (1)	8.62s
+Household/Water	Hot Tub Filling Up (2)	5.3s
+Household/Water	Pour Water (1)	3.21s
+Household/Water	Shower (1)	4.75s
+Household/Water	Shower (2)	6.22s
+Household/Water	Sink Faucet (1)	6.77s
+Household/Water	Sink Filling Water (1)	4.44s
+Household/Water	Sink Run And Off (1)	2.25s
+Household/Water	Sink Water Splatter (1)	4.57s
+Household/Water	Toilet Flush (1)	2.11s
+Household/Water	Toilet Flush (1)	5.33s
+Household/Water	Toilet Flush (2)	6.3s
+Household/Water	Toilet Flush (2)	2.07s
+Household/Water	Water (1)	5.41s
+Household/Water	Water (2)	5.75s
+Household/Water	Water (3)	3.45s
+Household/Water	Water (4)	4.62s
+Household/Water	Water (5)	5.15s
+Household/Water	Water (6)	5.02s
+Household/Water	Water (7)	3.92s
+Household/Water	Water (8)	5.09s
+Household/Water	Water (9)	5.04s
+Household/Water	Water (10)	5.02s
+Household/Water	Water (11)	5.04s
+Household/Water	Water (12)	4.96s
+Household/Water	Water Running (1)	8.02s
+Human/Body	Body (1)	0.89s
+Human/Body	Body (2)	1.57s
+Human/Body	Body (3)	0.63s
+Human/Body	Body (4)	2.51s
+Human/Body	Body (5)	1.33s
+Human/Body	Body (6)	0.73s
+Human/Body	Body (7)	3.29s
+Human/Body	Body (8)	0.78s
+Human/Body	Body (9)	4.23s
+Human/Fight	Fight (1)	2.09s
+Human/Fight	Fight (2)	2.4s
+Human/Fight	Fight (3)	3.6s
+Human/Fight	Fight (4)	4.26s
+Human/Fight	Fight (5)	1.18s
+Human/Fight	Fight (6)	0.6s
+Human/Fight	Fight (7)	3.06s
+Human/Fight	Fight (8)	4.39s
+Human/Fight	Fight (9)	2.59s
+Human/Hands	Hands (1)	1.02s
+Human/Hands	Hands (2)	0.55s
+Human/Hands	Hands (3)	1.51s
+Human/Hands	Hands (4)	1.12s
+Human/Hands	Hands (5)	1.02s
+Human/Hands	Hands (6)	3.5s
+Human/Hands	Hands (7)	0.63s
+Human/Hands	Hands (8)	0.44s
+Human/Hands	Hands (9)	1.67s
+Human/Hands	Hands (10)	1.2s
+Human/Hands	Hands (11)	0.47s
+Human/Hands	Hands (12)	0.52s
+Human/Hit_Punch_Slap	Hit Punch Slap (1)	0.68s
+Human/Hit_Punch_Slap	Hit Punch Slap (2)	0.47s
+Human/Hit_Punch_Slap	Hit Punch Slap (3)	0.57s
+Human/Hit_Punch_Slap	Hit Punch Slap (4)	0.55s
+Human/Hit_Punch_Slap	Hit Punch Slap (5)	0.42s
+Human/Hit_Punch_Slap	Hit Punch Slap (6)	0.47s
+Human/Hit_Punch_Slap	Hit Punch Slap (7)	0.47s
+Human/Hit_Punch_Slap	Hit Punch Slap (8)	0.86s
+Human/Hit_Punch_Slap	Hit Punch Slap (9)	0.71s
+Human/Hit_Punch_Slap	Hit Punch Slap (10)	0.68s
+Human/Hit_Punch_Slap	Punch (1)	0.81s
+Human/Hit_Punch_Slap	Punch (2)	1.39s
+Human/Hit_Punch_Slap	Punch (3)	0.89s
+Ice_Snow/Ski	Ski (1)	5.07s
+Ice_Snow/Ski	Ski (2)	3.76s
+Ice_Snow/Ski	Ski (3)	4.49s
+Ice_Snow/Sled	Sled (1)	3.19s
+Ice_Snow/Sled	Sled (2)	3.84s
+Ice_Snow/Sled	Sled (3)	4.28s
+Ice_Snow/Sled	Sled (4)	5.38s
+Ice_Snow/Snowmobile	Snowmobile (1)	4.34s
+Ice_Snow/Snowmobile	Snowmobile (2)	1.88s
+Ice_Snow/Snowmobile	Snowmobile (3)	4.47s
+Ice_Snow/Snowmobile	Snowmobile (4)	5.07s
+Ice_Snow/Snowmobile	Snowmobile (5)	3.16s
+Kids	Kids (1)	4.55s
+Kids	Kids (2)	4.05s
+Kids	Kids (3)	3.13s
+Kids	Kids (4)	4.94s
+Kids	Kids (5)	4.41s
+Kids	Kids (6)	4.62s
+Kids	Kids (7)	3.58s
+Kids	Kids (8)	4.57s
+Kids	Kids (9)	1.83s
+Machines/Construction	Construction (1)	4.96s
+Machines/Construction	Construction (2)	6.58s
+Machines/Construction	Construction (3)	1.91s
+Machines/Construction	Construction (4)	5.77s
+Machines/Construction	Construction (5)	4.94s
+Machines/Construction	Construction (6)	4.96s
+Machines/Construction	Construction (7)	5.02s
+Machines/Construction	Construction (8)	4.41s
+Machines/Construction	Construction (9)	5.2s
+Machines/Construction	Construction (10)	3.16s
+Machines/Construction	Construction (11)	4.13s
+Machines/Construction	Construction (12)	4.86s
+Machines/Construction	Construction (13)	4.44s
+Machines/Construction	Construction (14)	2.38s
+Machines/Construction	Construction (15)	4.31s
+Machines/Factory	Factory (1)	4.44s
+Machines/Factory	Factory (2)	5.28s
+Machines/Factory	Factory (3)	2.98s
+Machines/Factory	Factory (4)	4.41s
+Machines/Factory	Factory (5)	4.02s
+Machines/Factory	Factory (6)	4.88s
+Machines/Factory	Factory (7)	3.89s
+Machines/Factory	Factory (8)	3.63s
+Machines/Factory	Factory (9)	4.44s
+Machines/Factory	Factory (10)	5.07s
+Machines/Factory	Factory (11)	3.29s
+Machines/Factory	Factory (12)	5.12s
+Machines/Factory	Factory (13)	2.93s
+Machines/Factory	Factory (14)	2.56s
+Machines/Factory	Factory (15)	3.29s
+Machines/Power_Up_Down	Power Up Down (1)	4.62s
+Machines/Power_Up_Down	Power Up Down (2)	4.94s
+Machines/Power_Up_Down	Power Up Down (3)	4s
+Machines/Power_Up_Down	Power Up Down (4)	6.56s
+Machines/Power_Up_Down	Power Up Down (5)	4.34s
+Machines/Power_Up_Down	Power Up Down (6)	4.23s
+Machines/Power_Up_Down	Power Up Down (7)	4.31s
+Machines/Power_Up_Down	Power Up Down (8)	5.12s
+Machines/Power_Up_Down	Power Up Down (9)	1.75s
+Machines/Power_Up_Down	Power Up Down (10)	5.12s
+Machines/Power_Up_Down	Power Up Down (11)	5.15s
+Machines/Power_Up_Down	Power Up Down (12)	2.14s
+Machines/Power_Up_Down	Power Up Down (13)	2.35s
+Machines/Power_Up_Down	Power Up Down (14)	3.16s
+Machines/Power_Up_Down	Power Up Down (15)	4.05s
+Machines/Servos	Servos (1)	2.25s
+Machines/Servos	Servos (2)	1.65s
+Machines/Servos	Servos (3)	3.92s
+Machines/Servos	Servos (4)	3.03s
+Machines/Servos	Servos (5)	1.88s
+Machines/Servos	Servos (6)	4.65s
+Machines/Servos	Servos (7)	2.93s
+Machines/Servos	Servos (8)	1.67s
+Machines/Servos	Servos (9)	3.24s
+Machines/Servos	Servos (10)	2.48s
+Machines/Servos	Servos (11)	2.77s
+Machines/Servos	Servos (12)	4.73s
+Machines/Servos	Servos (13)	0.86s
+Machines/Servos	Servos (14)	0.5s
+Machines/Servos	Servos (15)	1.7s
+Machines/Winches_Gears	Winches Gears (1)	5.38s
+Machines/Winches_Gears	Winches Gears (2)	1.8s
+Machines/Winches_Gears	Winches Gears (3)	1.41s
+Machines/Winches_Gears	Winches Gears (4)	2.85s
+Machines/Winches_Gears	Winches Gears (5)	4.23s
+Machines/Winches_Gears	Winches Gears (6)	2.72s
+Machines/Winches_Gears	Winches Gears (7)	3.97s
+Machines/Winches_Gears	Winches Gears (8)	4.75s
+Machines/Winches_Gears	Winches Gears (9)	2.27s
+Machines/Winches_Gears	Winches Gears (10)	2.53s
+Machines/Winches_Gears	Winches Gears (11)	2.98s
+Machines/Winches_Gears	Winches Gears (12)	4.55s
+Machines/Winches_Gears	Winches Gears (13)	3.81s
+Machines/Winches_Gears	Winches Gears (14)	3.92s
+Magic_Spells	Fairy Melodic Chimes (1)	5.67s
+Magic_Spells	Fairy Sparkle Chimes (1)	4.13s
+Magic_Spells	Magic Blast 1x (1)	2.15s
+Magic_Spells	Magic Spells (1)	4.31s
+Magic_Spells	Magic Spells (2)	3.94s
+Magic_Spells	Magic Spells (3)	2.87s
+Magic_Spells	Magic Spells (4)	2.38s
+Magic_Spells	Magic Spells (5)	4.36s
+Magic_Spells	Magic Spells (6)	4.47s
+Magic_Spells	Magic Spells (7)	3.58s
+Magic_Spells	Magic Spells (8)	4.44s
+Magic_Spells	Magic Spells (9)	4.28s
+Magic_Spells	Magic Spells (10)	4.62s
+Magic_Spells	Magic Spells (11)	4.34s
+Magic_Spells	Magic Spells (12)	3.53s
+Magic_Spells	Magic Spells (13)	3.5s
+Magic_Spells	Magic Spells (14)	1.41s
+Magic_Spells	Magic Spells (15)	3.97s
+Metal	Metal (1)	3.4s
+Metal	Metal (2)	1.51s
+Metal	Metal (3)	1.31s
+Metal	Metal (4)	2.59s
+Metal	Metal (5)	2.22s
+Metal	Metal (6)	4.75s
+Metal	Metal (7)	2.77s
+Metal	Metal (8)	2.14s
+Metal	Metal (9)	1.25s
+Metal	Metal (10)	1.07s
+Metal	Metal (11)	2.46s
+Metal	Metal (12)	1.78s
+Metal	Metal (13)	4.78s
+Metal	Metal (14)	1.46s
+Military/Footsteps	Battle Men Horses (1)	4.13s
+Military/Footsteps	Footsteps (1)	5.69s
+Military/Footsteps	Footsteps (2)	4.6s
+Military/Footsteps	Footsteps (3)	5.98s
+Military/Footsteps	Footsteps (4)	2.32s
+Military/Footsteps	Footsteps (5)	2.79s
+Military/Footsteps	Footsteps (6)	4.73s
+Military/Footsteps	Footsteps (7)	4.23s
+Military/Footsteps	Footsteps (8)	2.9s
+Military/Footsteps	Footsteps (9)	4.49s
+Military/Footsteps	Footsteps (10)	4.62s
+Military/Footsteps	Footsteps (11)	2.9s
+Military/Gear	Gear (1)	4.7s
+Military/Gear	Gear (2)	8.8s
+Military/Gear	Gear (3)	6.66s
+Military/Gear	Gear (4)	7.16s
+Military/Gear	Gear (5)	4.86s
+Military/Gear	Gear (6)	4.94s
+Military/Gear	Gear (7)	4.6s
+Military/Gear	Gear (8)	3.24s
+Military/Gear	Gear (9)	5.07s
+Military/Gear	Gear (10)	1.51s
+Military/Gear	Gear (11)	4.39s
+Military/Gear	Gear (12)	1.96s
+Military/Gear	Gear (13)	4.99s
+Military/Gear	Gear (14)	2.27s
+Military/Infantry	Army March Clank 7x (1)	3.73s
+Military/Infantry	Army March Large 8x (1)	4.23s
+Military/Infantry	Army March Small 8x (1)	4.27s
+Military/Infantry	Battle Group Clanks (1)	3.33s
+Military/Infantry	Battle Noisy Clanks (1)	3.95s
+Military/Infantry	Infantry (1)	6.63s
+Military/Infantry	Infantry (2)	4.28s
+Military/Infantry	Infantry (3)	3.27s
+Military/Infantry	Infantry (4)	4.34s
+Military/Infantry	Infantry (5)	3.89s
+Military/Infantry	Infantry (6)	4.41s
+Military/Infantry	Infantry (7)	4.91s
+Military/Infantry	Infantry (8)	4.44s
+Military/Infantry	Infantry (9)	4.39s
+Military/Infantry	Infantry (10)	4.52s
+Military/Infantry	Infantry (11)	2.95s
+Military/Infantry	Infantry (12)	3.94s
+Military/Infantry	Infantry (13)	2.35s
+Military/Infantry	Infantry (14)	4.21s
+Military/Soldiers	Battle Man Grunts (1)	3.59s
+Military/Soldiers	Battle Men Grunts (1)	3.44s
+Military/Soldiers	Battle Yells Men (1)	3.91s
+Military/Soldiers	Battle Yells Men Run (1)	4.13s
+Military/Soldiers	Soldiers (1)	3.87s
+Military/Soldiers	Soldiers (2)	2.46s
+Military/Soldiers	Soldiers (3)	2.14s
+Monsters/Aliens	Aliens (1)	3.19s
+Monsters/Aliens	Aliens (2)	2.12s
+Monsters/Aliens	Aliens (3)	4.31s
+Monsters/Aliens	Aliens (4)	3.29s
+Monsters/Aliens	Aliens (5)	3.11s
+Monsters/Aliens	Aliens (6)	4.02s
+Monsters/Aliens	Aliens (7)	2.17s
+Monsters/Aliens	Aliens (8)	3.76s
+Monsters/Aliens	Aliens (9)	0.91s
+Monsters/Aliens	Aliens (10)	1.31s
+Monsters/Aliens	Aliens (11)	1.38s
+Monsters/Aliens	Aliens (12)	2.12s
+Monsters/Aliens	Aliens (13)	2.79s
+Monsters/Aliens	Aliens (14)	1.2s
+Monsters/Aliens	Scifi Alien Voice (1)	1.97s
+Monsters/Aliens	Scifi Alien Voice (2)	2.47s
+Monsters/Aliens	Scifi Alien Voice (3)	3.23s
+Monsters/Aliens	Scifi Alien Voice (4)	1.28s
+Monsters/Aliens	Scifi Alien Voice (5)	2.79s
+Monsters/Aliens	Scifi Alien Voice (6)	2.04s
+Monsters/Aliens	Scifi Alien Voice (7)	2.4s
+Monsters/Aliens	Scifi Alien Voice (8)	4.52s
+Monsters/Aliens	Scifi Alien Voice (9)	1.75s
+Monsters/Aliens	Scifi Alien Voice (10)	1.39s
+Monsters/Aliens	Scifi Alien Voice (11)	4.02s
+Monsters/Evolution_Monsters	Evolution Monsters (1)	3.5s
+Monsters/Evolution_Monsters	Evolution Monsters (2)	5.17s
+Monsters/Evolution_Monsters	Evolution Monsters (3)	3.47s
+Monsters/Evolution_Monsters	Evolution Monsters (4)	4.73s
+Monsters/Evolution_Monsters	Evolution Monsters (5)	2.43s
+Monsters/Evolution_Monsters	Evolution Monsters (6)	4.96s
+Monsters/Evolution_Monsters	Evolution Monsters (7)	4s
+Monsters/Evolution_Monsters	Evolution Monsters (8)	2.01s
+Monsters/Evolution_Monsters	Evolution Monsters (9)	1.12s
+Monsters/Evolution_Monsters	Evolution Monsters (10)	3.4s
+Monsters/Evolution_Monsters	Evolution Monsters (11)	1.46s
+Monsters/Evolution_Monsters	Evolution Monsters (12)	4.34s
+Monsters/Evolution_Monsters	Evolution Monsters (13)	4.05s
+Monsters/Evolution_Monsters	Evolution Monsters (14)	4.81s
+Monsters/Evolution_Monsters	Evolution Monsters (15)	3.03s
+Monsters/Ghosts_Demons	Ghost Spooky (1)	2.11s
+Monsters/Ghosts_Demons	Ghost Spooky (2)	2.07s
+Monsters/Ghosts_Demons	Ghost Spooky (3)	2.15s
+Monsters/Ghosts_Demons	Ghost Spooky (4)	2.11s
+Monsters/Ghosts_Demons	Ghosts Demons (1)	0.97s
+Monsters/Ghosts_Demons	Ghosts Demons (2)	2.85s
+Monsters/Ghosts_Demons	Ghosts Demons (3)	4.02s
+Monsters/Ghosts_Demons	Ghosts Demons (4)	5.85s
+Monsters/Ghosts_Demons	Ghosts Demons (5)	2.17s
+Monsters/Ghosts_Demons	Ghosts Demons (6)	2.46s
+Monsters/Ghosts_Demons	Ghosts Demons (7)	3.6s
+Monsters/Ghosts_Demons	Ghosts Demons (8)	3.58s
+Monsters/Ghosts_Demons	Ghosts Demons (9)	1.65s
+Monsters/Ghosts_Demons	Ghosts Demons (10)	2.14s
+Monsters/Ghosts_Demons	Ghosts Demons (11)	4.55s
+Monsters/Ghosts_Demons	Ghosts Demons (12)	1.93s
+Monsters/Ghosts_Demons	Ghosts Demons (13)	3.81s
+Monsters/Ghosts_Demons	Ghosts Demons (14)	1.96s
+Monsters/Ghosts_Demons	Ghosts Demons (15)	2.12s
+Monsters/Giant_Monster	Giant Monster (1)	2.82s
+Monsters/Giant_Monster	Giant Monster (2)	4.15s
+Monsters/Giant_Monster	Giant Monster (3)	6.14s
+Monsters/Giant_Monster	Giant Monster (4)	4.65s
+Monsters/Giant_Monster	Giant Monster (5)	5.04s
+Monsters/Giant_Monster	Giant Monster (6)	2.32s
+Monsters/Giant_Monster	Giant Monster (7)	2.98s
+Monsters/Giant_Monster	Giant Monster (8)	2.61s
+Monsters/Giant_Monster	Giant Monster (9)	2.25s
+Monsters/Giant_Monster	Giant Monster (10)	3.16s
+Monsters/Giant_Monster	Giant Monster (11)	4.02s
+Monsters/Giant_Monster	Giant Monster (12)	2.72s
+Monsters/Giant_Monster	Giant Monster (13)	5.36s
+Monsters/Giant_Monster	Giant Monster (14)	2.46s
+Monsters/Giant_Monster	Giant Monster (15)	1.72s
+Monsters/Griffen	Griffen (1)	3.06s
+Monsters/Griffen	Griffen (2)	4.41s
+Monsters/Griffen	Griffen (3)	3.27s
+Monsters/Griffen	Griffen (4)	2.19s
+Monsters/Griffen	Griffen (5)	2.19s
+Monsters/Griffen	Griffen (6)	2.61s
+Monsters/Griffen	Griffen (7)	1.57s
+Monsters/Griffen	Griffen (8)	1.57s
+Monsters/Griffen	Griffen (9)	2.43s
+Monsters/Griffen	Griffen (10)	2.48s
+Monsters/Griffen	Griffen (11)	1.7s
+Monsters/Griffen	Griffen (12)	2.51s
+Monsters/Griffen	Griffen (13)	1.41s
+Monsters/Human_Vocals	Human Vocals (1)	3.45s
+Monsters/Human_Vocals	Human Vocals (2)	3.58s
+Monsters/Human_Vocals	Human Vocals (3)	2.46s
+Monsters/Human_Vocals	Human Vocals (4)	2.14s
+Monsters/Human_Vocals	Human Vocals (5)	1.41s
+Monsters/Human_Vocals	Human Vocals (6)	2.43s
+Monsters/Human_Vocals	Human Vocals (7)	2.22s
+Monsters/Human_Vocals	Human Vocals (8)	2.46s
+Monsters/Human_Vocals	Human Vocals (9)	0.81s
+Monsters/Human_Vocals	Human Vocals (10)	1.46s
+Monsters/Human_Vocals	Human Vocals (11)	4.28s
+Monsters/Human_Vocals	Human Vocals (12)	2.95s
+Monsters/Human_Vocals	Human Vocals (13)	3.68s
+Monsters/Human_Vocals	Human Vocals (14)	4.86s
+Monsters/Human_Vocals	Human Vocals (15)	4.34s
+Monsters/Pigmy_Bats	Pigmy Bats (1)	3.66s
+Monsters/Pigmy_Bats	Pigmy Bats (2)	1.02s
+Monsters/Pigmy_Bats	Pigmy Bats (3)	1.54s
+Monsters/Pigmy_Bats	Pigmy Bats (4)	4.34s
+Monsters/Pigmy_Bats	Pigmy Bats (5)	4.81s
+Monsters/Pigmy_Bats	Pigmy Bats (6)	1.04s
+Monsters/Pigmy_Bats	Pigmy Bats (7)	0.99s
+Monsters/Pigmy_Bats	Pigmy Bats (8)	0.55s
+Monsters/Pigmy_Bats	Pigmy Bats (9)	2.46s
+Monsters/Pigmy_Bats	Pigmy Bats (10)	0.86s
+Monsters/Pigmy_Bats	Pigmy Bats (11)	0.97s
+Monsters/Pigmy_Bats	Pigmy Bats (12)	1.2s
+Monsters/Pigmy_Bats	Pigmy Bats (13)	1.62s
+Monsters/Pigmy_Bats	Pigmy Bats (14)	4.7s
+Monsters/Vampires	Vampires (1)	1.38s
+Monsters/Vampires	Vampires (2)	1.62s
+Monsters/Vampires	Vampires (3)	2.74s
+Monsters/Vampires	Vampires (4)	2.17s
+Monsters/Vampires	Vampires (5)	4.68s
+Monsters/Vampires	Vampires (6)	2.43s
+Monsters/Vampires	Vampires (7)	2.82s
+Monsters/Vampires	Vampires (8)	1.78s
+Monsters/Vampires	Vampires (9)	3.06s
+Monsters/Vampires	Vampires (10)	2.48s
+Monsters/Vampires	Vampires (11)	1.99s
+Monsters/Vampires	Vampires (12)	3.66s
+Monsters/Vampires	Vampires (13)	3.11s
+Monsters/Vampires	Vampires (14)	3.79s
+Monsters/Vampires	Vampires (15)	3.16s
+Monsters/Werewolves	Werewolves (1)	3.19s
+Monsters/Werewolves	Werewolves (2)	4.65s
+Monsters/Werewolves	Werewolves (3)	1.85s
+Monsters/Werewolves	Werewolves (4)	7.13s
+Monsters/Werewolves	Werewolves (5)	1.54s
+Monsters/Werewolves	Werewolves (6)	1.49s
+Monsters/Werewolves	Werewolves (7)	4.57s
+Monsters/Werewolves	Werewolves (8)	1.59s
+Monsters/Werewolves	Werewolves (9)	4.68s
+Monsters/Werewolves	Werewolves (10)	2.66s
+Monsters/Werewolves	Werewolves (11)	2.53s
+Monsters/Wings	Wings Flap 4x (1)	4.31s
+Monsters/Wings	Wings Flap Fast (1)	2.61s
+Musical	Drum And Cymbal (1)	2.15s
+Musical	Drum And Cymbal (2)	2.07s
+Musical	Drum Comedy (1)	2.11s
+Musical	Drum Comedy (2)	1.75s
+Musical	Drum Comedy (3)	2.04s
+Musical	Electric Guitar (1)	2.11s
+Musical	Electric Guitar (2)	2.11s
+Musical	Electronic Major Chord (1)	2.04s
+Musical	Musical Drone Intro (1)	4.81s
+Musical	Musical Drone Intro (2)	4.85s
+Musical	Piano Note 1x (1)	0.99s
+Musical	Trumpet Bugle (1)	2.11s
+Musical	Trumpet Bugle (2)	1.82s
+Musical	Trumpet Bugle (3)	2.11s
+Musical	Trumpet Bugle (4)	1.71s
+Radios_Static	Radios Static (1)	4.7s
+Radios_Static	Radios Static (2)	5.15s
+Radios_Static	Radios Static (3)	2.64s
+Radios_Static	Radios Static (4)	4.21s
+Radios_Static	Radios Static (5)	4.08s
+Radios_Static	Radios Static (6)	5.17s
+Radios_Static	Radios Static (7)	4.68s
+Radios_Static	Radios Static (8)	4.96s
+Radios_Static	Radios Static (9)	4.39s
+Radios_Static	Radios Static (10)	5.17s
+Radios_Static	Radios Static (11)	5.41s
+Radios_Static	Radios Static (12)	5.07s
+Radios_Static	Radios Static (13)	5.15s
+Radios_Static	Radios Static (14)	4.44s
+Radios_Static	Radios Static (15)	3.11s
+Rocks/Debris	Debris (1)	1.83s
+Rocks/Debris	Debris (2)	1.7s
+Rocks/Debris	Debris (3)	4.6s
+Rocks/Debris	Debris (4)	4.23s
+Rocks/Debris	Debris (5)	3.81s
+Rocks/Debris	Debris (6)	1.38s
+Rocks/Debris	Debris (7)	1.62s
+Rocks/Debris	Debris (8)	1.72s
+Rocks/Debris	Debris (9)	3.58s
+Rocks/Debris	Debris (10)	2.59s
+Rocks/Debris	Debris (11)	2.72s
+Rocks/Debris	Debris (12)	3.45s
+Rocks/Debris	Debris (13)	4.55s
+Rocks/Debris	Debris (14)	3.55s
+Rocks/Drops	Drops (1)	0.99s
+Rocks/Drops	Drops (2)	0.81s
+Rocks/Drops	Drops (3)	1.02s
+Rocks/Drops	Drops (4)	2.06s
+Rocks/Drops	Drops (5)	1.36s
+Rocks/Drops	Drops (6)	0.76s
+Rocks/Drops	Drops (7)	2.19s
+Rocks/Drops	Drops (8)	1.23s
+Rocks/Drops	Drops (9)	1.7s
+Rocks/Drops	Drops (10)	1.33s
+Rocks/Drops	Drops (11)	2.43s
+Rocks/Drops	Drops (12)	4.23s
+Rocks/Drops	Drops (13)	1.33s
+Rocks/Falls	Falls (1)	2.12s
+Rocks/Falls	Falls (2)	2.19s
+Rocks/Falls	Falls (3)	1.23s
+Rocks/Falls	Falls (4)	2.51s
+Rocks/Falls	Falls (5)	3.06s
+Rocks/Falls	Falls (6)	2.4s
+Rocks/Falls	Falls (7)	1.41s
+Rocks/Falls	Falls (8)	1.72s
+Rocks/Falls	Falls (9)	1.75s
+Rocks/Falls	Falls (10)	1.33s
+Rocks/Falls	Falls (11)	1.72s
+Rocks/Falls	Falls (12)	1.1s
+Rocks/Falls	Falls (13)	0.78s
+Rocks/Slides	Slides (1)	2.43s
+Rocks/Slides	Slides (2)	5.09s
+Rocks/Slides	Slides (3)	1.18s
+Rocks/Slides	Slides (4)	1.85s
+Rocks/Slides	Slides (5)	1.04s
+Rocks/Slides	Slides (6)	2.43s
+Rocks/Slides	Slides (7)	4.6s
+Rocks/Slides	Slides (8)	3.81s
+Rocks/Slides	Slides (9)	2.35s
+Rocks/Throw	Throw (1)	1.88s
+Rocks/Throw	Throw (2)	2.32s
+Rocks/Throw	Throw (3)	1.83s
+Rocks/Throw	Throw (4)	0.68s
+Rocks/Throw	Throw (5)	1.44s
+Rocks/Throw	Throw (6)	1.7s
+Rocks/Throw	Throw (7)	1.12s
+Roller_Coaster	Roller Coaster (1)	4.83s
+Roller_Coaster	Roller Coaster (2)	4.96s
+Roller_Coaster	Roller Coaster (3)	5.38s
+Roller_Coaster	Roller Coaster (4)	4.39s
+Roller_Coaster	Roller Coaster (5)	3.42s
+Roller_Coaster	Roller Coaster (6)	5.36s
+Roller_Coaster	Roller Coaster (7)	4.49s
+Roller_Coaster	Roller Coaster (8)	3.79s
+Roller_Coaster	Roller Coaster (9)	5.51s
+Roller_Coaster	Roller Coaster (10)	4.36s
+Room_Tones	Room Tones (1)	6.19s
+Room_Tones	Room Tones (2)	5.98s
+Room_Tones	Room Tones (3)	8.12s
+Room_Tones	Room Tones (4)	5.43s
+Room_Tones	Room Tones (5)	6.45s
+Ropes_Cables_Climbing/Cables_Metal	Cables Metal (1)	4.78s
+Ropes_Cables_Climbing/Cables_Metal	Cables Metal (2)	2.43s
+Ropes_Cables_Climbing/Cables_Metal	Cables Metal (3)	2.53s
+Ropes_Cables_Climbing/Cables_Metal	Cables Metal (4)	1.62s
+Ropes_Cables_Climbing/Cables_Metal	Cables Metal (5)	1.62s
+Ropes_Cables_Climbing/Cables_Metal	Cables Metal (6)	2.17s
+Ropes_Cables_Climbing/Cables_Metal	Cables Metal (7)	2.35s
+Ropes_Cables_Climbing/Cables_Metal	Cables Metal (8)	5.17s
+Ropes_Cables_Climbing/Cables_Metal	Cables Metal (9)	2.64s
+Ropes_Cables_Climbing/Cables_Metal	Cables Metal (10)	1.51s
+Ropes_Cables_Climbing/Cables_Metal	Cables Metal (11)	4.6s
+Ropes_Cables_Climbing/Cables_Metal	Cables Metal (12)	1.51s
+Ropes_Cables_Climbing/Cables_Metal	Cables Metal (13)	4.39s
+Ropes_Cables_Climbing/Ropes_Climbing	Ropes Climbing (1)	3.29s
+Ropes_Cables_Climbing/Ropes_Climbing	Ropes Climbing (2)	3.68s
+Ropes_Cables_Climbing/Ropes_Climbing	Ropes Climbing (3)	2.66s
+Ropes_Cables_Climbing/Ropes_Climbing	Ropes Climbing (4)	3.66s
+Sports/Arrows_Bows	Arrows Bows (1)	1.12s
+Sports/Arrows_Bows	Arrows Bows (2)	4.73s
+Sports/Arrows_Bows	Arrows Bows (3)	0.84s
+Sports/Arrows_Bows	Arrows Bows (4)	0.99s
+Sports/Arrows_Bows	Arrows Bows (5)	1.12s
+Sports/Arrows_Bows	Arrows Bows (6)	3.08s
+Sports/Arrows_Bows	Arrows Bows (7)	0.94s
+Sports/Arrows_Bows	Arrows Bows (8)	1.28s
+Sports/Arrows_Bows	Arrows Bows (9)	0.57s
+Sports/Arrows_Bows	Arrows Bows (10)	0.55s
+Sports/Arrows_Bows	Arrows Bows (11)	3.92s
+Sports/Baseball	Baseball (1)	0.71s
+Sports/Baseball	Baseball (2)	1.38s
+Sports/Baseball	Baseball (3)	0.84s
+Sports/Baseball	Baseball (4)	1.33s
+Sports/Baseball	Baseball (5)	0.73s
+Sports/Baseball	Baseball (6)	0.6s
+Sports/Baseball	Baseball (7)	2.87s
+Sports/Baseball	Baseball (8)	1.1s
+Sports/Baseball	Baseball (9)	0.68s
+Sports/Baseball	Baseball (10)	0.31s
+Sports/Basketball	Basketball (1)	3.32s
+Sports/Basketball	Basketball (2)	5.75s
+Sports/Basketball	Basketball (3)	2.64s
+Sports/Basketball	Basketball (4)	2.56s
+Sports/Basketball	Basketball (5)	0.89s
+Sports/Basketball	Basketball (6)	1.07s
+Sports/Basketball	Basketball (7)	7.13s
+Sports/Basketball	Basketball (8)	4.81s
+Sports/Basketball	Basketball (9)	5.04s
+Sports/Billiards	Billiards (1)	2.32s
+Sports/Billiards	Billiards (2)	4.44s
+Sports/Billiards	Billiards (3)	1.41s
+Sports/Billiards	Billiards (4)	1.2s
+Sports/Billiards	Billiards (5)	1.04s
+Sports/Billiards	Billiards (6)	1.25s
+Sports/Billiards	Billiards (7)	3.29s
+Sports/Billiards	Billiards (8)	1.93s
+Sports/Billiards	Billiards (9)	0.84s
+Sports/Billiards	Billiards (10)	1.83s
+Sports/Box	Box (1)	2.09s
+Sports/Box	Box (2)	1.72s
+Sports/Box	Box (3)	1.8s
+Sports/Box	Box (4)	2.87s
+Sports/Box	Box (5)	0.65s
+Sports/Box	Box (6)	1.44s
+Sports/Box	Box (7)	2.79s
+Sports/Box	Box (8)	4.08s
+Sports/Box	Box (9)	0.63s
+Sports/Box	Box (10)	5.09s
+Sports/Crowds	Crowds (1)	4.78s
+Sports/Crowds	Crowds (2)	4.55s
+Sports/Crowds	Crowds (3)	6.3s
+Sports/Crowds	Crowds (4)	4.99s
+Sports/Crowds	Crowds (5)	4.94s
+Sports/Crowds	Crowds (6)	5.12s
+Sports/Crowds	Crowds (7)	6.77s
+Sports/Crowds	Crowds (8)	4.88s
+Sports/Crowds	Crowds (9)	6.58s
+Sports/Crowds	Crowds (10)	4.99s
+Sports/Crowds	Crowds (11)	5.8s
+Sports/Crowds	Crowds (12)	5.9s
+Sports/Fishing_Pole	Fishing Pole (1)	5.54s
+Sports/Fishing_Pole	Fishing Pole (2)	0.5s
+Sports/Fishing_Pole	Fishing Pole (3)	0.99s
+Sports/Fishing_Pole	Fishing Pole (4)	1.23s
+Sports/Fishing_Pole	Fishing Pole (5)	1.23s
+Sports/Fishing_Pole	Fishing Pole (6)	2.27s
+Sports/Fishing_Pole	Fishing Pole (7)	6.24s
+Sports/Fishing_Pole	Fishing Pole (8)	8.49s
+Sports/Fishing_Pole	Fishing Pole (9)	1.41s
+Sports/Fishing_Pole	Fishing Pole (10)	2.4s
+Sports/Fishing_Pole	Fishing Pole (11)	3.16s
+Sports/Fishing_Pole	Fishing Pole (12)	0.52s
+Sports/Fishing_Pole	Fishing Pole (13)	0.47s
+Sports/Football	Football (1)	1.51s
+Sports/Football	Football (2)	1.2s
+Sports/Football	Football (3)	4.28s
+Sports/Golf	Golf (1)	1.2s
+Sports/Golf	Golf (2)	1.38s
+Sports/Golf	Golf (3)	0.94s
+Sports/Golf	Golf (4)	0.76s
+Sports/Golf	Golf (5)	2.09s
+Sports/Golf	Golf (6)	0.84s
+Sports/Golf	Golf (7)	0.31s
+Sports/Golf	Golf (8)	0.57s
+Sports/Gyms_Locker_Rooms	Gyms Locker Rooms (1)	1.59s
+Sports/Gyms_Locker_Rooms	Gyms Locker Rooms (2)	2.69s
+Sports/Gyms_Locker_Rooms	Gyms Locker Rooms (3)	1.51s
+Sports/Gyms_Locker_Rooms	Gyms Locker Rooms (4)	2.22s
+Sports/Gyms_Locker_Rooms	Gyms Locker Rooms (5)	1.83s
+Sports/Gyms_Locker_Rooms	Gyms Locker Rooms (6)	2.35s
+Sports/Gyms_Locker_Rooms	Gyms Locker Rooms (7)	3.6s
+Sports/Gyms_Locker_Rooms	Gyms Locker Rooms (8)	2.87s
+Sports/Ice_Skating	Ice Skating (1)	2.87s
+Sports/Ice_Skating	Ice Skating (2)	3.16s
+Sports/Ice_Skating	Ice Skating (3)	1.91s
+Sports/Ice_Skating	Ice Skating (4)	2.46s
+Sports/Ice_Skating	Ice Skating (5)	2.25s
+Sports/Ice_Skating	Ice Skating (6)	3.13s
+Sports/Ice_Skating	Ice Skating (7)	2.72s
+Sports/Juggling	Juggling (1)	1.93s
+Sports/Juggling	Juggling (2)	1.85s
+Sports/Juggling	Juggling (3)	3.27s
+Sports/Lacrosse	Lacrosse (1)	1.23s
+Sports/Lacrosse	Lacrosse (2)	1.41s
+Sports/Paintball	Paintball (1)	1.72s
+Sports/Paintball	Paintball (2)	2.17s
+Sports/Paintball	Paintball (3)	0.73s
+Sports/Paintball	Paintball (4)	3.53s
+Sports/Paintball	Paintball (5)	2.61s
+Sports/Paintball	Paintball (6)	0.44s
+Sports/Paintball	Paintball (7)	0.71s
+Sports/Paintball	Paintball (8)	3.79s
+Sports/Paintball	Paintball (9)	0.42s
+Sports/Paintball	Paintball (10)	1.1s
+Sports/Paintball	Paintball (11)	1.83s
+Sports/Paintball	Paintball (12)	0.5s
+Sports/Paintball	Paintball (13)	0.52s
+Sports/Paintball	Paintball (14)	1.18s
+Sports/Racquetball	Racquetball (1)	2.01s
+Sports/Racquetball	Racquetball (2)	1.99s
+Sports/Racquetball	Racquetball (3)	3.32s
+Sports/Racquetball	Racquetball (4)	2.17s
+Sports/Racquetball	Racquetball (5)	2.87s
+Sports/Racquetball	Racquetball (6)	5.02s
+Sports/Racquetball	Racquetball (7)	2.12s
+Sports/RollerSkates_RollerBlades	RollerSkates RollerBlades (1)	4.62s
+Sports/RollerSkates_RollerBlades	RollerSkates RollerBlades (2)	4.31s
+Sports/RollerSkates_RollerBlades	RollerSkates RollerBlades (3)	2.72s
+Sports/RollerSkates_RollerBlades	RollerSkates RollerBlades (4)	3.32s
+Sports/RollerSkates_RollerBlades	RollerSkates RollerBlades (5)	2.93s
+Sports/Skateboards	Skateboards (1)	2.85s
+Sports/Skateboards	Skateboards (2)	1.65s
+Sports/Skateboards	Skateboards (3)	3.27s
+Sports/Skateboards	Skateboards (4)	2.74s
+Sports/Skateboards	Skateboards (5)	3.97s
+Sports/Skateboards	Skateboards (6)	5.75s
+Sports/Skateboards	Skateboards (7)	3.66s
+Sports/Skateboards	Skateboards (8)	3.71s
+Sports/Skateboards	Skateboards (9)	3.68s
+Sports/Skateboards	Skateboards (10)	3s
+Sports/Skateboards	Skateboards (11)	5.07s
+Sports/Tennis_PingPong	Tennis PingPong (1)	2.04s
+Sports/Tennis_PingPong	Tennis PingPong (2)	6.01s
+Sports/Tennis_PingPong	Tennis PingPong (3)	2.04s
+Sports/Tennis_PingPong	Tennis PingPong (4)	2.32s
+Sports/Tennis_PingPong	Tennis PingPong (5)	5.43s
+Sports/Tennis_PingPong	Tennis PingPong (6)	1.65s
+Sports/Tennis_PingPong	Tennis PingPong (7)	1.12s
+Sports/Tennis_PingPong	Tennis PingPong (8)	1.65s
+Sports/Tennis_PingPong	Tennis PingPong (9)	1.65s
+Sports/Tennis_PingPong	Tennis PingPong (10)	0.39s
+Sports/Tennis_PingPong	Tennis PingPong (11)	1.51s
+Sports/Whistles	Sports Whistles (1)	2.27s
+Sports/Whistles	Sports Whistles (2)	1.33s
+Sports/Whistles	Sports Whistles (3)	1.36s
+Sports/Whistles	Sports Whistles (4)	1.12s
+Sports/Whistles	Sports Whistles (5)	0.76s
+Sports/Whistles	Sports Whistles (6)	2.17s
+Sports/Whistles	Sports Whistles (7)	1.54s
+Sports/Whistles	Sports Whistles (8)	1.1s
+Sports/Whistles	Sports Whistles (9)	0.68s
+Sports/Whistles	Sports Whistles (10)	2.01s
+Sports/Whistles	Sports Whistles (11)	1.04s
+Sports/Whistles	Sports Whistles (12)	1.02s
+Sports/Whistles	Sports Whistles (13)	1.23s
+Sports/Whistles	Sports Whistles (14)	1.31s
+Sports/Whistles	Sports Whistles (15)	1.2s
+Switches_Levers	Switches Levers (1)	0.86s
+Switches_Levers	Switches Levers (2)	0.99s
+Switches_Levers	Switches Levers (3)	1.12s
+Switches_Levers	Switches Levers (4)	1.1s
+Switches_Levers	Switches Levers (5)	0.63s
+Switches_Levers	Switches Levers (6)	0.94s
+Switches_Levers	Switches Levers (7)	2.66s
+Switches_Levers	Switches Levers (8)	1.59s
+Switches_Levers	Switches Levers (9)	1.83s
+Switches_Levers	Switches Levers (10)	1.59s
+Switches_Levers	Switches Levers (11)	1.72s
+Switches_Levers	Switches Levers (12)	1.18s
+Switches_Levers	Switches Levers (13)	2.87s
+Switches_Levers	Switches Levers (14)	1.38s
+Switches_Levers	Switches Levers (15)	0.81s
+Swords	Swoosh Fast 1x (1)	1.25s
+Swords	Swoosh Fast 6x (1)	2.11s
+Swords	Swords (1)	0.71s
+Swords	Swords (2)	1.31s
+Swords	Swords (3)	1.23s
+Swords	Swords (4)	1.83s
+Swords	Swords (5)	0.89s
+Swords	Swords (6)	1.49s
+Swords	Swords (7)	0.94s
+Swords	Swords (8)	1.62s
+Swords	Swords (9)	0.86s
+Swords	Swords (10)	0.71s
+Swords	Swords (11)	1.72s
+Swords	Swords (12)	0.68s
+Swords	Swords (13)	0.5s
+Swords	Swords (14)	2.04s
+Telephones/Answering_Machines	Answering Machines (1)	1.38s
+Telephones/Answering_Machines	Answering Machines (2)	2.38s
+Telephones/Answering_Machines	Answering Machines (3)	1.07s
+Telephones/Answering_Machines	Answering Machines (4)	0.73s
+Telephones/Answering_Machines	Answering Machines (5)	5.69s
+Telephones/Answering_Machines	Answering Machines (6)	2.56s
+Telephones/Answering_Machines	Answering Machines (7)	2.77s
+Telephones/Answering_Machines	Answering Machines (8)	1.72s
+Telephones/Answering_Machines	Answering Machines (9)	2.93s
+Telephones/Answering_Machines	Answering Machines (10)	1.99s
+Telephones/Answering_Machines	Answering Machines (11)	2.43s
+Telephones/Answering_Machines	Answering Machines (12)	0.55s
+Telephones/Answering_Machines	Answering Machines (13)	4.31s
+Telephones/Car_Cell_Phones	Car Cell Phones (1)	1.1s
+Telephones/Car_Cell_Phones	Car Cell Phones (2)	1.83s
+Telephones/Car_Cell_Phones	Car Cell Phones (3)	3.74s
+Telephones/Car_Cell_Phones	Car Cell Phones (4)	3.55s
+Telephones/Car_Cell_Phones	Car Cell Phones (5)	3.21s
+Telephones/Modern_Rings	Modern Rings (1)	2.19s
+Telephones/Modern_Rings	Modern Rings (2)	1.15s
+Telephones/Modern_Rings	Modern Rings (3)	1.28s
+Telephones/Modern_Rings	Modern Rings (4)	1.2s
+Telephones/Modern_Rings	Modern Rings (5)	1.57s
+Telephones/Modern_Rings	Modern Rings (6)	1.93s
+Telephones/Modern_Rings	Modern Rings (7)	2.27s
+Telephones/Modern_Rings	Modern Rings (8)	2.35s
+Telephones/Modern_Rings	Modern Rings (9)	1.25s
+Telephones/Modern_Rings	Modern Rings (10)	2.38s
+Telephones/Movement	Movement (1)	1.46s
+Telephones/Movement	Movement (2)	2.14s
+Telephones/Movement	Movement (3)	4.68s
+Telephones/Movement	Movement (4)	2.72s
+Telephones/Movement	Movement (5)	3.29s
+Telephones/Movement	Movement (6)	2.69s
+Telephones/Movement	Movement (7)	1.93s
+Telephones/Movement	Movement (8)	0.37s
+Telephones/Movement	Movement (9)	0.78s
+Telephones/Movement	Movement (10)	1.65s
+Telephones/Movement	Movement (11)	4.68s
+Telephones/Movement	Movement (12)	1.31s
+Telephones/Pagers	Pagers (1)	1.1s
+Telephones/Pagers	Pagers (2)	2.4s
+Telephones/Pagers	Pagers (3)	4.13s
+Telephones/Pagers	Pagers (4)	3.29s
+Telephones/Pagers	Pagers (5)	2.27s
+Telephones/Pay_Phones	Pay Phones (1)	1.93s
+Telephones/Pay_Phones	Pay Phones (2)	1.18s
+Telephones/Pay_Phones	Pay Phones (3)	0.68s
+Telephones/Pay_Phones	Pay Phones (4)	2.27s
+Telephones/Pay_Phones	Pay Phones (5)	1.07s
+Telephones/Pay_Phones	Pay Phones (6)	2.04s
+Telephones/Pay_Phones	Pay Phones (7)	0.94s
+Telephones/Pay_Phones	Pay Phones (8)	1.44s
+Telephones/Pay_Phones	Pay Phones (9)	4.31s
+Telephones/Pay_Phones	Pay Phones (10)	1.96s
+Telephones/Pay_Phones	Pay Phones (11)	0.86s
+Telephones/Pay_Phones	Pay Phones (12)	2.12s
+Telephones/Pay_Phones	Pay Phones (13)	2.56s
+Telephones/Phone_Beeps	Phone Beeps (1)	10.29s
+Telephones/Phone_Beeps	Phone Beeps (2)	5.59s
+Telephones/Phone_Beeps	Phone Beeps (3)	4.88s
+Telephones/Phone_Beeps	Phone Beeps (4)	4.1s
+Telephones/Phone_Beeps	Phone Beeps (5)	3.27s
+Telephones/Phone_Beeps	Phone Beeps (6)	1.23s
+Telephones/Phone_Beeps	Phone Beeps (7)	2.32s
+Telephones/Phone_Beeps	Phone Beeps (8)	1.1s
+Telephones/Phone_Beeps	Phone Beeps (9)	2.14s
+Telephones/Phone_Beeps	Phone Beeps (10)	3.45s
+Telephones/Phone_Beeps	Phone Beeps (11)	3.03s
+Telephones/Phone_Beeps	Phone Beeps (12)	1.72s
+Telephones/Phone_Beeps	Phone Beeps (13)	4.15s
+Telephones/Phone_Beeps	Phone Beeps (14)	4.73s
+Telephones/Phone_Beeps	Phone Beeps (15)	5.49s
+Telephones/Rotary_Rings	Rotary Rings (1)	4.15s
+Telephones/Rotary_Rings	Rotary Rings (2)	5.38s
+Telephones/Rotary_Rings	Rotary Rings (3)	2.01s
+Telephones/Rotary_Rings	Rotary Rings (4)	2.93s
+Telephones/Rotary_Rings	Rotary Rings (5)	2.79s
+Telephones/Rotary_Rings	Rotary Rings (6)	4.1s
+Telephones/Rotary_Rings	Rotary Rings (7)	4.75s
+Telephones/Rotary_Rings	Rotary Rings (8)	5.02s
+Telephones/Rotary_Rings	Rotary Rings (9)	4.62s
+Telephones/Rotary_Rings	Rotary Rings (10)	5.49s
+Telephones/Rotary_Rings	Rotary Rings (11)	3.89s
+Telephones/Rotary_Rings	Rotary Rings (12)	4.86s
+Telephones/Rotary_Rings	Rotary Rings (13)	3.47s
+Televisions_Shows	Televisions Shows (1)	0.44s
+Televisions_Shows	Televisions Shows (2)	5.12s
+Televisions_Shows	Televisions Shows (3)	3.58s
+Televisions_Shows	Televisions Shows (4)	3.24s
+Televisions_Shows	Televisions Shows (5)	0.81s
+Televisions_Shows	Televisions Shows (6)	2.32s
+Televisions_Shows	Televisions Shows (7)	4s
+Televisions_Shows	Televisions Shows (8)	1.57s
+Televisions_Shows	Televisions Shows (9)	4.83s
+Televisions_Shows	Televisions Shows (10)	5.17s
+Televisions_Shows	Televisions Shows (11)	3.84s
+Textile	Textile (1)	3.11s
+Textile	Textile (2)	1.72s
+Textile	Textile (3)	2.72s
+Textile	Textile (4)	0.76s
+Textile	Textile (5)	1.62s
+Textile	Textile (6)	1.25s
+Textile	Textile (7)	3.08s
+Textile	Textile (8)	4.34s
+Textile	Textile (9)	0.91s
+Textile	Textile (10)	2.46s
+Textile	Textile (11)	0.91s
+Textile	Textile (12)	2.56s
+Textile	Textile (13)	1.72s
+Textile	Textile (14)	0.39s
+Textile	Textile (15)	0.73s
+Toys_Games/Board_Games	Board Games (1)	3.5s
+Toys_Games/Board_Games	Board Games (2)	4.83s
+Toys_Games/Board_Games	Board Games (3)	3.89s
+Toys_Games/Board_Games	Board Games (4)	0.6s
+Toys_Games/Board_Games	Board Games (5)	2.35s
+Toys_Games/Board_Games	Board Games (6)	1.12s
+Toys_Games/Board_Games	Board Games (7)	1.85s
+Toys_Games/Board_Games	Board Games (8)	2.66s
+Toys_Games/Board_Games	Board Games (9)	1.54s
+Toys_Games/Board_Games	Board Games (10)	2.87s
+Toys_Games/RC_Airplane	RC Airplane (1)	2.56s
+Toys_Games/RC_Airplane	RC Airplane (2)	2.98s
+Toys_Games/RC_Airplane	RC Airplane (3)	3.06s
+Toys_Games/RC_Airplane	RC Airplane (4)	3.94s
+Toys_Games/RC_Airplane	RC Airplane (5)	6.11s
+Toys_Games/RC_Car	RC Car (1)	1.23s
+Toys_Games/RC_Car	RC Car (2)	2.12s
+Toys_Games/RC_Car	RC Car (3)	4.05s
+Toys_Games/RC_Car	RC Car (4)	1.44s
+Toys_Games/RC_Car	RC Car (5)	1.54s
+Toys_Games/RC_Car	RC Car (6)	2.46s
+Toys_Games/RC_Car	RC Car (7)	1.54s
+Toys_Games/RC_Car	RC Car (8)	2.82s
+Toys_Games/RC_Car	RC Car (9)	2.17s
+Toys_Games/RC_Car	RC Car (10)	2.82s
+Toys_Games/RC_Car	RC Car (11)	2.85s
+Toys_Games/RC_Car	RC Car (12)	4.18s
+Toys_Games/RC_Car	RC Car (13)	2.48s
+Toys_Games/RC_Car	RC Car (14)	3.37s
+Toys_Games/Toys	Toys (1)	3.4s
+Toys_Games/Toys	Toys (2)	2.12s
+Toys_Games/Toys	Toys (3)	4.08s
+Toys_Games/Toys	Toys (4)	2.98s
+Toys_Games/Toys	Toys (5)	1.44s
+Toys_Games/Toys	Toys (6)	7.08s
+Toys_Games/Toys	Toys (7)	1.62s
+Toys_Games/Toys	Toys (8)	3.06s
+Toys_Games/Toys	Toys (9)	5.25s
+Toys_Games/Toys	Toys (10)	4.02s
+Toys_Games/Toys	Toys (11)	3s
+Toys_Games/Toys	Toys (12)	4.78s
+Toys_Games/Toys	Toys (13)	3.45s
+Toys_Games/Toys	Toys (14)	6.37s
+Toys_Games/Toys	Toys (15)	2.46s
+Turnstiles	Turnstiles (1)	1.54s
+Turnstiles	Turnstiles (2)	1.46s
+Turnstiles	Turnstiles (3)	1.1s
+Turnstiles	Turnstiles (4)	1.67s
+Turnstiles	Turnstiles (5)	1.1s
+Turnstiles	Turnstiles (6)	1.25s
+Turnstiles	Turnstiles (7)	1.12s
+Turnstiles	Turnstiles (8)	2.32s
+Turnstiles	Turnstiles (9)	2.46s
+Various	Object On Table 2x (1)	0.85s
+Various	Various (1)	1.72s
+Various	Various (2)	1.44s
+Various	Various (3)	4.75s
+Various	Various (4)	1.38s
+Various	Various (5)	1.83s
+Various	Various (6)	0.57s
+Various	Various (7)	0.68s
+Various	Various (8)	1.62s
+Various	Various (9)	3.92s
+Various	Various (10)	1.28s
+Various	Various (11)	1.31s
+Various	Various (12)	0.91s
+Various	Various (13)	3.5s
+Various	Various (14)	2.04s
+Vehicles/Bikes	Bikes (1)	1.23s
+Vehicles/Bikes	Bikes (2)	1.72s
+Vehicles/Bikes	Bikes (3)	1.02s
+Vehicles/Bikes	Bikes (4)	0.73s
+Vehicles/Bikes	Bikes (5)	1.83s
+Vehicles/Bikes	Bikes (6)	1.2s
+Vehicles/Buses	Bus Drive Past (1)	2.15s
+Vehicles/Buses	Buses (1)	4.99s
+Vehicles/Buses	Buses (2)	3.81s
+Vehicles/Buses	Buses (3)	3.34s
+Vehicles/Buses	Buses (4)	4.13s
+Vehicles/Buses	Buses (5)	4.55s
+Vehicles/Buses	Buses (6)	4.44s
+Vehicles/Buses	Buses (7)	4.73s
+Vehicles/Buses	Buses (8)	2.77s
+Vehicles/Buses	Buses (9)	4.18s
+Vehicles/Buses	Buses (10)	4.49s
+Vehicles/Buses	Buses (11)	4.55s
+Vehicles/Buses	Buses (12)	4.7s
+Vehicles/Buses	Buses (13)	4.34s
+Vehicles/Buses	Buses (14)	4.78s
+Vehicles/Buses	Buses (15)	4.52s
+Vehicles/Cars	Car Accelerate (1)	2.15s
+Vehicles/Cars	Car Accelerate (2)	2.07s
+Vehicles/Cars	Car Accelerate Noisy (1)	2.15s
+Vehicles/Cars	Car Click Seatbelt (1)	1.14s
+Vehicles/Cars	Car Click Seatbelt (2)	1.61s
+Vehicles/Cars	Car Close Door 1x (1)	0.96s
+Vehicles/Cars	Car Close Door 1x (2)	1.1s
+Vehicles/Cars	Car Drive Past (1)	2.15s
+Vehicles/Cars	Car Into Driveway (1)	5.49s
+Vehicles/Cars	Car Into Driveway Fast (1)	5.96s
+Vehicles/Cars	Car Slam Door 1x (1)	1.07s
+Vehicles/Cars	Car Undo Seatbelt (1)	1.89s
+Vehicles/Cars	Car Undo Seatbelt (2)	1.75s
+Vehicles/Cars	Cars (1)	4.39s
+Vehicles/Cars	Cars (2)	2.93s
+Vehicles/Cars	Cars (3)	1.02s
+Vehicles/Cars	Cars (4)	4.23s
+Vehicles/Cars	Cars (5)	2.19s
+Vehicles/Cars	Cars (6)	4.88s
+Vehicles/Cars	Cars (7)	4.08s
+Vehicles/Cars	Cars (8)	4.96s
+Vehicles/Cars	Cars (9)	3.42s
+Vehicles/Cars	Cars (10)	5.07s
+Vehicles/Cars	Cars (11)	4.44s
+Vehicles/Cars	Cars (12)	4.68s
+Vehicles/Cars	Cars (13)	1.83s
+Vehicles/Cars	Cars (14)	3.74s
+Vehicles/Electric	Electric (1)	3.11s
+Vehicles/Electric	Electric (2)	4.39s
+Vehicles/Electric	Electric (3)	4.68s
+Vehicles/Electric	Electric (4)	4.49s
+Vehicles/Electric	Electric (5)	4.88s
+Vehicles/Futuristic	Futuristic (1)	3.21s
+Vehicles/Futuristic	Futuristic (2)	4.86s
+Vehicles/Futuristic	Futuristic (3)	2.27s
+Vehicles/Futuristic	Futuristic (4)	3.06s
+Vehicles/Futuristic	Futuristic (5)	3.76s
+Vehicles/Futuristic	Futuristic (6)	1.62s
+Vehicles/Futuristic	Futuristic (7)	2.38s
+Vehicles/Futuristic	Futuristic (8)	4.55s
+Vehicles/Futuristic	Futuristic (9)	4.13s
+Vehicles/Futuristic	Futuristic (10)	2.79s
+Vehicles/Futuristic	Futuristic (11)	2.04s
+Vehicles/Futuristic	Futuristic (12)	2.25s
+Vehicles/Futuristic	Futuristic (13)	4.26s
+Vehicles/Futuristic	Futuristic (14)	4.44s
+Vehicles/Futuristic	Futuristic (15)	4.55s
+Vehicles/Futuristic	Scifi Engines On (1)	1.97s
+Vehicles/Futuristic	Scifi Engines On (2)	3.01s
+Vehicles/Futuristic	Scifi Engines On Large (1)	4.31s
+Vehicles/Futuristic	Scifi Engines On Short Burst (1)	2.36s
+Vehicles/Futuristic	Scifi Sheilds Up (1)	2.87s
+Vehicles/Futuristic	Scifi Small Whoosh Flyby (1)	2.36s
+Vehicles/Futuristic	Scifi Small Zoom Flyby (1)	1.86s
+Vehicles/Futuristic	Scifi Spaceship Flyby (1)	4.09s
+Vehicles/Futuristic	Scifi Spaceship Flyby (2)	2.47s
+Vehicles/Horns_Honks	Car Honk 1x (1)	1.1s
+Vehicles/Horns_Honks	Car Honk 2x (1)	1.64s
+Vehicles/Horns_Honks	Car Honk 3x (1)	1.61s
+Vehicles/Horns_Honks	Car Honk 3x (2)	1.57s
+Vehicles/Horns_Honks	Car Honk Long 1x (1)	2.15s
+Vehicles/Horns_Honks	Car Honk Long 1x (2)	1.97s
+Vehicles/Horns_Honks	Horns (1)	1.49s
+Vehicles/Horns_Honks	Horns (2)	1.59s
+Vehicles/Horns_Honks	Horns (3)	1.99s
+Vehicles/Horns_Honks	Horns (4)	2.46s
+Vehicles/Horns_Honks	Horns (5)	2.3s
+Vehicles/Horns_Honks	Horns (6)	2.32s
+Vehicles/Horns_Honks	Horns (7)	3.08s
+Vehicles/Horns_Honks	Horns (8)	3.19s
+Vehicles/Horns_Honks	Horns (9)	1.75s
+Vehicles/Horns_Honks	Horns (10)	5.04s
+Vehicles/Horns_Honks	Horns (11)	2.38s
+Vehicles/Horns_Honks	Horns (12)	3.53s
+Vehicles/Horns_Honks	Horns (13)	3.97s
+Vehicles/Horns_Honks	Horns (14)	0.71s
+Vehicles/Motorcycles	Motorcycle Accelerate (1)	2.11s
+Vehicles/Motorcycles	Motorcycle Accelerate (2)	1.75s
+Vehicles/Motorcycles	Motorcycle Engine Idle (1)	2.07s
+Vehicles/Motorcycles	Motorcycle Engine Rev (1)	1.64s
+Vehicles/Motorcycles	Motorcycle Engine Rev (2)	2.15s
+Vehicles/Motorcycles	Motorcycles (1)	4.86s
+Vehicles/Motorcycles	Motorcycles (2)	3.13s
+Vehicles/Motorcycles	Motorcycles (3)	3.29s
+Vehicles/Motorcycles	Motorcycles (4)	4.57s
+Vehicles/Motorcycles	Motorcycles (5)	4.34s
+Vehicles/Motorcycles	Motorcycles (6)	4.96s
+Vehicles/Motorcycles	Motorcycles (7)	3.79s
+Vehicles/Motorcycles	Motorcycles (8)	4.6s
+Vehicles/Motorcycles	Motorcycles (9)	1.36s
+Vehicles/Motorcycles	Motorcycles (10)	4.44s
+Vehicles/Motorcycles	Motorcycles (11)	4.57s
+Vehicles/Skids_Tires	Skids Tires (1)	2.17s
+Vehicles/Skids_Tires	Skids Tires (2)	0.89s
+Vehicles/Skids_Tires	Skids Tires (3)	2.01s
+Vehicles/Skids_Tires	Skids Tires (4)	2.01s
+Vehicles/Skids_Tires	Skids Tires (5)	2.77s
+Vehicles/Skids_Tires	Skids Tires (6)	4.65s
+Vehicles/Skids_Tires	Skids Tires (7)	1.88s
+Vehicles/Skids_Tires	Skids Tires (8)	2.43s
+Vehicles/Skids_Tires	Skids Tires (9)	2.66s
+Vehicles/Skids_Tires	Skids Tires (10)	2.79s
+Vehicles/Skids_Tires	Skids Tires (11)	3.47s
+Vehicles/Tractors	Tractors (1)	4.52s
+Vehicles/Tractors	Tractors (2)	4.55s
+Vehicles/Tractors	Tractors (3)	4.55s
+Vehicles/Tractors	Tractors (4)	2.32s
+Vehicles/Tractors	Tractors (5)	4.62s
+Vehicles/Tractors	Tractors (6)	4.99s
+Vehicles/Tractors	Tractors (7)	5.46s
+Vehicles/Tractors	Tractors (8)	4.15s
+Vehicles/Tractors	Tractors (9)	4.94s
+Vehicles/Tractors	Tractors (10)	5.15s
+Vehicles/Trains	Subway Leaving (1)	10.25s
+Vehicles/Trains	Subway Passing (1)	8.37s
+Vehicles/Trains	Subway Stopping (1)	8.37s
+Vehicles/Trains	Train (1)	2.77s
+Vehicles/Trains	Train (2)	4.73s
+Vehicles/Trains	Train (3)	4.57s
+Vehicles/Trains	Train (4)	4.65s
+Vehicles/Trains	Train (5)	4.44s
+Vehicles/Trains	Train (6)	4.7s
+Vehicles/Trains	Train (7)	4.99s
+Vehicles/Trains	Train (8)	4.86s
+Vehicles/Trains	Train (9)	3.13s
+Vehicles/Trains	Train (10)	2.87s
+Vehicles/Trucks_Vans	Trucks Vans (1)	3.34s
+Vehicles/Trucks_Vans	Trucks Vans (2)	4.23s
+Vehicles/Trucks_Vans	Trucks Vans (3)	4.34s
+Vehicles/Trucks_Vans	Trucks Vans (4)	4.39s
+Vehicles/Trucks_Vans	Trucks Vans (5)	3.32s
+Vehicles/Trucks_Vans	Trucks Vans (6)	4.78s
+Vehicles/Trucks_Vans	Trucks Vans (7)	4.96s
+Vehicles/Trucks_Vans	Trucks Vans (8)	4.86s
+Vehicles/Trucks_Vans	Trucks Vans (9)	5.02s
+Vehicles/Trucks_Vans	Trucks Vans (10)	4.41s
+Vehicles/Trucks_Vans	Trucks Vans (11)	4.86s
+Vehicles/Trucks_Vans	Trucks Vans (12)	4.68s
+Vehicles/Trucks_Vans	Trucks Vans (13)	4.73s
+Vehicles/Trucks_Vans	Trucks Vans (14)	4.55s
+Video_Tunes	Video Tunes (1)	11.18s
+Video_Tunes	Video Tunes (2)	2.87s
+Video_Tunes	Video Tunes (3)	7.05s
+Video_Tunes	Video Tunes (4)	5.04s
+Video_Tunes	Video Tunes (5)	4.02s
+Video_Tunes	Video Tunes (6)	7.05s
+Video_Tunes	Video Tunes (7)	7.65s
+Video_Tunes	Video Tunes (8)	4.78s
+Video_Tunes	Video Tunes (9)	6.27s
+Video_Tunes	Video Tunes (10)	2.72s
+Voices/Baby	Baby (1)	1.31s
+Voices/Baby	Baby (2)	1.46s
+Voices/Baby	Baby (3)	3.58s
+Voices/Baby	Baby (4)	0.71s
+Voices/Baby	Baby (5)	4.68s
+Voices/Baby	Baby (6)	1.99s
+Voices/Baby	Baby (7)	1.88s
+Voices/Baby	Baby (8)	2.51s
+Voices/Baby	Baby (9)	2.35s
+Voices/Baby	Baby (10)	2.25s
+Voices/Baby	Baby (11)	0.94s
+Voices/Baby	Baby (12)	5.28s
+Voices/Baby	Baby (13)	4.75s
+Voices/Baby	Baby Big Cry (1)	2.11s
+Voices/Baby	Baby Cry (1)	2.33s
+Voices/Baby	Baby Cry (2)	2.07s
+Voices/Baby	Baby Fuss (1)	1.46s
+Voices/Chorus	Chorus (1)	6.87s
+Voices/Chorus	Chorus (2)	7.16s
+Voices/Chorus	Chorus (3)	4.31s
+Voices/Chorus	Chorus (4)	4.96s
+Voices/Chorus	Chorus (5)	5.2s
+Voices/Chorus	Chorus (6)	6.16s
+Voices/Chorus	Chorus (7)	6.03s
+Voices/Chorus	Chorus (8)	8.39s
+Voices/Chorus	Chorus (9)	4.05s
+Voices/Chorus	Chorus (10)	6.79s
+Voices/Chorus	Chorus (11)	5.85s
+Voices/Chorus	Chorus (12)	4.18s
+Voices/Chorus	Chorus (13)	2.09s
+Voices/Chorus	Chorus (14)	6.03s
+Voices/Chorus	Chorus (15)	5.59s
+Voices/Crowds	Crowd Applause (1)	2.15s
+Voices/Crowds	Crowd Applause (2)	2.11s
+Voices/Crowds	Crowd Applause (3)	2.11s
+Voices/Crowds	Crowd Applause (4)	2.11s
+Voices/Crowds	Crowd Applause (5)	2.15s
+Voices/Crowds	Crowd Boo (1)	2.04s
+Voices/Crowds	Crowd Boo (2)	2.15s
+Voices/Crowds	Crowd Boo (3)	2.07s
+Voices/Crowds	Crowd Cheer Med (1)	5.28s
+Voices/Crowds	Crowd Excited Cheer (1)	4.23s
+Voices/Crowds	Crowds (1)	3.74s
+Voices/Crowds	Crowds (2)	6.74s
+Voices/Crowds	Crowds (3)	6.77s
+Voices/Crowds	Crowds (4)	6.71s
+Voices/Crowds	Crowds (5)	5.8s
+Voices/Crowds	Crowds (6)	5.3s
+Voices/Crowds	Crowds (7)	4.73s
+Voices/Crowds	Crowds (8)	3.92s
+Voices/Crowds	Crowds (9)	7.34s
+Voices/Crowds	Crowds (10)	6.11s
+Voices/Crowds	Crowds (11)	7.63s
+Voices/Crowds	Crowds (12)	7.08s
+Voices/Crowds	Large Crowd Cheer (1)	2.11s
+Voices/Crowds	Large Crowd Cheer (2)	2.04s
+Voices/Crowds	Large Crowd Cheer (3)	2.11s
+Voices/Human	Clear Throat Ahem (1)	1.5s
+Voices/Human	Cough (1)	1.82s
+Voices/Human	Cough (2)	1.46s
+Voices/Human	Cough (3)	1.86s
+Voices/Human	Cough (4)	1.46s
+Voices/Human	Drinking Slurp (1)	2.25s
+Voices/Human	Human (1)	1.12s
+Voices/Human	Human (2)	1.75s
+Voices/Human	Human (3)	2.56s
+Voices/Human	Human (4)	3.63s
+Voices/Human	Human (5)	1.83s
+Voices/Human	Human (6)	3.45s
+Voices/Human	Human (7)	2.19s
+Voices/Human	Human (8)	4.13s
+Voices/Human	Human (9)	3.16s
+Voices/Human	Human (10)	4.26s
+Voices/Human	Human (11)	5.28s
+Voices/Human	Human (12)	1.7s
+Voices/Human	Laughter (1)	1.93s
+Voices/Human	Laughter Giggle (1)	1.21s
+Voices/Human	Laughter Giggle (2)	1.43s
+Voices/Human	Sneeze (1)	0.71s
+Voices/Human	Sneeze (2)	0.74s
+Water/Bow_Wash	Bow Wash (1)	5.69s
+Water/Bow_Wash	Bow Wash (2)	3.81s
+Water/Bow_Wash	Bow Wash (3)	4.7s
+Water/Bow_Wash	Bow Wash (4)	4.65s
+Water/Bow_Wash	Bow Wash (5)	5.49s
+Water/Bow_Wash	Bow Wash (6)	4.55s
+Water/Bow_Wash	Bow Wash (7)	5.51s
+Water/Bow_Wash	Bow Wash (8)	6.09s
+Water/Bow_Wash	Bow Wash (9)	4.86s
+Water/Bow_Wash	Bow Wash (10)	3.84s
+Water/Bow_Wash	Bow Wash (11)	6.32s
+Water/Dripping	Dripping (1)	3.76s
+Water/Dripping	Dripping (2)	4.94s
+Water/Dripping	Dripping (3)	4.83s
+Water/Dripping	Dripping (4)	5.07s
+Water/Dripping	Dripping (5)	5.07s
+Water/Dripping	Dripping (6)	4.99s
+Water/Dripping	Dripping (7)	5.93s
+Water/Dripping	Water Dripping (1)	4.13s
+Water/Dripping	Water Droplets (1)	4.16s
+Water/Dripping	Water Droplets (2)	4.85s
+Water/Nature	Nature (1)	6.97s
+Water/Nature	Nature (2)	5.49s
+Water/Nature	Nature (3)	2.72s
+Water/Nature	Nature (4)	5.15s
+Water/Nature	Nature (5)	3.74s
+Water/Nature	Nature (6)	5.9s
+Water/Nature	Nature (7)	5.04s
+Water/Nature	Nature (8)	7.42s
+Water/Nature	Nature (9)	6.74s
+Water/Nature	Nature (10)	3.71s
+Water/Nature	Nature (11)	1.96s
+Water/Ocean	Ocean Wave 1x (1)	2.54s
+Water/Ocean	Ocean Wave 1x (2)	2.43s
+Water/Ocean	Ocean Wave On Rocks 1x (1)	1.53s
+Water/Ocean	Ocean Wave On Rocks 1x (2)	1.82s
+Water/Ocean	Ocean Wave Surf (1)	4.77s
+Water/Splash_Water	Splash Water (1)	3.92s
+Water/Splash_Water	Splash Water (2)	5.07s
+Water/Splash_Water	Splash Water (3)	4.65s
+Water/Splash_Water	Splash Water (4)	4.88s
+Water/Splash_Water	Splash Water (5)	3.71s
+Water/Splash_Water	Splash Water (6)	4.99s
+Water/Splash_Water	Splash Water (7)	3.63s
+Water/Splash_Water	Splash Water (8)	2.87s
+Water/Splashes_Sprays	Splashes Sprays (1)	4.23s
+Water/Splashes_Sprays	Splashes Sprays (2)	5.59s
+Water/Splashes_Sprays	Splashes Sprays (3)	4.18s
+Water/Splashes_Sprays	Splashes Sprays (4)	2.12s
+Water/Splashes_Sprays	Splashes Sprays (5)	1.85s
+Water/Splashes_Sprays	Splashes Sprays (6)	2.22s
+Water/Splashes_Sprays	Splashes Sprays (7)	1.31s
+Water/Splashes_Sprays	Splashes Sprays (8)	2.46s
+Water/Splashes_Sprays	Splashes Sprays (9)	1.12s
+Water/Splashes_Sprays	Splashes Sprays (10)	1.38s
+Water/Splashes_Sprays	Splashes Sprays (11)	2.43s
+Water/Splashes_Sprays	Splashes Sprays (12)	2.14s
+Water/Splashes_Sprays	Splashes Sprays (13)	1.72s
+Water/Splashes_Sprays	Splashes Sprays (14)	0.81s
+Water/Underwater	Underwater (1)	3.03s
+Water/Underwater	Underwater (2)	2.85s
+Water/Underwater	Underwater (3)	1.02s
+Water/Underwater	Underwater (4)	2.85s
+Water/Underwater	Underwater (5)	5.07s
+Water/Underwater	Underwater (6)	4.13s
+Water/Underwater	Underwater (7)	2.74s
+Water/Underwater	Underwater (8)	1.62s
+Weather/Lightning Strike	Lightning Strike (1)	2.15s
+Weather/Lightning Strike	Lightning Strike (2)	2.11s
+Weather/Rain	Rain (1)	5.24s
+Weather/Rain	Rain (1)	4.88s
+Weather/Rain	Rain (2)	5.13s
+Weather/Rain	Rain (2)	5.38s
+Weather/Rain	Rain (3)	7.81s
+Weather/Rain	Rain (3)	4.16s
+Weather/Rain	Rain (4)	6.43s
+Weather/Rain	Rain (5)	6.53s
+Weather/Rain	Rain (6)	7.05s
+Weather/Rain	Rain (7)	5.96s
+Weather/Rain	Rain (8)	7.26s
+Weather/Rain	Rain (9)	5.56s
+Weather/Rain	Rain (10)	6.95s
+Weather/Rain	Rain On Roof (1)	2.15s
+Weather/Rain	Rain Thunder (1)	4.7s
+Weather/Thunder	Thunder (1)	6.43s
+Weather/Thunder	Thunder (2)	3.19s
+Weather/Thunder	Thunder (3)	6.11s
+Weather/Thunder	Thunder (4)	3.97s
+Weather/Thunder	Thunder (5)	4.78s
+Weather/Thunder	Thunder (6)	4.18s
+Weather/Thunder	Thunder (7)	4.57s
+Weather/Thunder	Thunder (8)	5.43s
+Weather/Thunder	Thunder (9)	4.91s
+Weather/Thunder	Thunder (10)	6.01s
+Weather/Thunder	Thunder (11)	6.63s
+Weather/Thunder	Thunder (12)	6.43s
+Weather/Thunder	Thunder (13)	4.18s
+Weather/Thunder	Thunder Rumble (1)	4.16s
+Weather/Thunder	Thunder Rumble (2)	6.07s
+Weather/Wind	Strong Wind Desert (1)	4.16s
+Weather/Wind	Strong Wind Whistling (1)	3.77s
+Weather/Wind	Strong Wind Whistling (2)	3.12s
+Weather/Wind	Strong Wind Whistling (3)	5.82s
+Weather/Wind	Wind (1)	5.72s
+Weather/Wind	Wind (2)	6.16s
+Weather/Wind	Wind (3)	5.96s
+Weather/Wind	Wind (4)	8.72s
+Weather/Wind	Wind (5)	7.37s
+Weather/Wind	Wind (6)	5.75s
+Weather/Wind	Wind (7)	6.16s
+Weather/Wind	Wind (8)	5.46s
+Weather/Wind	Wind (9)	6.66s
+Weather/Wind	Wind (10)	7.37s
+Weather/Wind	Wind Strong Gusting (1)	2.11s
+Weather/Wind	Wind Whistling Desert (1)	2.15s
+Wood/Breaks	Breaks (1)	1.59s
+Wood/Breaks	Breaks (2)	0.78s
+Wood/Breaks	Breaks (3)	0.29s
+Wood/Breaks	Breaks (4)	0.6s
+Wood/Breaks	Breaks (5)	1.18s
+Wood/Breaks	Breaks (6)	0.89s
+Wood/Breaks	Breaks (7)	0.81s
+Wood/Breaks	Breaks (8)	0.55s
+Wood/Breaks	Breaks (9)	0.5s
+Wood/Breaks	Breaks (10)	0.89s
+Wood/Breaks	Breaks (11)	1.31s
+Wood/Breaks	Breaks (12)	1.18s
+Wood/Breaks	Breaks (13)	0.65s
+Wood/Hits	Hits (1)	0.57s
+Wood/Hits	Hits (2)	0.94s
+Wood/Hits	Hits (3)	0.91s
+Wood/Hits	Hits (4)	0.57s
+Wood/Hits	Hits (5)	0.44s
+Wood/Hits	Hits (6)	1.12s
+Wood/Hits	Hits (7)	0.37s
+Wood/Hits	Hits (8)	0.34s
+Wood/Hits	Hits (9)	0.31s
+Wood/Hits	Hits (10)	0.34s
+Wood/Hits	Hits (11)	0.37s
+Wood/Hits	Hits (12)	0.5s
+Wood/Moves	Moves (1)	1.2s
+Wood/Moves	Moves (2)	2.64s
+Wood/Moves	Moves (3)	3.06s
+Wood/Moves	Moves (4)	0.99s
+Wood/Moves	Moves (5)	1.75s
+Wood/Moves	Moves (6)	4.57s
+Wood/Moves	Moves (7)	3.68s
+Wood/Moves	Moves (8)	1.59s
+Wood/Moves	Moves (9)	1.04s
+Wood/Moves	Moves (10)	1.67s
+Wood/Squeaks	Squeaks (1)	2.01s
+Wood/Squeaks	Squeaks (2)	1.59s
+Wood/Squeaks	Squeaks (3)	3.32s
+Wood/Squeaks	Squeaks (4)	2.01s
+Wood/Squeaks	Squeaks (5)	1.83s
+Wood/Squeaks	Squeaks (6)	3.08s
+Wood/Squeaks	Squeaks (7)	2.56s
+Wood/Squeaks	Squeaks (8)	1.88s
+Wood/Squeaks	Squeaks (9)	1.02s
+Wood/Squeaks	Squeaks (10)	1.8s
+Wood/Squeaks	Squeaks (11)	1.02s
+Wood/Squeaks	Squeaks (12)	0.57s
+Wood/Squeaks	Squeaks (13)	2.59s

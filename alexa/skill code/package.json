@@ -1,0 +1,25 @@
+{
+  "name"           : "gy64x",
+  "version"        : "0.0.0-BLM",
+  "description"    : "GY-64X AI Gamemaster aka Fools Paradise",
+  "main"           : "index.js",
+  "scripts"        :
+  {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author"          : "Aaron Ward <queen@geeq.com>",
+  "license"         : "GPL-3.0-or-later",
+  "files":
+  [
+    "descriptions.js",
+    "interjections.js",
+    "voices.js",
+    "sfx.js"
+  ],
+  "dependencies"    :
+  {
+    "ask-sdk-core"  : "^2.7.0",
+    "ask-sdk-model" : "^1.19.0",
+    "aws-sdk"       : "^2.326.0"
+  }
+}

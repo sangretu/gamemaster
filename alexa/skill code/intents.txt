@@ -1,0 +1,13 @@
+devnull
+admin_console
+admin_change_voice
+look
+listen
+admin_interjections
+
+LaunchRequestHandler        -> lobby (it's a place)
+HelpIntentHandler           -> help (it's an action)
+CancelAndStopIntentHandler  -> oubliette (it's a place)
+FallbackIntentHandler       -> err_restate (didn't understand)
+IntentReflectorHandler      -> err_notfound (no handler for intent)
+SessionEndedRequestHandler  -> sys_fatal (connection to user is severed)
